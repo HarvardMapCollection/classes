@@ -41,14 +41,14 @@
 
 }
 
-
-.wrapper{
-    width: 1060px;
+.main-content{
+  color: #5e0318;
 }
 
-section{
-    width:630px ;
+.project-name{
+  color: #F3F3F3;
 }
+
 
 
 html { height: 100%; }
@@ -155,12 +155,5 @@ a:hover {
     line-height: 29px;
   }
 
-  .wrapper{
-    all: initial;
-  }
-
-  section{
-    all: initial;
-  }
 
 }
