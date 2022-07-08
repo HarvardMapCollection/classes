@@ -41,16 +41,38 @@
 
 }
 
-.main-content h1, h2, h3, h4, h5, h6 {
+.main-content{
+  color:  #414141;
+
+}
+
+.main-content h1{
+  color: #5e0318;
+  text-align: center;
+}
+
+.main-content h2{
+  color: #5e0318;
+}
+
+.main-content h3{
+  color: #5e0318;
+}
+
+.main-content h4{
+  color: #5e0318;
+}
+
+.main-content h5{
+  color: #5e0318;
+}
+
+.main-content h6{
   color: #5e0318;
 }
 
 .project-name{
   color: #F3F3F3;
-}
-
-.main-content h1{
-  text-align: center;
 }
 
 html { height: 100%; }
