@@ -43,32 +43,60 @@
 
 .main-content{
   color:  #414141;
-
+  font-family: 'loraregular';
+  line-height: 32px;
+  font-size: 19px;
 }
 
 .main-content h1{
+  font-family: 'truenobold';
   color: #5e0318;
   text-align: center;
+  line-height: 74px;
+  font-size: 60px;
+  margin:0;
+  margin-bottom: 1.5rem;
 }
 
 .main-content h2{
+  font-family: 'truenobold';
   color: #5e0318;
+  font-size: 32px;
+  text-transform: uppercase;
+  line-height: 42px;
+  letter-spacing: 2.4px;
 }
 
 .main-content h3{
   color: #5e0318;
+  font-size: 20px;
+  text-transform: uppercase;
+  line-height: 30px;
+  letter-spacing: 1.5px;
+  font-family: 'truenobold';
 }
 
 .main-content h4{
+  font-family: 'truenobold';
   color: #5e0318;
+  font-size: 20px;
+  text-transform: uppercase;
+  line-height: 30px;
+  letter-spacing: 2.14px;
 }
 
 .main-content h5{
   color: #5e0318;
+  font-family: 'truenosemibold';
+  font-size: 19px;
+  line-height: 29px;
 }
 
 .main-content h6{
   color: #5e0318;
+  font-family: 'truenosemibold';
+  font-size: 16px;
+  line-height: 28px;
 }
 
 .project-name{
