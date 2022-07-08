@@ -43,6 +43,9 @@
 
 .page-header{
   background: url('https://ids.lib.harvard.edu/ids/iiif/45981159//4723,2831,1055,528/800,/0/default.jpg');
+  color: #F3F3F3;
+  text-shadow: 2px 2px 4px #000000;
+
 }
 
 .main-content{
@@ -101,10 +104,6 @@
   font-family: 'truenosemibold';
   font-size: 16px;
   line-height: 28px;
-}
-
-.project-name{
-  color: #F3F3F3;
 }
 
 html { height: 100%; }
