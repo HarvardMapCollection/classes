@@ -52,6 +52,3 @@
 ![Screenshot from Harvard online library catalog](media/climate-reactions.png)
 *Record from  [Harvard Map Collection card catalog](https://iiif.lib.harvard.edu/manifests/view/drs:45555303$402i).* 
 
-## Contact
-
-- maps@harvard.edu
