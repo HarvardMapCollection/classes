@@ -31,5 +31,5 @@ _Map created from [the PointsUnknown tutorial series](https://pointsunknown.nyc/
 8. Now, in order to make a map, you need the shape data. In the left-hand menu, click `Geodata`. Which file would you download?
 9. What are your next steps? How would you combine these two datasets together, in order to create a map?
 10. Next steps:
-    - This [tutorial series](https://harvardmapcollection.github.io/tutorials/census/census2agol/) demos how to prepare this data for mapmaking.
+    - This [tutorial series](https://harvardmapcollection.github.io/tutorials/census/steps/) demos how to prepare this data for mapmaking.
     - For one-on-one project consultations, please email [belle_lipton@harvard.edu](mailto:belle_lipton@harvard.edu)
