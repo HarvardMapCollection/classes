@@ -17,3 +17,5 @@
 
 ![Comparison of 1890 atlas to today](media/swipe.png)
 *[ArcGIS Map](https://harvard-cga.maps.arcgis.com/apps/webappviewer/index.html?id=4f084606c3f64df8a32ce2ad938a43f6) comparing 1890 atlas to today.* 
+
+![Screenshot of the 1880 census microfiche showing how it is from the National Archives](media/2.png)
