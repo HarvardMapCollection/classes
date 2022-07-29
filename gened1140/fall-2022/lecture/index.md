@@ -28,17 +28,17 @@
 *[Understanding the QGIS Interface](https://cartinal.leventhalmap.org/guides/get-started-qgis/interface.html#menu-bar).* 
 
 
-![](media/new-projects.gif)
+![Screen recording of opening a new project in QGIS](media/new-projects.gif)
 
-![](media/basemap.gif)
+![Screen recording of adding a basemap to a QGIS document](media/basemap.gif)
 
-![](media/create-layer.gif)
+![Screen recording of creating a new layer in QGIS](media/create-layer.gif)
 
-![](media/add-points.gif)
+![Screen recording of adding points to a new layer in QGIS](media/add-points.gif)
 
-![](media/attribute-table.gif)
+![Screen recording of viewing the point layer's attribute table in QGIS](media/attribute-table.gif)
 
-![](media/change-symbols.gif)
+![Screen recording of changing the symbology of the points in QGIS from smaller to bigger and red](media/change-symbols.gif)
 
-![UPLOAD 2 CARTO](media/upload-carto.gif)
+![Screen recording of panning around a Carto map and opening one of the point's popup](media/upload-carto.gif)
 *[Share datasets interactively using tools like Carto.](https://harvard.carto.com/u/bellegis/builder/902823ad-f46c-40f7-9a0a-19755efe1d38).* 
