@@ -21,3 +21,8 @@
 ![Screenshot of the 1880 census microfiche showing how it is from the National Archives](media/2.png)
 
 ![Screenshot of the 1890 atlas of Boston showing how it is from the Boston Public Library](media/3.png)
+
+# Add final result putting together!!!!!!!!
+
+![screenshot labelleing the QGIS interface components](media/qgis-labeled.gif)
+*[Understanding the QGIS Interface](https://cartinal.leventhalmap.org/guides/get-started-qgis/interface.html#menu-bar).* 
