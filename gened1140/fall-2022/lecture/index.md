@@ -32,18 +32,23 @@
 
 
 ![Screen recording of opening a new project in QGIS](media/new-projects.gif)
-*The 1880 census microfiche is held at the National Archives.* 
+*Opening a new project in QGIS.* 
 
 
 ![Screen recording of adding a basemap to a QGIS document](media/basemap.gif)
+*Adding a basemap in QGIS for reference.* 
 
 ![Screen recording of creating a new layer in QGIS](media/create-layer.gif)
+*Creating custom GIS datasets in QGIS.* 
 
 ![Screen recording of adding points to a new layer in QGIS](media/add-points.gif)
+*Adding records to the newly created dataset in QGIS.* 
 
 ![Screen recording of viewing the point layer's attribute table in QGIS](media/attribute-table.gif)
+*Inspecting the data table (or **attribute table**) in QGIS.* 
 
 ![Screen recording of changing the symbology of the points in QGIS from smaller to bigger and red](media/change-symbols.gif)
+*Changing the point symbology in QGIS.* 
 
 ![Screen recording of panning around a Carto map and opening one of the point's popup](media/upload-carto.gif)
 *[Sharing datasets interactively with browser mapping tools.](https://harvard.carto.com/u/bellegis/builder/902823ad-f46c-40f7-9a0a-19755efe1d38).* 
