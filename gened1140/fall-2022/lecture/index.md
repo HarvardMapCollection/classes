@@ -40,5 +40,5 @@
 
 ![](media/change-symbols.gif)
 
-![UPLOAD 2 CARTO](media/upload-carto)
-*[Share datasets interactiely using tools like Carto.](https://harvard.carto.com/u/bellegis/builder/902823ad-f46c-40f7-9a0a-19755efe1d38).* 
+![UPLOAD 2 CARTO](media/upload-carto.gif)
+*[Share datasets interactively using tools like Carto.](https://harvard.carto.com/u/bellegis/builder/902823ad-f46c-40f7-9a0a-19755efe1d38).* 
