@@ -22,7 +22,23 @@
 
 ![Screenshot of the 1890 atlas of Boston showing how it is from the Boston Public Library](media/3.png)
 
-# Add final result putting together!!!!!!!!
+![Picture of the two datasets brought together, based on location.](media/4.png)
 
 ![screenshot labelleing the QGIS interface components](media/qgis-labeled.gif)
 *[Understanding the QGIS Interface](https://cartinal.leventhalmap.org/guides/get-started-qgis/interface.html#menu-bar).* 
+
+
+![](media/new-projects.gif)
+
+![](media/basemap.gif)
+
+![](media/create-layer.gif)
+
+![](media/add-points.gif)
+
+![](media/attribute-table.gif)
+
+![](media/change-symbols.gif)
+
+![UPLOAD 2 CARTO](media/upload-carto)
+*[Share datasets interactiely using tools like Carto.](https://harvard.carto.com/u/bellegis/builder/902823ad-f46c-40f7-9a0a-19755efe1d38).* 
