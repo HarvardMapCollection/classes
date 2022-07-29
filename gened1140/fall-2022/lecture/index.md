@@ -52,3 +52,6 @@
 
 ![Screen recording of panning around a Carto map and opening one of the point's popup](media/upload-carto.gif)
 *[Sharing datasets interactively with browser mapping tools.](https://harvard.carto.com/u/bellegis/builder/902823ad-f46c-40f7-9a0a-19755efe1d38).* 
+
+![Screenshot of the Harvard Map Collection tutorials page](media/5.png)
+*[Harvard Map Collection tutorials](https://harvardmapcollection.github.io/tutorials/)*
