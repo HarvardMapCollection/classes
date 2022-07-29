@@ -19,16 +19,21 @@
 *[ArcGIS Map](https://harvard-cga.maps.arcgis.com/apps/webappviewer/index.html?id=4f084606c3f64df8a32ce2ad938a43f6) comparing 1890 atlas to today.* 
 
 ![Screenshot of the 1880 census microfiche showing how it is from the National Archives](media/2.png)
+*The 1880 census microfiche is held at the National Archives.* 
 
 ![Screenshot of the 1890 atlas of Boston showing how it is from the Boston Public Library](media/3.png)
+*The 1890 Boston atlas depicting the same area is held at the Boston Public Library.* 
 
 ![Picture of the two datasets brought together, based on location.](media/4.png)
+*Source materials of all kinds can be brought together based on location using GIS software.* 
 
 ![screenshot labelleing the QGIS interface components](media/qgis-labeled.gif)
 *[Understanding the QGIS Interface](https://cartinal.leventhalmap.org/guides/get-started-qgis/interface.html#menu-bar).* 
 
 
 ![Screen recording of opening a new project in QGIS](media/new-projects.gif)
+*The 1880 census microfiche is held at the National Archives.* 
+
 
 ![Screen recording of adding a basemap to a QGIS document](media/basemap.gif)
 
@@ -41,4 +46,4 @@
 ![Screen recording of changing the symbology of the points in QGIS from smaller to bigger and red](media/change-symbols.gif)
 
 ![Screen recording of panning around a Carto map and opening one of the point's popup](media/upload-carto.gif)
-*[Share datasets interactively using tools like Carto.](https://harvard.carto.com/u/bellegis/builder/902823ad-f46c-40f7-9a0a-19755efe1d38).* 
+*[Sharing datasets interactively with browser mapping tools.](https://harvard.carto.com/u/bellegis/builder/902823ad-f46c-40f7-9a0a-19755efe1d38).* 
