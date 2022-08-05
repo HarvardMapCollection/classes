@@ -1,5 +1,7 @@
 # 9/28/2022 Lecture
 
+![Animated loop of maps of Europe from before and after the Peace Conference](media/ceded.gif)
+
 ![Student-created GIS workshop materials about programmatic map-making](/media/1.png)
 
 - computer science
