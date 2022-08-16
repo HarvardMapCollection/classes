@@ -17,7 +17,7 @@ To make your own map someday, you'll need to be comfortable with the two main fo
 **Vector data** consists of **points, lines and polygons**. 
 
 ![Screenshot of QGIS interface with point dataset of trees loaded in and appearing on the map](media/3.png)
-_GIS vector dataset in shapefile format of [historic old growth trees in Washington State](https://geo.wa.gov/maps/61db62e6e6864b579e0e36c005e94e71/about) loaded into the QGIS map interface_
+_GIS vector dataset showing [historic old growth trees in Washington State](https://geo.wa.gov/maps/61db62e6e6864b579e0e36c005e94e71/about) loaded into a map making interface._
 
 Pictured above is a **points** dataset showing historic old growth trees in Washington State.
 
