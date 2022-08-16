@@ -56,7 +56,7 @@ Another common type of GIS data is **raster** data. Instead of points, lines, or
 
 ![Chart explaining raster data, showing the earth broken up into gridded pixels](media/5.png)
 
-When you use Google maps satellite view, you are working with raster data GIS data. The satellite imagery exists in pixels, and it is "spatial data", meaning the computer can tell *where* on the earth the imagery pertains to.
+When you use Google maps satellite view, you are viewing raster data. The satellite imagery exists in pixels, and it is "spatial data", meaning the computer can tell *where* on the earth the imagery pertains to.
 
 At the Map Collection, we use raster data a lot, because we have so many historical maps, which are in image format (with pixels). We can line these images up to correspond with spatial location. To do this, we need to perform a process called **georeferencing**.
 
