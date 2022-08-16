@@ -52,8 +52,6 @@ The Harvard Map Collection will work with you to find the datasets you need to d
 
 ### Working with georeferenced maps (raster data).
 
-![Chart displaying the difference between vector points, lines and polygons versus gridded pixel raster data](media/1.png)
-
 Another common type of GIS data is **raster** data. Instead of points, lines, or polygons, raster data is in the format of image pixels.
 
 ![Chart explaining raster data, showing the earth broken up into gridded pixels](media/5.png)
