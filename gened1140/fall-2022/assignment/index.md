@@ -5,12 +5,19 @@
 In this mapping assignment, you will gain familiarity with the following useful GIS competencies:
 
 1. Common GIS data types.
-[Chart showing vector data which is points, lines and polygons on the left, and raster data which is gridded pixels on the right.](media/1.png)
+![Chart showing vector data which is points, lines and polygons on the left, and raster data which is gridded pixels on the right.](media/1.png)
 _Chart showing the difference between the two main GIS data types: **vector** and **raster**._
 
 To make your own map someday, you'll need to be comfortable with the two main forms of GIS data: **vector** and **raster** data.
 
-Vector data, pictured on the left consists of points, lines and polygons. When you download a vector dataset (usually in **shapefile** format), the data table will look just like any other excel spreadsheet you have worked with in the past, with columns and rows. In vector GIS datasets, however, every row in the table is a map **feature**. For instance, a **point** dataset might contain records about every church, post office, or library in a country. Every row in the table would be one post office, and every column would be some piece of information about that post office.
+**Vector data**, pictured on the left, consists of **points, lines and polygons**. When you download a vector dataset (usually it comes in **shapefile** format, **.shp**), the data table will appear similarly to any other spreadsheet you have worked with in the past, with columns and rows. With GIS datasets, however, every row in the table is one **feature** on the map. For instance, in a **point shapefile** about post offices in the United States, every row in the table would be one post office. Every column would contain some piece of information about that post office (hours of operation, year established, etc.).
+
+![Screenshot of QGIS interface showing the back end of the dataset, a table with rows and columns about each tree ](media/2.png)
+_GIS vector dataset in shapefile format showing [historic old growth trees in Washington State](https://geo.wa.gov/maps/61db62e6e6864b579e0e36c005e94e71/about) in QGIS table view._
+
+![Screenshot of QGIS interface with point dataset of trees loaded in and appearing on the map](media/3.png)
+_GIS vector dataset in shapefile format of [historic old growth trees in Washington State](https://geo.wa.gov/maps/61db62e6e6864b579e0e36c005e94e71/about) loaded into the QGIS map interface_
+
 
 
 
@@ -34,8 +41,8 @@ Install the program.
 
 ### Size constraints
 The QGIS application is about 3.2GB. If you don't have enough space on your computer, the following places in the library have computers you can use:
-- [The Lamont Multimedia Lab](https://library.harvard.edu/services-tools/lamont-multimedia-lab) in B-level of Lamont (drop in hours 9am-10pm)
-- [The Map Collection](https://library.harvard.edu/libraries/harvard-map-collection) in Pusey Library (you can drop by between 10-4:30, but to assure a time slot, you can email us at [maps@harvard.edu](mailto:maps@harvard.edu))
+- [The Lamont Multimedia Lab](https://library.harvard.edu/services-tools/lamont-multimedia-lab) in B-level of Lamont (drop in hours until 10pm daily)
+- [The Map Collection](https://library.harvard.edu/libraries/harvard-map-collection) in Pusey Library (you can drop by between 10-4:30pm, but to assure a time slot, you can email us at [maps@harvard.edu](mailto:maps@harvard.edu))
 
 ### Mac users
 If you get an error message that Apple can’t check the app for malicious software, right-click the application and select `Open`.
