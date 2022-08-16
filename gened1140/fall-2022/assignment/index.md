@@ -21,7 +21,7 @@ _GIS vector dataset in shapefile format of [historic old growth trees in Washing
 
 Pictured above is a **points** dataset showing historic old growth trees in Washington State.
 
-When you open the data table for a vector dataset, every row in the dataset is one of the point features, in this example, one tree. Every column in the point dataset is a piece of information about that feature. For example, in the data table for this tree dataset, we can see there is a column for the age of the tree, and recommendations for pruning that type of tree.
+When you open the data table, every row in the table represents one of the point features. In this example, that means one row = one tree. Every column in the table is a piece of information about that feature, or tree. For example, in this dataset, we can see there is a column for the age of the tree, and recommendations for caring for that type of tree.
 
 ![Screenshot of QGIS interface showing the back end of the dataset, a table with rows and columns about each tree ](media/2.png)
 _GIS vector dataset in shapefile format showing [historic old growth trees in Washington State](https://geo.wa.gov/maps/61db62e6e6864b579e0e36c005e94e71/about) in QGIS table view._
