@@ -28,7 +28,7 @@ _GIS vector dataset in shapefile format showing [historic old growth trees in Wa
 
 GIS software allows us to take tables of features like this and display them visually as a map. 
 
-Here is an example of a **line** dataset showing rivers in Massachusetts.
+Here is an example of a **line** dataset of all of the major streams in Massachusetts displayed visually as a map.
 
 ![Map of all the major streams in Massachusetts](media/4.png)
 
