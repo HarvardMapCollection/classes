@@ -46,7 +46,7 @@ When you are making a GIS map, you can download vector data or create your own. 
 - census data (polygon)
 - points of interest like schools, or churches (point)
 
-You can also create your own vector datasets using GIS software, by manually drawing or tracing points, lines, or polygons on the map, and then typing in any attribute or column information you want to pop up or be visualized.
+You can also create your own vector datasets using GIS software, by manually drawing or tracing points, lines, or polygons in a mapping interface, and then typing in any attribute or column information you want to pop up or be visualized from each feature.
 
 The Harvard Map Collection will work with you to find the datasets you need to download for your topic of study, or teach you how to create your own if you think there might not be GIS data available already.
 
