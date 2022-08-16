@@ -62,7 +62,7 @@ At the Map Collection, we use raster data a lot, because we have so many histori
 
 Georeferencing is the process of lining up an image so it overlays onto modern geography. There are many historical maps created before the time of computers which contain useful information. You can work with that information by georeferencing.
 
-In the example below, you can explore georeferenced old maps of Harvard Square from 1871. In 1871 Felipe's used to be a furniture repair shop! This historical map layer is an example of raster data.
+In the example below, you can explore georeferenced old maps of Harvard Square from 1871. In 1871, Felipe's used to be a furniture repair shop! This historical map layer is an example of raster data.
 
 <iframe width="400" height="550" title="Atlascope app zoomed in to Felipes in Harvard Square" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059015436$zoom:19.87$center:-7917105.72511056,5217102.087088008$mode:glass$pos:192"></iframe>
 _[https://atlascope.leventhalmap.org/](Atlascope), a tool for exploring historical atlases of Boston._
