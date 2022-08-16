@@ -35,7 +35,9 @@ Here is an example of a **line** dataset showing rivers in Massachusetts.
 Examples of **polygon** vector datasets could be ponds or bodies of water, or political or administrative units. Census data showing counties or census tracts would be polygon data. 
 
 Here is an example of a polygon dataset showing towns in Massachusetts. If you opened the table view of this dataset, each row would represent one Massachusetts town. Each column would be a fact about the town, in this case, the name of the town, and population statistics from each census year.
-You can click on the towns to expose each polygon feature's **attributes** (column information).
+
+
+Hover over each town to display the feature **attributes** (column information) for that polygon.
 
 <iframe title="Example of polygon data showing towns in Massachussetts you can hover over to expose the column information" src="https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/demo/polygon-data/" width="100%" height="500px"></iframe>
 
