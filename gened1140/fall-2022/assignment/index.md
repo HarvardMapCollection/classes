@@ -67,7 +67,7 @@ In the example below, you can explore georeferenced old maps of Harvard Square f
 <iframe width="400" height="550" title="Atlascope app zoomed in to Felipes in Harvard Square" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059015436$zoom:19.87$center:-7917105.72511056,5217102.087088008$mode:glass$pos:192"></iframe>
 _[Atlascope](https://atlascope.leventhalmap.org/), a tool for exploring historical atlases of Boston._
 
-After this tutorial, you will be able to work with different kinds of GIS data. Then, you will be ready to learn how to analyze or visualize information sources that have some aspect of *where* a phenomenon occurred.
+After this tutorial, you will be able to work with different kinds of GIS data. Then, you will be ready to learn how to analyze or visualize information sources that speak to the *where* of a situation.
 
 
 ## What you will need
