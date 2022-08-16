@@ -6,7 +6,7 @@ In this mapping assignment, you will gain familiarity with the following useful 
 
 ### What is GIS?
 
-What is GIS? It stands for **G**eographic **I**nformation **S**ystems. You can think of it as anything related to *where*. When we say "GIS data", we mean datasets which have some information baked in to tell us *where** something occurred. These datasets are created in special formats which can be used with special software designed to make maps. The datasets, the software, and the methods all fall under the umbrella of "GIS".
+GIS stands for **G**eographic **I**nformation **S**ystems. GIS helps us study *where*. It is a combination of data sources, software, and methods which allow us to do so. When we say **GIS data**, we mean datasets which have some spatial component. These datasets are created in special formats which can be used with special software designed to make maps. The datasets, the software, and the methods all fall under the umbrella of "GIS".
 
 ### Common GIS data types
 
