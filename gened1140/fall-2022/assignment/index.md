@@ -2,9 +2,13 @@
 
 ## What you will learn (and some GIS basics)
 
-In this mapping assignment, you will gain familiarity with the following useful GIS competencies:
+In this mapping assignment, you will gain familiarity with the following useful GIS competencies.
 
-### Common GIS data types.
+### What is GIS?
+
+What is GIS? It stands for **G**eographic **I**nformation **S**ystems. You can think of it as anything related to *where*. When we say "GIS data", we mean datasets which have some information baked in to tell us *where** something occurred. These datasets are created in special formats which can be used with special software designed to make maps. The datasets, the software, and the methods all fall under the umbrella of "GIS".
+
+### Common GIS data types
 
 To make your own map someday, you'll need to be comfortable with the two main forms of GIS data: **vector** and **raster** data.
 
@@ -17,7 +21,7 @@ _GIS vector dataset in shapefile format of [historic old growth trees in Washing
 
 Pictured above is a **points** dataset showing historic old growth trees in Washington State.
 
-When you open the data table for a vector dataset, every row in the dataset is one of the point features, in this example, one tree. Every column in the point dataset is a piece of information about that feature. For example, in the data table for this tree dataset (pictured below), we can see there is a column for the age of the tree (how old it is), and recommendations for pruning that type of tree.
+When you open the data table for a vector dataset, every row in the dataset is one of the point features, in this example, one tree. Every column in the point dataset is a piece of information about that feature. For example, in the data table for this tree dataset, we can see there is a column for the age of the tree (how old it is), and recommendations for pruning that type of tree.
 
 ![Screenshot of QGIS interface showing the back end of the dataset, a table with rows and columns about each tree ](media/2.png)
 _GIS vector dataset in shapefile format showing [historic old growth trees in Washington State](https://geo.wa.gov/maps/61db62e6e6864b579e0e36c005e94e71/about) in QGIS table view._
@@ -77,7 +81,7 @@ Install the program.
 ### Size constraints
 The QGIS application is about 3.2GB. If you don't have enough space on your computer, the following places in the library have computers you can use:
 - [The Lamont Multimedia Lab](https://library.harvard.edu/services-tools/lamont-multimedia-lab) in B-level of Lamont (drop in hours until 10pm daily)
-- [The Map Collection](https://library.harvard.edu/libraries/harvard-map-collection) in Pusey Library (you can drop by between 10-4:30pm, but to assure a time slot, you can email us at [maps@harvard.edu](mailto:maps@harvard.edu))
+- [The Map Collection](https://library.harvard.edu/libraries/harvard-map-collection) in Pusey Library (you can drop by between 10-4:30pm M-F, but to assure a time slot, you can email us at [maps@harvard.edu](mailto:maps@harvard.edu))
 
 ### Mac users
 If you get an error message that Apple can’t check the app for malicious software, right-click the application and select `Open`.
