@@ -6,12 +6,11 @@ In this mapping assignment, you will gain familiarity with the following useful 
 
 1. Common GIS data types.
 
-![Chart showing vector data which is points, lines and polygons on the left, and raster data which is gridded pixels on the right.](media/1.png)
-_Chart showing the difference between the two main GIS data types: **vector** and **raster**._
-
 To make your own map someday, you'll need to be comfortable with the two main forms of GIS data: **vector** and **raster** data.
 
-**Vector data**, pictured on the left, consists of **points, lines and polygons**. When you download a vector dataset (usually it comes in **shapefile** format, **.shp**), the data table will appear similarly to any other spreadsheet you have worked with in the past, with columns and rows. With GIS datasets, however, every row in the table is one **feature** on the map. For instance, in a **point shapefile** about post offices in the United States, every row in the table would be one post office. Every column would contain some piece of information about that post office (hours of operation, year established, etc.).
+![Chart showing vector data which is points, lines and polygons..](media/1.jpeg)
+
+**Vector data**, pictured above, consists of **points, lines and polygons**. When you download a vector dataset (usually it comes in **shapefile** format, **.shp**), the data table will appear similarly to any other spreadsheet you have worked with in the past, with columns and rows. With GIS datasets, however, every row in the table is one **feature** on the map. For instance, in a **point shapefile** about post offices in the United States, every row in the table would be one post office. Every column would contain some piece of information about that post office (hours of operation, year established, etc.).
 
 ![Screenshot of QGIS interface showing the back end of the dataset, a table with rows and columns about each tree ](media/2.png)
 _GIS vector dataset in shapefile format showing [historic old growth trees in Washington State](https://geo.wa.gov/maps/61db62e6e6864b579e0e36c005e94e71/about) in QGIS table view._
