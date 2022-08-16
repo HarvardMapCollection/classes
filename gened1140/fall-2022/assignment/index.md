@@ -34,6 +34,8 @@ Examples of polygon vector datasets might be:
 * lakes and bodies of water
 * political or administrative units like states
 
+<iframe title="Example of polygon data showing towns in Massachussetts you can hover over to expose the column information" src="https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/demo/polygon-data/" width="100%"></iframe>
+
 
 
 
