@@ -34,7 +34,7 @@ Here is an example of a **line** dataset of all of the major streams in Massachu
 
 Examples of **polygon** vector datasets could be ponds or bodies of water, or political or administrative units. Census data showing counties or census tracts would be polygon data. 
 
-Here is an example of a polygon dataset showing towns in Massachusetts. If you opened the table view of this dataset, each row would represent one Massachusetts town. Each column would be a fact about the town, in this case, the name of the town, and population statistics from each census year.
+Here is an example of a polygon dataset showing towns in Massachusetts. If you opened the table view of this dataset, each row would represent one Massachusetts town. Each column would contain information about the town. In this case, the attribute include the name of the town, and population statistics from each census year.
 
 
 Hover over each town to display the feature **attributes** (column information) for that polygon.
