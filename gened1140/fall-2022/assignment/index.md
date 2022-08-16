@@ -58,16 +58,16 @@ Another common type of GIS data is **raster** data. Instead of points, lines, or
 
 When you use Google maps satellite view, you are viewing raster data. The satellite imagery exists in pixels, and it is "spatial data", meaning the computer can tell *where* on the earth the imagery pertains to.
 
-At the Map Collection, we use raster data a lot, because we have so many historical maps, which are in image format (with pixels). We can line these images up to correspond with spatial location. To do this, we need to perform a process called **georeferencing**.
+At the Map Collection, we use raster data a lot, because we have so many historical maps, which are in an image format such as `.jpeg` or `.tiff`. We can line these images up to correspond with a spatial location. To do this, we need to perform a process called **georeferencing**.
 
-Georeferencing is the process of lining up an image so it overlays on modern geography. There are many historical maps created before the time of computers which contain useful information. Knowing how to work with georeferenced maps will allow you to take a digital scan of any old map and use it with other GIS datsets.
+Georeferencing is the process of lining up an image so it overlays onto modern geography. There are many historical maps created before the time of computers which contain useful information. You can work with that information by georeferencing.
 
 In the example below, you can explore georeferenced old maps of Harvard Square from 1871. In 1871 Felipe's used to be a furniture repair shop! This historical map layer is an example of raster data.
 
 <iframe width="400" height="550" title="Atlascope app zoomed in to Felipes in Harvard Square" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059015436$zoom:19.87$center:-7917105.72511056,5217102.087088008$mode:glass$pos:192"></iframe>
 _[https://atlascope.leventhalmap.org/](Atlascope), a tool for exploring historical atlases of Boston._
 
-After this tutorial, you will be more comfortable with being able to work with different kinds of GIS data. This will make you more confident when you need to analyze or visualize materials which have some aspect of *where* something happened.
+After this tutorial, you will be able to work with different kinds of GIS data. Then, you will be ready to learn how to analyze or visualize information sources that have some aspect of *where* a phenomenon occurred.
 
 
 ## What you will need
