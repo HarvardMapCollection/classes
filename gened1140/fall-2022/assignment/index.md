@@ -15,8 +15,24 @@ To make your own map someday, you'll need to be comfortable with the two main fo
 ![Screenshot of QGIS interface showing the back end of the dataset, a table with rows and columns about each tree ](media/2.png)
 _GIS vector dataset in shapefile format showing [historic old growth trees in Washington State](https://geo.wa.gov/maps/61db62e6e6864b579e0e36c005e94e71/about) in QGIS table view._
 
+For instance, when you open the table view of this GIS shapefile showing historic old growth trees in Washington State, the data is organized so that every row is one **point** (one tree), and every column is some information about that tree (how old it is, recommendations for caring for it, etc.)
+
+In addition to qualitative or quantitative **attributes** about each tree, there are also columns that provide some geospatial information. In this case, it is an x and y coordinate.
+
 ![Screenshot of QGIS interface with point dataset of trees loaded in and appearing on the map](media/3.png)
 _GIS vector dataset in shapefile format of [historic old growth trees in Washington State](https://geo.wa.gov/maps/61db62e6e6864b579e0e36c005e94e71/about) loaded into the QGIS map interface_
+
+This allows GIS software like QGIS to interpret these columns and rows and render them visually on a map.
+
+To recap -- GIS vector data is similar to a regular spreadsheet, where every row is a map feature (point, line or polygon), and every column are things about that feature, including some spatial information that GIS software can use to turn into a map.
+
+Examples of line vector datasets might be:
+* rivers
+* roads 
+
+Examples of polygon vector datasets might be:
+* lakes and bodies of water
+* political or administrative units like states
 
 
 
