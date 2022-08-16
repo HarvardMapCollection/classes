@@ -5,6 +5,7 @@
 In this mapping assignment, you will gain familiarity with the following useful GIS competencies:
 
 1. Common GIS data types.
+
 ![Chart showing vector data which is points, lines and polygons on the left, and raster data which is gridded pixels on the right.](media/1.png)
 _Chart showing the difference between the two main GIS data types: **vector** and **raster**._
 
