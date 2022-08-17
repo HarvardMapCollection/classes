@@ -97,7 +97,7 @@ In this tutorial we are going to leverage GIS tools and data to look at demograp
 To do this, we are going to work with two datasets:
 - A [map showing the ethnic and linguistic makeup of Europe](https://iiif.lib.harvard.edu/manifests/view/ids:495027666) in 1910, before the war. We have already georeferenced the map, so it lines up nicely with our other data.
 
-- A vector dataset of the newly established or contested territories after WWI. We created this dataset by georeferencing a map titled, [The Summary of the Treaty of Peace](https://iiif.lib.harvard.edu/manifests/view/ids:495027669e) and tracing the relevant post-war territories. We also assigned qualitative information to each territory we found on the margins of the historical map document.
+- A vector dataset of the newly established or contested territories after WWI. We created this dataset by georeferencing a map titled, [The Summary of the Treaty of Peace](https://iiif.lib.harvard.edu/manifests/view/ids:495027669e) and tracing the relevant post-war territories. We also assigned qualitative information to each territory noted on the margins of the historical map document.
 
 
 
