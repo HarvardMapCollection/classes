@@ -107,11 +107,15 @@ To do this, we are going to work with two datasets:
 3. Explore these two datasets together as an interactive map
 4. Publish the interactive map (optional)
 
-You should be able to use the map you create from step 3 to draw insights for your writing assignment. If you are not interested in mapping or GIS, you can skip to the [finished interactive map](✨✨✨✨✨✨✨✨✨✨✨!!!! ADD LINK!!!!!!!!!!!!!✨✨✨✨✨✨✨), and use your observations from that to inform your writing. 
 
-If you have an interest in understanding how GIS works, or are considering the mapping option for the final project, it is advised to go through steps 1-3. 
+### How to use this tutorial for your assignment
 
-At the end of step 3, the finished map will exist only on your computer. Step 4 exists optionally to teach you how to make the map public, in case you are interested in learning how to take any work you do in QGIS and turn it into public links you can share with anyone. This last step is an add-on for educational purposes only, and has no bearing on the assignment!
+After step 3, you will have a map you can explore to gather insights for your writing assignment. If you are not interested in mapping or GIS, you can skip to the [finished interactive map](✨✨✨✨✨✨✨✨✨✨✨!!!! ADD LINK!!!!!!!!!!!!!✨✨✨✨✨✨✨).
+
+
+If you are interested in GIS, or are considering the mapping option for the final project, we advise following steps 1-3. 
+
+Step 4 is optional. It takes the finished map you have created and teaches you how to share it as a public website. If you want to know how to take any work you do in QGIS in the future and turn it into a publicly shareable link, you can follow step 4, but doing so makes no difference for today's assignment.
 
 ## Steps
 
