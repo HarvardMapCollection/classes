@@ -116,7 +116,7 @@ After step 3, you will have a map you can explore to gather insights for your wr
 
 If you are interested in GIS, or are considering the mapping option for the final project, following steps 1-3 will give you a great foundation.
 
-Step 4 is optional. At the end of step 3, the map you have created only lives on your computer. If you want to learn how to take any work you do in QGIS and turn it into a publicly shareable link, you can follow step 4. Skipping this step won't have an impact on your ability to complete the assignment.
+Step 4 is optional. The map you make in step 3 will live only on your computer. If you want to learn how to take the work you do in QGIS and turn it into a publicly shareable website, follow step 4. It might also give you ideas for the final project. Skipping this step, however, won't have an impact on your ability to complete today's assignment.
 
 ## Tutorial
 
