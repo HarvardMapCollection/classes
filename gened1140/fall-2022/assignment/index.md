@@ -91,7 +91,24 @@ If you get an error message that Apple can’t check the app for malicious softw
 
 ## Steps overview
 
+In this tutorial we are going to leverage GIS tools and data to look at demographics in Europe around the time of WWI, and compare it with the state of borders in Europe in 1919.
+
+To do this, we are going to work with two datasets:
+- A georeferenced version of a [1910 map showing ethnic and linguistic makeup of Europe](https://iiif.lib.harvard.edu/manifests/view/ids:495027666) before the war
+- A polygon file where each polygon represents a newly established or contested area resulting from the Peace Treaty. We created this dataset by tracing information on this [1919 map in the Harvard Map Collection titled Summary of the Treaty of Peace](https://iiif.lib.harvard.edu/manifests/view/ids:495027669e)
+
+
+1. Add 1910 demographic map (raster)
+2. Add 1919 boundaries (vector)
+3. Open as an interactive map
+4. (Optional) Publish interactive map 
+
+## Finished map
+
 ## Steps
+
+### Add 1910 demographic map (raster)
+
 
 ## Optional steps 
 
