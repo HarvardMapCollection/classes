@@ -95,15 +95,17 @@ In this tutorial we are going to leverage GIS tools and data to look at demograp
 
 
 To do this, we are going to work with two datasets:
-- A georeferenced version of a [1910 map showing ethnic and linguistic makeup of Europe](https://iiif.lib.harvard.edu/manifests/view/ids:495027666) before the war
-- A polygon file where each polygon represents a newly established or contested area resulting from the Peace Treaty. We created this dataset by tracing information on this [1919 map in the Harvard Map Collection titled Summary of the Treaty of Peace](https://iiif.lib.harvard.edu/manifests/view/ids:495027669e)
+- A [map showing the ethnic and linguistic makeup of Europe](https://iiif.lib.harvard.edu/manifests/view/ids:495027666) in 1910, before the war. We have already georeferenced the map, so it lines up nicely with our other data.
+- Polygons of the newly established or contested territories after WWI. We created these polygons by georeferencing a map titled, [The Summary of the Treaty of Peace](https://iiif.lib.harvard.edu/manifests/view/ids:495027669e). After georeferencing the map so it lines up in our GIS system, we traced the relevant territories and saved those polygons as a new **shapefile**. We also assigned information about each boundary found on the margins of the historical map document, to generate popup information about each new boundary.
+
+
 
 ### The steps, roughly defined
 
 1. Add the georeferenced 1910 ethnic and linguistic map to the project
-2. Add new 1919 polygons to the project 
+2. Add the post-war 1919 polygons to the project 
 3. Explore these two datasets together as an interactive map
-4. (Optional) Publish the interactive map 
+4. Publish the interactive map (optional)
 
 You should be able to use the map you create from step 3 to draw insights for your writing assignment. If you are not interested in mapping or GIS, you can skip to the [finished interactive map](✨✨✨✨✨✨✨✨✨✨✨!!!! ADD LINK!!!!!!!!!!!!!✨✨✨✨✨✨✨), and use your observations from that to inform your writing. 
 
