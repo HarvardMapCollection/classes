@@ -103,8 +103,8 @@ To do this, we are going to work with two datasets:
 
 ### Tutorial steps overview
 
-1. Add the georeferenced 1910 ethnic and linguistic map to the project
-2. Add the post-war 1919 territory boundaries to the project 
+1. Add the ethnic and linguistic map from 1910 to the project
+2. Add the post-war territory boundaries from 1919 to the project 
 3. Explore these two datasets together as an interactive map
 4. Publish the interactive map (optional)
 
@@ -120,7 +120,7 @@ Step 4 is optional. At the end of step 3, the map you have created only lives on
 
 ## Tutorial
 
-### Add the georeferenced 1910 ethnic and linguistic map to the project
+### Add the ethnic and linguistic map from 1910 to the project
 
 1. Install QGIS
 2. Download the data
@@ -129,7 +129,7 @@ Step 4 is optional. At the end of step 3, the map you have created only lives on
 5. Add the geoTIFF
 6. Adjust opacity
 
-### Add the post-war 1919 territory boundaries to the project
+### Add the post-war territory boundaries from 1919 to the project 
 
 1. Add the dataset
 2. Adjust the colors
