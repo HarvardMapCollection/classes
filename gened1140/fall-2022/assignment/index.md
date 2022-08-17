@@ -123,25 +123,33 @@ Step 4 is optional. The map you make in step 3 will live only on your computer. 
 ### Add the ethnic and linguistic map from 1910 to the project
 
 1. If you haven't already, [download and install QGIS](https://harvardmapcollection.github.io/tutorials/qgis/download/).
+
 2. Download [the datasets from this Google Drive link](https://drive.google.com/file/d/1BOqCqDiMXTPN7mrvpIeXuLKwH2TLUtOA/view?usp=sharing).
+
 3. Uncompress the zipped data folders. If you need help unzipping folders, follow [the steps on this website](https://www.sweetwater.com/sweetcare/articles/how-to-zip-and-unzip-files/).
+
 4. Open QGIS.
+
 5. Open a `New Empty Project`.
+
 6. In the left-hand `Browser` menu, find the dropdown titled `XYZ tiles`.
 ![Screenshot of XYZ tiles in the QGIS browser menu interface](media/6.png)
 
 7. Expand the `XYZ tiles` dropown and double-click `OpenStreetMap` to add a basemap to your project. The basemap exists in the background of the project to give us a reference while we are working.
+
 8. In the banner that runs across the top of the QGIS project, find the `Zoom in` button. Select this button. 
 ![Screenshot of the QGIS interface showing the top banner with the Zoom in button highlighted](media/7.png)
 
 9. Click and hold to drag a square around Europe. You can also scroll in and out on your mouse to Zoom in and out. To pan around the map without zooming, engage the `Pan map` button, which looks like a hand.
-![Screenshot of the QGIS interface showing the top menu button highlighting the pan map button](media/8.png)
+![GIF of zooming and panning around the QGIS map document](media/zoompan.gif)
 
 10. In the very top QGIS program menu, select `Layer → Add Layer → Add Raster Layer`. 
 ![Screenshot of Add Raster Layer menu option in QGIS](media/9.png)
 
 11. In the Data Source Manager, Under `Source`, click the ellipsis next to `Raster dataset(s)`. This will open your computer's files. Navigate to where you downloaded and unzipped the project data. Open the folder titled `raster-data` and select the file `5700_1910_IMG--5700_1910.tif`.
-12. Select `Add` and then `Close`. You should be able to see the old map overlaid on the basemap now. 
+
+12. Select `Add` and then `Close`. You should be able to see the old map overlaid on the basemap now.
+
 13. Open the layer properties by right-clicking on the map layer `5700_1910_IMG--5700_1910` and selecting `Properties`.
 ![Screenshot of the layer properties menu in QGIS](media/11.png)
 > 5700_1910_IMG--5700_1910 is the Library of Congress call number for the map.
