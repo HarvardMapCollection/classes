@@ -122,14 +122,34 @@ Step 4 is optional. The map you make in step 3 will live only on your computer. 
 
 ### Add the ethnic and linguistic map from 1910 to the project
 
-1. Install QGIS
-2. Download the data
-3. Add a basemap
-4. Zoom in to the area
-5. Add the geoTIFF
-6. Adjust opacity
+1. If you haven't already, [download and install QGIS](https://harvardmapcollection.github.io/tutorials/qgis/download/)
+2. Download [the datasets from this Google Drive link](https://drive.google.com/file/d/1BOqCqDiMXTPN7mrvpIeXuLKwH2TLUtOA/view?usp=sharing)
+3. Uncompress the zipped data folders. If you need help unzipping folders, follow [the steps on this website](https://www.sweetwater.com/sweetcare/articles/how-to-zip-and-unzip-files/)
+4. Open QGIS
+5. Open a `New Empty Project`
+6. In the left-hand `Browser` menu, find the dropdown titled `XYZ tiles`.
+![Screenshot of XYZ tiles in the QGIS browser menu interface](media/6.png)
+7. Expand the `XYZ tiles` dropown and double-click `OpenStreetMap` to add a basemap to your project. The basemap exists in the background of the project to give us a reference while we are working.
+8. In the banner that runs across the top of the QGIS project, find the `Zoom in` button. Select this button. 
+![Screenshot of the QGIS interface showing the top banner with the Zoom in button highlighted](media/7.png)
+9. Click and hold to drag a square around Europe. You can also scroll in and out on your mouse to Zoom in and out. To pan around the map without zooming, engage the `Pan map` button, which looks like a hand.
+![Screenshot of the QGIS interface showing the top menu button highlighting the pan map button](media/8.png)
+10. In the very top QGIS program menu, select `Layer → Add Layer → Add Raster Layer`. 
+![Screenshot of Add Raster Layer menu option in QGIS](media/9.png)
+11. In the Data Source Manager, Under `Source`, click the ellipsis next to `Raster dataset(s)`. This will open your computer's files. Navigate to where you downloaded and unzipped the project data. Open the folder titled `raster-data` and select the file `5700_1910_IMG--5700_1910.tif`
+12. Select `Add` and then `Close`. You should be able to see the old map overlaid on the basemap now. 
+13. Open the layer properties by right-clicking on the map layer `5700_1910_IMG--5700_1910` and selecting `Properties`
+![Screenshot of the layer properties menu in QGIS](media/11.png)
+> 5700_1910_IMG--5700_1910 is the Library of Congress call number for the map.
+14. Select the `Legend` menu inside the layer properties
+![Screenshot of the Legend menu in QGIS](media/12.png)
+15. To add an opacity sider to be able to "see through" the map to the basemap, click `Opacity slider` and then click the right-pointing arrow to move the slider from `Available widgets` to `Used widgets`. Select `Apply` and `OK`
+![GIF of adding the opacity slider to the used widgets in QGIS](media/opac.gif)
+16. To see the slider under the layer, you might need to click a dropdown arrow to the left of the layer. When the slider appears, test it out, changing the opacity of the map layer. 
+![GIF of toggling open the layer dropdown to see the opacity slider in QGIS](media/expand.gif)
 
 ### Add the post-war territory boundaries from 1919 to the project 
+coming soon.....
 
 1. Add the dataset
 2. Adjust the colors
