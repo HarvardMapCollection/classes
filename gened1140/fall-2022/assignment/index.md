@@ -101,10 +101,10 @@ To do this, we are going to work with two datasets:
 
 
 
-### The steps, roughly defined
+### Tutorial steps overview
 
 1. Add the georeferenced 1910 ethnic and linguistic map to the project
-2. Add the post-war 1919 polygons to the project 
+2. Add the post-war 1919 territory boundaries to the project 
 3. Explore these two datasets together as an interactive map
 4. Publish the interactive map (optional)
 
@@ -118,9 +118,12 @@ If you are interested in GIS, or are considering the mapping option for the fina
 
 Step 4 is optional. It takes the finished map you have created and teaches you how to share it as a public website. If you want to know how to take any work you do in QGIS in the future and turn it into a publicly shareable link, you can follow step 4, but doing so makes no difference for today's assignment.
 
-## Steps
+## Tutorial
 
-### Add 1910 demographic map (raster)
+### Add the georeferenced 1910 ethnic and linguistic map to the project
+
+### Add the post-war 1919 territory boundaries to the project
+
 
 
 ## Optional steps 
