@@ -91,7 +91,7 @@ If you get an error message that Apple can’t check the app for malicious softw
 
 ## Tutorial overview
 
-In this tutorial we are going to leverage GIS tools and data to look at demographics in Europe around the time of WWI, and compare it with reconfigured borders in postwar Europe in 1919.
+In this tutorial we are going to leverage GIS tools and data to look at demographics in Europe around the time of WWI, and compare them with reconfigured borders in postwar Europe in 1919.
 
 
 To do this, we are going to work with two datasets:
