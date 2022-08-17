@@ -122,10 +122,34 @@ Step 4 is optional. It takes the finished map you have created and teaches you h
 
 ### Add the georeferenced 1910 ethnic and linguistic map to the project
 
+1. Install QGIS
+2. Download the data
+3. Add a basemap
+4. Zoom in to the area
+5. Add the geoTIFF
+6. Adjust opacity
+
 ### Add the post-war 1919 territory boundaries to the project
 
+1. Add the dataset
+2. Adjust the colors
+3. Look at the attributes
 
+### Explore these two datasets together as an interactive map
+
+1. Install QGIS2Web plugin
+2. Open it and configure settings
+    - etc. etc. etc. 
+    - hover on..
+    - save as...
+3. Export
+4. Double-click index.html
 
 ## Optional steps 
 
-(publish the map to Github)
+1. Download Github Desktop client
+2. Create a Github account
+3. Create a new repository
+4. Add the QGIS2web export files to the repository
+5. Repository settings > Pages > Turn on GH Pages
+6. Share link 
