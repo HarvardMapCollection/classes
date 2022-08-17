@@ -89,21 +89,27 @@ The QGIS application is about 3.2GB. If you don't have enough space on your comp
 If you get an error message that Apple can’t check the app for malicious software, right-click the application and select `Open`.
 
 
-## Steps overview
+## Tutorial overview
 
-In this tutorial we are going to leverage GIS tools and data to look at demographics in Europe around the time of WWI, and compare it with the state of borders in Europe in 1919.
+In this tutorial we are going to leverage GIS tools and data to look at demographics in Europe around the time of WWI, and compare it with reconfigured borders in postwar Europe in 1919.
+
 
 To do this, we are going to work with two datasets:
 - A georeferenced version of a [1910 map showing ethnic and linguistic makeup of Europe](https://iiif.lib.harvard.edu/manifests/view/ids:495027666) before the war
 - A polygon file where each polygon represents a newly established or contested area resulting from the Peace Treaty. We created this dataset by tracing information on this [1919 map in the Harvard Map Collection titled Summary of the Treaty of Peace](https://iiif.lib.harvard.edu/manifests/view/ids:495027669e)
 
+### The steps, roughly defined
 
-1. Add 1910 demographic map (raster)
-2. Add 1919 boundaries (vector)
-3. Open as an interactive map
-4. (Optional) Publish interactive map 
+1. Add the georeferenced 1910 ethnic and linguistic map to the project
+2. Add new 1919 polygons to the project 
+3. Explore these two datasets together as an interactive map
+4. (Optional) Publish the interactive map 
 
-## Finished map
+You should be able to use the map you create from step 3 to draw insights for your writing assignment. If you are not interested in mapping or GIS, you can skip to the [finished interactive map](✨✨✨✨✨✨✨✨✨✨✨!!!! ADD LINK!!!!!!!!!!!!!✨✨✨✨✨✨✨), and use your observations from that to inform your writing. 
+
+If you have an interest in understanding how GIS works, or are considering the mapping option for the final project, it is advised to go through steps 1-3. 
+
+At the end of step 3, the finished map will exist only on your computer. Step 4 exists optionally to teach you how to make the map public, in case you are interested in learning how to take any work you do in QGIS and turn it into public links you can share with anyone. This last step is an add-on for educational purposes only, and has no bearing on the assignment!
 
 ## Steps
 
