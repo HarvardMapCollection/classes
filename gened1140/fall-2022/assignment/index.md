@@ -145,7 +145,7 @@ Step 4 is optional. At the end of step 3, the map you have created only lives on
 3. Export
 4. Double-click index.html
 
-## Optional steps 
+### Publish the interactive map (optional)
 
 1. Download Github Desktop client
 2. Create a Github account
