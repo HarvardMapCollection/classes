@@ -164,7 +164,22 @@ Step 4 is optional. The map you make in step 3 will live only on your computer. 
 ![GIF of toggling open the layer dropdown to see the opacity slider in QGIS](media/expand.gif)
 
 ### Add the post-war territory boundaries from 1919 to the project 
-coming soon.....
+
+1. In the very top QGIS program menu, select `Layer → Add Layer → Add Vector Layer`. 
+![Screenshot of Add Vector Layer menu option in QGIS](media/13.png)
+
+2. In the Data Source Manager, Under `Source`, click the ellipsis next to `Vector dataset(s)`. This will open your computer's files. Navigate to where you downloaded and unzipped the project data. Open the folder titled `vector-data` and select the file `treaty-summary-1919.shp`.
+> In your computer files, a shapefile will appear as multiple different files with the same filename but different file extensions. GIS software reads this set of files as one dataset.
+![Screenshot of Data source manager in QGIS](media/14.png)
+
+3. Select `Add` and then `Close`. You should see the territory boundaries added to the map.
+
+4. To inspect the data, right-click the `treaty-summary-1919` layer in the layer list and select `Open Attribute Table`. 
+![Screenshot of layer options in QGIS](media/15.png)
+
+5. Drag the column headers to expand the columns. Try to understand the data, observing the values for each polygon. Remember, this dataset was manually created from information found in the explanatory key on [this historical map](https://iiif.lib.harvard.edu/manifests/view/ids:495027669).
+![GIF of exploring the attribute table in QGIS](media/attr.gif)
+
 
 1. Add the dataset
 2. Adjust the colors
