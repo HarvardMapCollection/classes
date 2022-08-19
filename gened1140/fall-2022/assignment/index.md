@@ -179,6 +179,19 @@ Step 4 is optional. The map you make in step 3 will live only on your computer. 
 
 5. Drag the column headers to expand the columns. Try to understand the data, observing the values for each polygon. Remember, this dataset was manually created from information found in the explanatory key on [this historical map](https://iiif.lib.harvard.edu/manifests/view/ids:495027669).
 ![GIF of exploring the attribute table in QGIS](media/attr.gif)
+> Note how any values selected in the table view are highlighted on the map. 
+
+6. Close the attribute table by clicking the `x` in the upper left-hand corner.
+
+7. Let's change the symbology of the territories layer. Another way to open the layer properties is to double-click the layer. Double-click `treaty-summary-1919`, or right-click the layer, and select `Properties`.
+
+8. Select the `Symbology` tab in the properties menu.
+![Screenshot of QGIS properties menu with symbology selected](media/16.png)
+
+9. Select where it says `Simple fill`. 
+![Screenshot of QGIS simple fill option in the symbology interface](media/17.png)
+
+10. 
 
 
 1. Add the dataset
