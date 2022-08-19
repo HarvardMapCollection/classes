@@ -169,8 +169,8 @@ Step 4 is optional. The map you make in step 3 will live only on your computer. 
 ![Screenshot of Add Vector Layer menu option in QGIS](media/13.png)
 
 2. In the Data Source Manager, Under `Source`, click the ellipsis next to `Vector dataset(s)`. This will open your computer's files. Navigate to where you downloaded and unzipped the project data. Open the folder titled `vector-data` and select the file `treaty-summary-1919.shp`.
-> In your computer files, a shapefile will appear as multiple different files with the same filename but different file extensions. GIS software reads this set of files as one dataset.
 ![Screenshot of Data source manager in QGIS](media/14.png)
+> In your computer files, a shapefile will appear as multiple different files with the same filename but different file extensions. GIS software reads this set of files as one dataset.
 
 3. Select `Add` and then `Close`. You should see the territory boundaries added to the map.
 
