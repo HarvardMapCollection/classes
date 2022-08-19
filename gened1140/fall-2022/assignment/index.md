@@ -191,14 +191,19 @@ Step 4 is optional. The map you make in step 3 will live only on your computer. 
 9. Select where it says `Simple fill`. 
 ![Screenshot of QGIS simple fill option in the symbology interface](media/17.png)
 
-10. 
+10. Click the color box to the right of where it says `Fill color`. Select any color you'd like. You can also consult [ColorBrewer](https://colorbrewer2.org/#type=sequential&scheme=Greens&n=3), a tool for map color advice for inspiration. You can type in any color code (e.g. `#e5f5e0`) into where it says `HTML Notation` in the QGIS symbolology interface.
+![GIF showing exploration of choosing symbology colors in QGIS](media/colors.gif)
 
+11. Change the `Stroke color` to hexcode **#ffffff**, using `HTML Notation`.
 
-1. Add the dataset
-2. Adjust the colors
-3. Look at the attributes
+12. Select 'OK'. Your QGIS document should look something like this now, with both data layers on top of the basemap.
+![Screenshot of QGIS document now with all of the layers loaded in and styled](media/18.png)
 
 ### Explore these two datasets together as an interactive map
+
+Now that we have both layers loaded in, we are going to use our work in QGIS to generate a webmap, where we can easily compare the datasets and explore the values. To do this we will need to install the `GQIS2Web` plugin, configure a few settings, and export the map as a webmap. 
+
+
 
 1. Install QGIS2Web plugin
 2. Open it and configure settings
