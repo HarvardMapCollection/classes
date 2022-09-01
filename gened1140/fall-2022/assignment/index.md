@@ -185,16 +185,18 @@ Step 4 is optional. The map you make in step 3 will live only on your computer. 
 8. Select the `Symbology` tab in the properties menu.
 ![Screenshot of QGIS properties menu with symbology selected](media/16.png)
 
+9. In the top of the layer properties menu, engage the dropdown that reads `Single Symbol`. Change the value to `Categorized`.
+![GIF of selecting categorical data symbology in QGIS layer symbology properties](media/categorized.gif)
 
-9. Select where it says `Simple fill`. 
-![Screenshot of QGIS simple fill option in the symbology interface](media/17.png)
+10. Click the down arrow next to `Value`. This prompt tells QGIS which attribute or field in the dataset we want to use to symbolize the map. We want to use colors to indicate the status of each territory, so we are going to pick `status` as the value upon which we want to symbolize. Select `status`.
+![GIF of picking an attribute value to symbolize on in QGIS layer symbology properties](media/select-value.gif.gif)
 
-10. Click the color box to the right of where it says `Fill color`. Select any color you'd like. You can also consult [ColorBrewer](https://colorbrewer2.org/#type=sequential&scheme=Greens&n=3), a tool for map color advice for inspiration. You can type in any color code (e.g. `#e5f5e0`) into where it says `HTML Notation` in the QGIS symbolology interface.
-![GIF showing exploration of choosing symbology colors in QGIS](media/colors.gif)
+11. Towards the bottom of the layer properties interface, click the button `Classify`. This will randomly create colors for each unique value in the `status` column of the GIS layer's data table.
+![GIF of classifying the data table in QGIS](media/classify.gif)
 
-11. 
+12. Uncheck the arrow in the box next to `all other values` (this should be the last of the randomly generated colors). We don't want to cloud our map legend with a catchall category. 
+![GIF of unselecting all other values option in the layer symbology properties](media/uncheck-allother.gif.gif)
 
-11. Change the `Stroke color` to hexcode **#ffffff**, using `HTML Notation`.
 
 12. Select 'OK'. Your QGIS document should look something like this now, with both data layers on top of the basemap.
 ![Screenshot of QGIS document now with all of the layers loaded in and styled](media/18.png)
