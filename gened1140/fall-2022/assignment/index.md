@@ -243,21 +243,12 @@ Now that we have both layers loaded in, we are going to use our work in QGIS to 
 6. Under the `Export` tab, click the ellipsis to the right of where it says `Export to folder`. Select a place to save your webmap to. Choose somewhere easy to find. Select open.
 ![Export settings in QGIS2web interface](media/23.png)
 
-7. In the bottom of the settings interface, change the radio button to `Leaflet`.
-![Mapping library options at the bottom of the QGIS2web settings interface](media/24.png). It may take a few minutes to update the preview. 
 
 7. Select export. It might take a few moments to complete the export. 
 
 8. When the `Progress` bar says `Success, exported to your location`, navigate to that location in your computer files. 
 
-
-1. Install QGIS2Web plugin
-2. Open it and configure settings
-    - etc. etc. etc. 
-    - hover on..
-    - save as...
-3. Export
-4. Double-click index.html
+9. Double-click index.html
 
 ### Publish the interactive map (optional)
 
