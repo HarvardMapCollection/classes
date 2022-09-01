@@ -148,9 +148,9 @@ Step 4 is optional. The map you make in step 3 will live only on your computer. 
 > We are adding the map of Poland nationalities. This map has already been georeferenced. It is currently hosted online as a streaming data layer. We can bring it into our project by specifying in QGIS what the layer URL is.
 
 11. In the XYZ Connection wizard, title the new layer `Poland Nationalities 1919`.
-![Screenshot of XYZ Connection wizard in QGIS](media/25.png)
 
-12. Fill in the URL with this link: `https://allmaps.xyz/maps/8d5cc5d1fec615d6/{z}/{x}/{y}.png`.
+12. Copy and paste the following link into where it asks for a URL: `https://allmaps.xyz/maps/8d5cc5d1fec615d6/{z}/{x}/{y}.png`.
+![Screenshot of XYZ Connection wizard in QGIS](media/25.png)
 
 13. Accept all other defaults. Select `OK`.
 
