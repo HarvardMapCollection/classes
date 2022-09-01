@@ -39,7 +39,7 @@ In this part of the tutorial, we will learn how to make any map you create in QG
 
 
 
-### Publish the interactive map (optional)
+### Publish the interactive map 
 
 The interactive webmap you created currently lives only on your computer. To share the link publicly (as we did with [the demo](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/demo/completed-map/)), you will need to follow a few more steps. 
 
