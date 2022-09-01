@@ -249,4 +249,4 @@ Now that we have both layers loaded in, we are going to use our work in QGIS to 
 
 ### Publish the interactive map (optional)
 
-The interactive webmap you created currently lives only on your computer. To share the link publicly (as we did with [the demo](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/demo/completed-map/)), you will need to follow a few more steps. If you want to continue with this tutorial, you can send a message to maps@harvard.edu for further instructions on hosting and sharing your GIS webmap project. 
+The interactive webmap you created currently lives only on your computer. To share the link publicly (as we did with [the demo](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/demo/completed-map/)), you will need to follow a few more steps. If you'd like instructions for hosting and sharing GIS webmaps, or have any other GIS project questions, don't hestitate to reach out at [maps@harvard.edu](mailto:maps@harvard.edu)
