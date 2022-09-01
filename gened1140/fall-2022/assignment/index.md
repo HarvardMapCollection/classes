@@ -143,12 +143,19 @@ Step 4 is optional. The map you make in step 3 will live only on your computer. 
 9. Click and hold to drag a square around Europe. You can also scroll in and out on your mouse to Zoom in and out. To pan around the map without zooming, engage the `Pan map` button, which looks like a hand.
 ![GIF of zooming and panning around the QGIS map document](media/zoompan.gif)
 
-10. In the very top QGIS program menu, select `Layer → Add Layer → Add Raster Layer`. 
-![Screenshot of Add Raster Layer menu option in QGIS](media/9.png)
+10. In the left-hand browser menu, right-click `XYZ Tiles` and select `New Connection`. 
+![Screenshot of New XYZ tile connection menu option in QGIS](media/9.png)
+> We are adding the map of Poland nationalities, which we have already georeferenced beforehand. We have hosted the georeferenced map online as streaming data. We can bring it into our project using a URL to where it is hosted. We just need to define that URL location in the QGIS program first.
 
-11. In the Data Source Manager, Under `Source`, click the ellipsis next to `Raster dataset(s)`. This will open your computer's files. Navigate to where you downloaded and unzipped the project data. Open the folder titled `raster-data` and select the file `5700_1910_IMG--5700_1910.tif`.
+11. In the XYZ Connection wizard, title the new layer `Poland Nationalities 1919`.
+![Screenshot of XYZ Connection wizard in QGIS](media/25.png)
 
-12. Select `Add` and then `Close`. You should be able to see the old map overlaid on the basemap now.
+12. Fill in the URL with this link: `https://allmaps.xyz/maps/8d5cc5d1fec615d6/{z}/{x}/{y}.png`.
+
+13. Accept all other defaults. Select `OK`.
+
+14. Make sure the dropdown caret next to `XYZ Tiles` in the browser menu is expanded. To add the Poland Nationalities 1919 map layer to your QGIS project, double-click on `Poland Nationalities 1919`. You should be able to see the old map overlaid on the basemap now. 
+> It is possible it may take a few moments to render. As you zoom in and pan around, it may take a few moments for the different zoom levels to load at full resolution. The quality should become more clear as it finishes loading. 
 
 13. Open the layer properties by right-clicking on the map layer `5700_1910_IMG--5700_1910` and selecting `Properties`.
 ![Screenshot of the layer properties menu in QGIS](media/11.png)
