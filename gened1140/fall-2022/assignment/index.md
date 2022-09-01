@@ -124,46 +124,47 @@ Step 4 is optional. The map you make in step 3 will live only on your computer. 
 
 1. If you haven't already, [download and install QGIS](https://harvardmapcollection.github.io/tutorials/qgis/download/).
 
-2. Download [the boundary dataset from this Google Drive link](https://drive.google.com/file/d/1Gdd7rN8Dlg9AONgqYXfnXYKzblcU1PjZ/view?usp=sharing).
+2. Open QGIS.
 
-3. Uncompress the zipped data folder. If you need help unzipping folders, follow [the steps on this website](https://www.sweetwater.com/sweetcare/articles/how-to-zip-and-unzip-files/).
+3. Open a `New Empty Project`.
 
-4. Open QGIS.
-
-5. Open a `New Empty Project`.
-
-6. In the left-hand `Browser` menu, find the dropdown titled `XYZ tiles`.
+4. In the left-hand `Browser` menu, find the dropdown titled `XYZ tiles`.
 ![Screenshot of XYZ tiles in the QGIS browser menu interface](media/6.png)
 
-7. Expand the `XYZ tiles` dropown and double-click `OpenStreetMap` to add a basemap to your project. The basemap exists in the background of the project to give us a reference while we are working.
+5. Expand the `XYZ tiles` dropown and double-click `OpenStreetMap` to add a basemap to your project. The basemap exists in the background of the project to give us a reference while we are working.
 
-8. In the banner that runs across the top of the QGIS project, find the `Zoom in` button. Select this button. 
+6. In the banner that runs across the top of the QGIS project, find the `Zoom in` button. Select this button. 
 ![Screenshot of the QGIS interface showing the top banner with the Zoom in button highlighted](media/7.png)
 
-9. Click and hold to drag a square around Europe. You can also scroll in and out on your mouse to Zoom in and out. To pan around the map without zooming, engage the `Pan map` button, which looks like a hand.
+7. Click and hold to drag a square around Europe. You can also scroll in and out on your mouse to Zoom in and out. To pan around the map without zooming, engage the `Pan map` button, which looks like a hand.
 ![GIF of zooming and panning around the QGIS map document](media/zoompan.gif)
 
-10. In the left-hand browser menu, right-click `XYZ Tiles` and select `New Connection`. 
+8. In the left-hand browser menu, right-click `XYZ Tiles` and select `New Connection`. 
 ![Screenshot of New XYZ tile connection menu option in QGIS](media/9.png)
 > We are adding the map of Poland nationalities. This map has already been georeferenced. It is currently hosted online as a streaming data layer. We can bring it into our project by specifying in QGIS what the layer URL is.
 
-11. In the XYZ Connection wizard, title the new layer `Poland Nationalities 1919`.
+9. In the XYZ Connection wizard, title the new layer `Poland Nationalities 1919`.
 
-12. Copy and paste the following link into where it asks for a URL: `https://allmaps.xyz/maps/8d5cc5d1fec615d6/{z}/{x}/{y}.png`.
+10. Copy and paste the following link into where it asks for a URL: `https://allmaps.xyz/maps/8d5cc5d1fec615d6/{z}/{x}/{y}.png`.
 ![Screenshot of XYZ Connection wizard in QGIS](media/25.png)
 
-13. Accept all other defaults. Select `OK`.
+11. Accept all other defaults. Select `OK`.
 
-14. Make sure the dropdown caret next to `XYZ Tiles` in the browser menu is expanded. To add the Poland Nationalities 1919 map layer to your QGIS project, double-click on `Poland Nationalities 1919`. You should be able to see the old map overlaid on the basemap now. 
+12. Make sure the dropdown caret next to `XYZ Tiles` in the browser menu is expanded. To add the Poland Nationalities 1919 map layer to your QGIS project, double-click on `Poland Nationalities 1919`. You should be able to see the old map overlaid on the basemap now. 
 > It might take a few moments to render. As you zoom in and pan around, you are querying the map data at different zoom levels. The resolution should improve as it finishes loading.
 
 
 ### Add the post-war territory boundaries from 1919 to the project 
 
-1. In the very top QGIS program menu, select `Layer → Add Layer → Add Vector Layer`. 
+
+1. Download [the boundary dataset from this Google Drive link](https://drive.google.com/file/d/1obY7HqJkTjwLe8z6zMsg5ogg4gKDIgIE/view?usp=sharing).
+
+2. Uncompress the zipped data folder. If you need help unzipping folders, follow [the steps on this website](https://www.sweetwater.com/sweetcare/articles/how-to-zip-and-unzip-files/).
+
+3. In the very top QGIS program menu, select `Layer → Add Layer → Add Vector Layer`. 
 ![Screenshot of Add Vector Layer menu option in QGIS](media/13.png)
 
-2. In the Data Source Manager, Under `Source`, click the ellipsis next to `Vector dataset(s)`. This will open your computer's files. Navigate to where you downloaded and unzipped the project data. Open the folder titled `vector-data` and select the file `treaty-summary-1919.shp`.
+4. In the Data Source Manager, Under `Source`, click the ellipsis next to `Vector dataset(s)`. This will open your computer's files. Navigate to where you downloaded and unzipped the project data. Select the file `treaty-summary-1919.shp`.
 ![Screenshot of Data source manager in QGIS](media/14.png)
 > In your computer files, a shapefile will appear as multiple different files with the same filename but different file extensions. GIS software reads this set of files as one dataset.
 
@@ -179,10 +180,11 @@ Step 4 is optional. The map you make in step 3 will live only on your computer. 
 6. Close the attribute table by clicking the `x` in the upper left-hand corner.
 
 7. Let's change the symbology of the territories layer. Open the layer properties by double-clicking the layer in the layer menu. You can also open the properties by right-clicking the layer, and selecting `Properties`.
+> We have values in the data table that tell us about the status of each new territory in 1919, the year [the map this data comes from](https://iiif.lib.harvard.edu/manifests/view/ids:495027669e) was created. We can symbolize each polygon by status, making it easier to understand Europe's status in 1919.
 
 8. Select the `Symbology` tab in the properties menu.
 ![Screenshot of QGIS properties menu with symbology selected](media/16.png)
-> We have values in the data table that tell us what the status of each new territory was in 1919, when the map which was the [source of this data](https://iiif.lib.harvard.edu/manifests/view/ids:495027669e) was created. We can symbolize the territories by status, to make it easier to understand what's going on in Europe in 1919. 
+
 
 9. Select where it says `Simple fill`. 
 ![Screenshot of QGIS simple fill option in the symbology interface](media/17.png)
