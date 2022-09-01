@@ -157,18 +157,6 @@ Step 4 is optional. The map you make in step 3 will live only on your computer. 
 14. Make sure the dropdown caret next to `XYZ Tiles` in the browser menu is expanded. To add the Poland Nationalities 1919 map layer to your QGIS project, double-click on `Poland Nationalities 1919`. You should be able to see the old map overlaid on the basemap now. 
 > It might take a few moments to render. As you zoom in and pan around, you are querying the map data at different zoom levels. The resolution should improve as it finishes loading.
 
-15. In the layers menu, you can open the layer properties by right-clicking on the map layer `Poland Nationalities 1919` and selecting `Properties`.
-![Screenshot of the layer properties menu in QGIS](media/11.png)
-
-
-16. Select the `Legend` menu inside the layer properties.
-![Screenshot of the Legend menu in QGIS](media/12.png)
-
-17. To add an opacity sider to be able to "see through" the map to the basemap, click `Opacity slider` and then click the right-pointing arrow to move the slider from `Available widgets` to `Used widgets`. Select `Apply` and `OK`.
-![GIF of adding the opacity slider to the used widgets in QGIS](media/opac.gif)
-
-18. To see the slider under the layer, you might need to click a dropdown arrow to the left of the layer. When the slider appears, test it out, changing the opacity of the map layer. 
-![GIF of toggling open the layer dropdown to see the opacity slider in QGIS](media/expand.gif)
 
 ### Add the post-war territory boundaries from 1919 to the project 
 
@@ -190,7 +178,7 @@ Step 4 is optional. The map you make in step 3 will live only on your computer. 
 
 6. Close the attribute table by clicking the `x` in the upper left-hand corner.
 
-7. Let's change the symbology of the territories layer. Another way to open the layer properties is to double-click the layer. Double-click `treaty-summary-1919`, or right-click the layer, and select `Properties`.
+7. Let's change the symbology of the territories layer. Open the layer properties by double-clicking the layer in the layer menu. You can also open the properties by right-clicking the layer, and selecting `Properties`.
 
 8. Select the `Symbology` tab in the properties menu.
 ![Screenshot of QGIS properties menu with symbology selected](media/16.png)
@@ -200,6 +188,8 @@ Step 4 is optional. The map you make in step 3 will live only on your computer. 
 
 10. Click the color box to the right of where it says `Fill color`. Select any color you'd like. You can also consult [ColorBrewer](https://colorbrewer2.org/#type=sequential&scheme=Greens&n=3), a tool for map color advice for inspiration. You can type in any color code (e.g. `#e5f5e0`) into where it says `HTML Notation` in the QGIS symbolology interface.
 ![GIF showing exploration of choosing symbology colors in QGIS](media/colors.gif)
+
+11. 
 
 11. Change the `Stroke color` to hexcode **#ffffff**, using `HTML Notation`.
 
@@ -229,8 +219,7 @@ Now that we have both layers loaded in, we are going to use our work in QGIS to 
 5. Configure the `Appearance` settings as follows:
 ![Appearance settings in QGIS2web plugin interface](media/22.png)
 > - Under `Add layers list` select `Expanded`
-- Toggle on the checkbox next to `Highlight on hover`
-- Toggle on the checkbox next to `Show popups on hover`.
+- Toggle on the checkbox next to `Show popups on hover`
 
 6. Under the `Export` tab, click the ellipsis to the right of where it says `Export to folder`. Select a place to save your webmap to. Choose somewhere easy to find. Select open.
 ![Export settings in QGIS2web interface](media/23.png)
