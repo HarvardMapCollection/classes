@@ -111,7 +111,7 @@ To do this, we are going to work with two datasets:
 
 ### How to use this tutorial for your assignment
 
-After step 3, you will have a map you can explore to gather insights for your writing assignment. At any time, you can skip to the [finished interactive map](✨✨✨✨✨✨✨✨✨✨✨!!!! ADD LINK!!!!!!!!!!!!!✨✨✨✨✨✨✨). You can also [email us at maps@harvard.edu](mailto:maps@harvard.edu) if anything isn't working how it should be (don't hesitate to ask -- if it's not working for you, it might not be working for others).
+After step 3, you will have a map you can explore to gather insights for your writing assignment. At any time, you can skip to the [finished interactive map](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/demo/completed-map/). You can also [email us at maps@harvard.edu](mailto:maps@harvard.edu) if anything isn't working how it should be (don't hesitate to ask -- if it's not working for you, it might not be working for others).
 
 
 If you are interested in GIS, or are considering the mapping option for the final project, following steps 1-3 will give you a great foundation.
@@ -245,13 +245,8 @@ Now that we have both layers loaded in, we are going to use our work in QGIS to 
 
 8. When the `Progress` bar says `Success, exported to your location`, navigate to that location in your computer files. 
 
-9. Double-click index.html
+9. Double-click `index.html`. The interactive webmap you created will appear in your default web browser. You can use this map to explore the relationships between nationality and political boundary-making in Europe in 1919.
 
 ### Publish the interactive map (optional)
 
-1. Download Github Desktop client
-2. Create a Github account
-3. Create a new repository
-4. Add the QGIS2web export files to the repository
-5. Repository settings > Pages > Turn on GH Pages
-6. Share link 
+The interactive webmap you created currently lives only on your computer. To share the link publicly (as we did with [the demo](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/demo/completed-map/)), you will need to follow a few more steps. If you want to continue with this tutorial, you can send a message to maps@harvard.edu for further instructions on hosting and sharing your GIS webmap project. 
