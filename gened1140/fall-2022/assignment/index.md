@@ -117,7 +117,7 @@ At the end of this tutorial there is a link to next steps for taking projects in
 
 ## Tutorial
 
-### Add the ethnic and linguistic map from 1910 to the project
+### Add the Nationalities of Poland map from 1919 to the project
 
 1. If you haven't already, [download and install QGIS](https://harvardmapcollection.github.io/tutorials/qgis/download/).
 
