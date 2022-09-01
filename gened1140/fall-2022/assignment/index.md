@@ -194,7 +194,7 @@ Step 4 is optional. The map you make in step 3 will live only on your computer. 
 11. Towards the bottom of the layer properties interface, click the button `Classify`. This will randomly create colors for each unique value in the `status` column of the GIS layer's data table.
 ![GIF of classifying the data table in QGIS](media/classify.gif)
 
-12. Uncheck the arrow in the box next to `all other values` (this should be the last of the randomly generated colors). We don't want to cloud our map legend with a catchall category. 
+12. Uncheck the arrow in the box next to `all other values` (this should be the last of the randomly generated colors). We don't want to cloud our map legend with a catch-all category. 
 ![GIF of unselecting all other values option in the layer symbology properties](media/uncheck-allother.gif)
 
 
