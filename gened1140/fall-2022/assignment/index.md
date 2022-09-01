@@ -201,6 +201,19 @@ Step 4 is optional. The map you make in step 3 will live only on your computer. 
 12. Select 'OK'. Your QGIS document should look something like this now, with both data layers on top of the basemap.
 ![Screenshot of QGIS document now with all of the layers loaded in and styled](media/18.png)
 
+13. Let's make a few updates to the map to make it more easy to work with. First, we will adjust the opacity of the top territories layer, so we can see both maps at the same time to compare. Open the `treaty-summary-1919` layer properties by double-clicking the layer in the layer list.
+
+14. Navigate to the menu item called `Legend`.
+![Screenshot of Legend menu in Layer properties](media/26.png)
+
+15. Under `Available widgets`, highlight `Opacity slider`. Use the right-arrow to bring the opacity slider from `Available widgets` to `Used widgets`. Select `OK`. 
+![GIF of enabling the opacity slider in QGIS](media/opacity.gif)
+
+16. Slide the opacity slider about half-way down. Place it at a level where you can easily discern each boundary in the vector territory layer, but can also clearly see the details on the historical nationalities map underneath. 
+> You might need to expand the caret next to `treaty-summary-1919` to be able to access the opacity slider.
+![GIF of exposing the opacity slider in the QGIS layer list](media/view-opacity.gif)
+
+
 ### Explore these two datasets together as an interactive map
 
 Now that we have both layers loaded in, we are going to use our work in QGIS to generate a webmap, where we can easily compare the datasets. To do this we will need to install the `GQIS2Web` plugin, configure a few settings, and export the webmap. 
