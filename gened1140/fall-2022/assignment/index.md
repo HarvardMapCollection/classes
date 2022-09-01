@@ -201,8 +201,39 @@ Step 4 is optional. The map you make in step 3 will live only on your computer. 
 
 ### Explore these two datasets together as an interactive map
 
-Now that we have both layers loaded in, we are going to use our work in QGIS to generate a webmap, where we can easily compare the datasets and explore the values. To do this we will need to install the `GQIS2Web` plugin, configure a few settings, and export the map as a webmap. 
+Now that we have both layers loaded in, we are going to use our work in QGIS to generate a webmap, where we can easily compare the datasets. To do this we will need to install the `GQIS2Web` plugin, configure a few settings, and export the webmap. 
 
+1. In the very top QGIS program menu, select `Plugins → Manage and Install Plugins`. 
+![Screenshot of Plugins menus](media/19.png)
+
+2. Search for `QGIS2Web` and select `Install plugin`.
+
+3. In the very top QGIS program menu, select `Web → QGIS2Web → Create a webmap`. 
+![Screenshot of Web plugins menus](media/20.png)
+
+4. Configure the `Layers and Groups` settings as follows:
+![Layers and groups setting in QGIS2web plugin interface](media/21.png)
+> - Make sure all of the layers are toggled on, including the basemap
+- Make sure all of the layers are toggled on as `Visible`
+- Toggle on `Popups` only for the `treaty-summary-1919` territories; make sure `Popups` are turned **off** for the other data layers. 
+- Under `treaty-summary-1919` `Popup fields`, use the dropdowns to select `header label` for each field. 
+*To learn more about configuring popups, you can follow this guide, [Web Mapping with QGIS2Web](http://www.qgistutorials.com/en/docs/web_mapping_with_qgis2web.html).*
+
+5. Configure the `Appearance` settings as follows:
+![Appearance settings in QGIS2web plugin interface](media/22.png)
+> - Under `Add layers list` select `Expanded`
+- Toggle on the checkbox next to `Highlight on hover`
+- Toggle on the checkbox next to `Show popups on hover`.
+
+6. Under the `Export` tab, click the ellipsis to the right of where it says `Export to folder`. Select a place to save your webmap to. Choose somewhere easy to find. Select open.
+![Export settings in QGIS2web interface](media/23.png)
+
+7. In the bottom of the settings interface, change the radio button to `Leaflet`.
+![Mapping library options at the bottom of the QGIS2web settings interface](media/24.png). It may take a few minutes to update the preview. 
+
+7. Select export. It might take a few moments to complete the export. 
+
+8. When the `Progress` bar says `Success, exported to your location`, navigate to that location in your computer files. 
 
 
 1. Install QGIS2Web plugin
