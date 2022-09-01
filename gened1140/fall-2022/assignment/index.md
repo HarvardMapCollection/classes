@@ -145,7 +145,7 @@ Step 4 is optional. The map you make in step 3 will live only on your computer. 
 
 10. In the left-hand browser menu, right-click `XYZ Tiles` and select `New Connection`. 
 ![Screenshot of New XYZ tile connection menu option in QGIS](media/9.png)
-> We are adding the map of Poland nationalities, which we have already georeferenced beforehand. We have hosted the georeferenced map online as streaming data. We can bring it into our project using a URL to where it is hosted. We just need to define that URL location in the QGIS program first.
+> We are adding the map of Poland nationalities. This map has already been georeferenced. It is currently hosted online as a streaming data layer. We can bring it into our project by specifying in QGIS what the layer URL is.
 
 11. In the XYZ Connection wizard, title the new layer `Poland Nationalities 1919`.
 ![Screenshot of XYZ Connection wizard in QGIS](media/25.png)
@@ -157,17 +157,17 @@ Step 4 is optional. The map you make in step 3 will live only on your computer. 
 14. Make sure the dropdown caret next to `XYZ Tiles` in the browser menu is expanded. To add the Poland Nationalities 1919 map layer to your QGIS project, double-click on `Poland Nationalities 1919`. You should be able to see the old map overlaid on the basemap now. 
 > It is possible it may take a few moments to render. As you zoom in and pan around, it may take a few moments for the different zoom levels to load at full resolution. The quality should become more clear as it finishes loading. 
 
-13. Open the layer properties by right-clicking on the map layer `5700_1910_IMG--5700_1910` and selecting `Properties`.
+15. In the layers menu, you can open the layer properties by right-clicking on the map layer `Poland Nationalities 1919` and selecting `Properties`.
 ![Screenshot of the layer properties menu in QGIS](media/11.png)
-> 5700_1910_IMG--5700_1910 is the Library of Congress call number for the map.
 
-14. Select the `Legend` menu inside the layer properties.
+
+16. Select the `Legend` menu inside the layer properties.
 ![Screenshot of the Legend menu in QGIS](media/12.png)
 
-15. To add an opacity sider to be able to "see through" the map to the basemap, click `Opacity slider` and then click the right-pointing arrow to move the slider from `Available widgets` to `Used widgets`. Select `Apply` and `OK`.
+17. To add an opacity sider to be able to "see through" the map to the basemap, click `Opacity slider` and then click the right-pointing arrow to move the slider from `Available widgets` to `Used widgets`. Select `Apply` and `OK`.
 ![GIF of adding the opacity slider to the used widgets in QGIS](media/opac.gif)
 
-16. To see the slider under the layer, you might need to click a dropdown arrow to the left of the layer. When the slider appears, test it out, changing the opacity of the map layer. 
+18. To see the slider under the layer, you might need to click a dropdown arrow to the left of the layer. When the slider appears, test it out, changing the opacity of the map layer. 
 ![GIF of toggling open the layer dropdown to see the opacity slider in QGIS](media/expand.gif)
 
 ### Add the post-war territory boundaries from 1919 to the project 
