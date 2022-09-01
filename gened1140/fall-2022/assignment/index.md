@@ -247,6 +247,8 @@ Now that we have both layers loaded in, we are going to use our work in QGIS to 
 
 9. Double-click `index.html`. The interactive webmap you created will appear in your default web browser. You can use this map to explore the relationships between nationality and political boundary-making in Europe in 1919.
 
+<iframe title="Completed webmap" src="https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/demo/completed-webmap/" width="100%" height="500px"></iframe>
+
 ### Publish the interactive map (optional)
 
 The interactive webmap you created currently lives only on your computer. To share the link publicly (as we did with [the demo](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/demo/completed-map/)), you will need to follow a few more steps. If you'd like instructions for hosting and sharing GIS webmaps, or have any other GIS project questions, don't hestitate to reach out at [maps@harvard.edu](mailto:maps@harvard.edu)
