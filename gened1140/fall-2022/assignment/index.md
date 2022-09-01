@@ -182,6 +182,7 @@ Step 4 is optional. The map you make in step 3 will live only on your computer. 
 
 8. Select the `Symbology` tab in the properties menu.
 ![Screenshot of QGIS properties menu with symbology selected](media/16.png)
+> We have values in the data table that tell us what the status of each new territory was in 1919, when the map which was the [source of this data](https://iiif.lib.harvard.edu/manifests/view/ids:495027669e) was created. We can symbolize the territories by status, to make it easier to understand what's going on in Europe in 1919. 
 
 9. Select where it says `Simple fill`. 
 ![Screenshot of QGIS simple fill option in the symbology interface](media/17.png)
