@@ -124,9 +124,9 @@ Step 4 is optional. The map you make in step 3 will live only on your computer. 
 
 1. If you haven't already, [download and install QGIS](https://harvardmapcollection.github.io/tutorials/qgis/download/).
 
-2. Download [the datasets from this Google Drive link](https://drive.google.com/file/d/1BOqCqDiMXTPN7mrvpIeXuLKwH2TLUtOA/view?usp=sharing).
+2. Download [the boundary dataset from this Google Drive link](https://drive.google.com/file/d/1GwV_o6ZqmMz79hS9UZAV4zKVEWpFa6jI/view?usp=sharing).
 
-3. Uncompress the zipped data folders. If you need help unzipping folders, follow [the steps on this website](https://www.sweetwater.com/sweetcare/articles/how-to-zip-and-unzip-files/).
+3. Uncompress the zipped data folder. If you need help unzipping folders, follow [the steps on this website](https://www.sweetwater.com/sweetcare/articles/how-to-zip-and-unzip-files/).
 
 4. Open QGIS.
 
