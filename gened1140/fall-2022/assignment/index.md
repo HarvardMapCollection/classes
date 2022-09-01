@@ -155,7 +155,7 @@ Step 4 is optional. The map you make in step 3 will live only on your computer. 
 13. Accept all other defaults. Select `OK`.
 
 14. Make sure the dropdown caret next to `XYZ Tiles` in the browser menu is expanded. To add the Poland Nationalities 1919 map layer to your QGIS project, double-click on `Poland Nationalities 1919`. You should be able to see the old map overlaid on the basemap now. 
-> It is possible it may take a few moments to render. As you zoom in and pan around, it may take a few moments for the different zoom levels to load at full resolution. The quality should become more clear as it finishes loading. 
+> It might take a few moments to render. As you zoom in and pan around, you are querying the map data at different zoom levels. It should become more clear as it loads.
 
 15. In the layers menu, you can open the layer properties by right-clicking on the map layer `Poland Nationalities 1919` and selecting `Properties`.
 ![Screenshot of the layer properties menu in QGIS](media/11.png)
