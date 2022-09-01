@@ -111,12 +111,9 @@ To do this, we are going to work with two datasets:
 
 ### How to use this tutorial for your assignment
 
-After step 3, you will have a map you can explore to gather insights for your writing assignment. At any time, you can skip to the [finished interactive map](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/demo/completed-map/). You can also [email us at maps@harvard.edu](mailto:maps@harvard.edu) if anything isn't working how it should be (don't hesitate to ask -- if it's not working for you, it might not be working for others).
+After completing the steps on this page, you will have a map you can explore to gather insights for your writing assignment. At any time, you can skip to the [finished interactive web version of the map](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/demo/completed-map/). You can also [email us at maps@harvard.edu](mailto:maps@harvard.edu) if anything isn't working how it should be (don't hesitate to ask -- if it's not working for you, it might not be working for others).
 
-
-If you are interested in GIS, or are considering the mapping option for the final project, following steps 1-3 will give you a great foundation.
-
-Step 4 is optional. The map you make in step 3 will live only on your computer. If you want to learn how to take the work you do in QGIS and turn it into a publicly shareable website, follow step 4. It might also give you ideas for the final project. Skipping this step, however, won't have an impact on your ability to complete today's assignment.
+At the end of this tutorial there is a link to next steps for taking projects in QGIS and making them web-enabled. They are not required for this assignment, but available if this is of interest to you.
 
 ## Tutorial
 
