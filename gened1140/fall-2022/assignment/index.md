@@ -177,12 +177,12 @@ At the end of this tutorial there is a link to next steps for taking projects in
 6. Close the attribute table by clicking the `x` in the upper left-hand corner.
 
 7. Let's change the symbology of the territories layer. Open the layer properties by double-clicking the layer in the layer menu. You can also open the properties by right-clicking the layer, and selecting `Properties`.
-> We have values in the data table that tell us about the status of each new territory in 1919, the year [the map this data comes from](https://iiif.lib.harvard.edu/manifests/view/ids:495027669e) was created. We can symbolize each polygon by status, making it easier to understand Europe's status in 1919.
+
 
 8. Select the `Symbology` tab in the properties menu.
 ![Screenshot of QGIS properties menu with symbology selected](media/16.png)
 
-9. In the top of the layer properties menu, engage the dropdown that reads `Single Symbol`. Change the value to `Categorized`.
+9. In the top of the layer properties menu, engage the dropdown that reads `Single Symbol`. Change the value to `Categorized`. Instead of showing every polygon as the same color, we are going to symbolize each polygon based on the status of the territory in 1919. We typed in these values earlier. We found them on [this historic map from 1919](https://iiif.lib.harvard.edu/manifests/view/ids:495027669) titled "The Summary of the Treaty of Peace". 
 ![GIF of selecting categorical data symbology in QGIS layer symbology properties](media/categorized.gif)
 
 10. Click the down arrow next to `Value`. This prompt tells QGIS which attribute or field in the dataset we want to use to symbolize the map. We want to use colors to indicate the status of each territory, so we are going to pick `status` as the value upon which we want to symbolize. Select `status`.
