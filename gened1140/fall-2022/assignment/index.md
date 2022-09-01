@@ -195,13 +195,13 @@ At the end of this tutorial there is a link to next steps for taking projects in
 12. Select 'OK'. Your QGIS document should look something like this now, with both data layers on top of the basemap.
 ![Screenshot of QGIS document now with all of the layers loaded in and styled](media/18.png)
 
-### Using the completed map
+### The Completed Map
 
-Eventually, you may want to share the GIS projects you create in QGIS as interactive web-enabled maps.
+The map you have created so far exists on on your computer's desktop. You may want to learn how to make your GIS projects web-enabled.
 
 If you'd like to learn how to do that now, you can move on to the [next steps for creating web enabled maps](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/web-enabled).
 
-If you'd like to see the finished map in action, you can jump to [our completed version of the web map](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/demo/completed-map/). 
+If you'd like to see the finished map in action, you can jump to [our completed version of the web map](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/demo/completed-map/) to use for your assignment. 
 
 
 
