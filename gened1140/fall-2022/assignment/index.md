@@ -198,57 +198,13 @@ Step 4 is optional. The map you make in step 3 will live only on your computer. 
 12. Select 'OK'. Your QGIS document should look something like this now, with both data layers on top of the basemap.
 ![Screenshot of QGIS document now with all of the layers loaded in and styled](media/18.png)
 
-13. Let's adjust the opacity of the top territories layer, so we can see both maps at the same time to compare. Open the `treaty-summary-1919` layer properties by double-clicking the layer in the layer list.
+### Using the completed map
 
-14. Navigate to the menu item called `Legend`.
-![Screenshot of Legend menu in Layer properties](media/26.png)
+Eventually, you may want to share the GIS projects you create in QGIS as interactive web-enabled maps.
 
-15. Under `Available widgets`, highlight `Opacity slider`. Use the right-arrow to bring the opacity slider from `Available widgets` to `Used widgets`. Select `OK`. 
-![GIF of enabling the opacity slider in QGIS](media/opacity.gif)
+If you'd like to learn how to do that now, you can move on to the [next steps for creating web enabled maps](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/web-enabled).
 
-16. Slide the opacity slider about half-way down. Place it at a level where you can easily discern each boundary in the vector territory layer, but can also clearly see the details on the historical nationalities map underneath. 
-> You might need to expand the caret next to `treaty-summary-1919` to be able to access the opacity slider.
-![GIF of exposing the opacity slider in the QGIS layer list](media/view-opacity.gif)
+If you'd like to see the finished map in action, you can jump to [our completed version of the web map](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/demo/completed-map/). 
 
 
 
-### Explore these two datasets together as an interactive map
-
-Now that we have both layers loaded in, we are going to use our work in QGIS to generate a webmap, where we can easily compare the datasets. To do this we will need to install the `GQIS2Web` plugin, configure a few settings, and export the webmap. 
-
-1. In the very top QGIS program menu, select `Plugins → Manage and Install Plugins`. 
-![Screenshot of Plugins menus](media/19.png)
-
-2. Search for `QGIS2Web` and select `Install plugin`.
-
-3. In the very top QGIS program menu, select `Web → QGIS2Web → Create a webmap`. 
-![Screenshot of Web plugins menus](media/20.png)
-
-4. Configure the `Layers and Groups` settings as follows:
-![Layers and groups setting in QGIS2web plugin interface](media/21.png)
-> - Make sure all of the layers are toggled on, including the basemap
-- Make sure all of the layers are toggled on as `Visible`
-- Toggle on `Popups` only for the `treaty-summary-1919` territories; make sure `Popups` are turned **off** for the other data layers. 
-- Under `treaty-summary-1919` `Popup fields`, use the dropdowns to select `header label` for each field. 
-*To learn more about configuring popups, you can follow this guide, [Web Mapping with QGIS2Web](http://www.qgistutorials.com/en/docs/web_mapping_with_qgis2web.html).*
-
-5. Configure the `Appearance` settings as follows:
-![Appearance settings in QGIS2web plugin interface](media/22.png)
-> - Under `Add layers list` select `Expanded`
-- Toggle on the checkbox next to `Show popups on hover`
-
-6. Under the `Export` tab, click the ellipsis to the right of where it says `Export to folder`. Select a place to save your webmap to. Choose somewhere easy to find. Select open.
-![Export settings in QGIS2web interface](media/23.png)
-
-
-7. Select export. It might take a few moments to complete the export. 
-
-8. When the `Progress` bar says `Success, exported to your location`, navigate to that location in your computer files. 
-
-9. Double-click `index.html`. The interactive webmap you created will appear in your default web browser. You can use this map to explore the relationships between nationality and political boundary-making in Europe in 1919.
-
-<iframe title="Completed webmap" src="https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/demo/completed-webmap/" width="100%" height="500px"></iframe>
-
-### Publish the interactive map (optional)
-
-The interactive webmap you created currently lives only on your computer. To share the link publicly (as we did with [the demo](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/demo/completed-map/)), you will need to follow a few more steps. If you'd like instructions for hosting and sharing GIS webmaps, or have any other GIS project questions, don't hestitate to reach out at [maps@harvard.edu](mailto:maps@harvard.edu)
