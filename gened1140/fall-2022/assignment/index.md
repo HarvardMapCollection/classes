@@ -97,16 +97,19 @@ In this tutorial we are going to leverage GIS tools and data to look at demograp
 To do this, we are going to work with two datasets:
 - A [map showing nationalities in Poland](https://digitalcollections.library.harvard.edu/catalog/990152910700203941) in 1919. We have already georeferenced the map, so it lines up nicely with our other data.
 
-- A vector dataset of ✨✨✨✨✨✨✨✨✨✨✨✨
-
+- A vector dataset containing statistical information about Polish cities in the 1910s, including spoken languages, and the plebiscite vote results, city by city.
 
 ### Tutorial steps overview
 
-✨✨✨✨✨✨✨✨✨✨✨✨✨
+1. Add the georeferenced map showing nationalities in Poland to the GIS project.
+2. Add the dataset with various city statistics to the project.
+3. Inspect the statistics to understand what is going on.
+4. Symbolize some of the variables on the map.
+5. Create a final map to share. 
 
 ### How to use this tutorial for your assignment
 
-After completing the steps on this page, you will have a map you can explore to gather insights for your writing assignment. At any time, you can skip to the [finished maps ✨✨✨ make this page ✨✨✨✨✨](add link ✨✨✨✨✨✨✨). You can also [email us at maps@harvard.edu](mailto:maps@harvard.edu) if anything isn't working how it should be (don't hesitate to ask -- if it's not working for you, it might not be working for others).
+After completing the steps on this page, you will have a map you can use to gather insights for your writing assignment. At any time, you can skip to the [finished maps ✨✨✨ make this page ✨✨✨✨✨](add link ✨✨✨✨✨✨✨). You can also [email us at maps@harvard.edu](mailto:maps@harvard.edu) if anything isn't working how it should be (don't hesitate to ask -- if it's not working for you, it might not be working for others).
 
 
 ## Tutorial
