@@ -91,29 +91,23 @@ If you get an error message that Apple can’t check the app for malicious softw
 
 ## Tutorial overview
 
-In this tutorial we are going to leverage GIS tools and data to look at demographics in Europe around the time of WWI, and compare them with reconfigured borders in postwar Europe.
+In this tutorial we are going to leverage GIS tools and data to look at demographics in Europe around the time of WWI, and compare them with ✨✨✨✨✨✨✨✨✨✨
 
 
 To do this, we are going to work with two datasets:
 - A [map showing nationalities in Poland](https://digitalcollections.library.harvard.edu/catalog/990152910700203941) in 1919. We have already georeferenced the map, so it lines up nicely with our other data.
 
-- A vector dataset of the newly established or contested territories after WWI. We created this dataset by georeferencing a map titled, [The Summary of the Treaty of Peace](https://iiif.lib.harvard.edu/manifests/view/ids:495027669), and tracing the relevant post-war territories. We also assigned qualitative information to each territory noted on the margins of the historical map document.
-
+- A vector dataset of ✨✨✨✨✨✨✨✨✨✨✨✨
 
 
 ### Tutorial steps overview
 
-1. Add the Poland nationalities map to the project
-2. Add the post-war territory boundaries to the project 
-3. Explore these two datasets together as an interactive map
-4. Publish the interactive map (optional)
-
+✨✨✨✨✨✨✨✨✨✨✨✨✨
 
 ### How to use this tutorial for your assignment
 
-After completing the steps on this page, you will have a map you can explore to gather insights for your writing assignment. At any time, you can skip to the [finished interactive web version of the map](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/demo/completed-map/). You can also [email us at maps@harvard.edu](mailto:maps@harvard.edu) if anything isn't working how it should be (don't hesitate to ask -- if it's not working for you, it might not be working for others).
+After completing the steps on this page, you will have a map you can explore to gather insights for your writing assignment. At any time, you can skip to the [finished maps ✨✨✨ make this page ✨✨✨✨✨](add link ✨✨✨✨✨✨✨). You can also [email us at maps@harvard.edu](mailto:maps@harvard.edu) if anything isn't working how it should be (don't hesitate to ask -- if it's not working for you, it might not be working for others).
 
-At the end of this tutorial there is a link to next steps for taking projects in QGIS and making them web-enabled. They are not required for this assignment, but available if this is of interest to you.
 
 ## Tutorial
 
@@ -151,57 +145,17 @@ At the end of this tutorial there is a link to next steps for taking projects in
 > It might take a few moments to render. As you zoom in and pan around, you are querying the map data at different zoom levels. The resolution should improve as it finishes loading.
 
 
-### Add the post-war territory boundaries from 1919 to the project 
+### Add the ✨✨✨✨✨✨✨ to the project 
 
 
-1. Download [the boundary dataset from this Google Drive link](https://drive.google.com/file/d/1obY7HqJkTjwLe8z6zMsg5ogg4gKDIgIE/view?usp=sharing).
+1. Download [the ✨✨✨✨ dataset from this Google Drive link ✨✨✨ add link ✨✨✨✨](https://drive.google.com/file/d/1obY7HqJkTjwLe8z6zMsg5ogg4gKDIgIE/view?usp=sharing).
 
 2. Uncompress the zipped data folder. If you need help unzipping folders, follow [the steps on this website](https://www.sweetwater.com/sweetcare/articles/how-to-zip-and-unzip-files/).
 
 3. In the very top QGIS program menu, select `Layer → Add Layer → Add Vector Layer`. 
 ![Screenshot of Add Vector Layer menu option in QGIS](media/13.png)
 
-4. In the Data Source Manager, Under `Source`, click the ellipsis next to `Vector dataset(s)`. This will open your computer's files. Navigate to where you downloaded and unzipped the project data. Select the file `treaty-summary-1919.shp`.
-![Screenshot of Data source manager in QGIS](media/14.png)
-> In your computer files, a shapefile will appear as multiple different files with the same filename but different file extensions. GIS software reads this set of files as one dataset.
-
-3. Select `Add` and then `Close`. You should see the territory boundaries added to the map.
-
-4. To inspect the data, right-click the `treaty-summary-1919` layer in the layer list and select `Open Attribute Table`. 
-![Screenshot of layer options in QGIS](media/15.png)
-
-5. Drag the column headers to expand the columns. Try to understand the data, observing the values for each polygon. Remember, this dataset was manually created from information found in the explanatory key on [this historical map](https://iiif.lib.harvard.edu/manifests/view/ids:495027669).
-![GIF of exploring the attribute table in QGIS](media/attr.gif)
-> Note how any values selected in the table view are highlighted on the map. 
-
-6. Close the attribute table by clicking the `x` in the upper left-hand corner.
-
-7. Let's change the symbology of the territories layer. Open the layer properties by double-clicking the layer in the layer menu. You can also open the properties by right-clicking the layer, and selecting `Properties`.
-
-
-8. Select the `Symbology` tab in the properties menu.
-![Screenshot of QGIS properties menu with symbology selected](media/16.png)
-
-9. In the top of the layer properties menu, engage the dropdown that reads `Single Symbol`. Change the value to `Categorized`. Instead of showing every polygon as the same color, we are going to symbolize each polygon based on the status of the territory in 1919. We typed in these values earlier. We found them on [this historic map from 1919](https://iiif.lib.harvard.edu/manifests/view/ids:495027669) titled "The Summary of the Treaty of Peace". 
-![GIF of selecting categorical data symbology in QGIS layer symbology properties](media/categorized.gif)
-
-10. Click the down arrow next to `Value`. This prompt tells QGIS which attribute or field in the dataset we want to use to symbolize the map. We want to use colors to indicate the status of each territory, so we are going to pick `status` as the value upon which we want to symbolize. Select `status`.
-![GIF of picking an attribute value to symbolize on in QGIS layer symbology properties](media/select-value.gif)
-
-11. Towards the bottom of the layer properties interface, click the button `Classify`. This will randomly create colors for each unique value in the `status` column of the GIS layer's data table.
-![GIF of classifying the data table in QGIS](media/classify.gif)
-
-
-12. Select 'OK'. Your QGIS document should look something like this now, with both data layers on top of the basemap.
-![Screenshot of QGIS document now with all of the layers loaded in and styled](media/18.png)
-
-### The Completed Map
-
-The map you have created so far exists on on your computer's desktop. You may want to learn how to make your GIS projects web-enabled.
-
-If you'd like to learn how to do that now, you can move on to the [next steps for creating web enabled maps](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/web-enabled).
-
-If you'd like to see the finished map in action, you can jump to [our completed version of the web map](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/demo/completed-map/) to use for your assignment. 
+4. In the Data Source Manager, Under `Source`, click the ellipsis next to `Vector dataset(s)`. This will open your computer's files. Navigate to where you downloaded and unzipped the project data. Select the file `✨✨✨✨✨✨✨.shp`.
 
 
 
