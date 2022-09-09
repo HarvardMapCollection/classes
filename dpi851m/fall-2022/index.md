@@ -7,7 +7,7 @@
 ![GIF showing a slider between a dataset of FEMA relief and an empty basemap in ESRI because the data is not loading](/media/sad-esri.gif)
 
 ![GIF of the Harvard Map Collection census tutorial series which has 6 lessons](/media/census-tutorial.gif)
-*[How to prepare census data for use in a map tutorial series](https://harvardmapcollection.github.io/tutorials/census/steps/)* 
+*How to prepare census data for use in a map [tutorial series](https://harvardmapcollection.github.io/tutorials/census/steps/)* 
 
 ![Screenshot of a map of London showing dots which represent Indian restaurants](media/jess-map.png)
 
