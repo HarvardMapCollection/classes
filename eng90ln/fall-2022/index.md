@@ -1,3 +1,3 @@
-# ENG 90LN GIS support from the Harvard Map Collection
+# Land research with GIS
 
-Coming soon!
+![screenshot of a white population demographic map of chicago with dots to indicate the location of 9-1-1 infrastructure](media/levin.png)
