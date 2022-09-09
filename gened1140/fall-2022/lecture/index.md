@@ -14,4 +14,3 @@
 
 
 ![Screenshot of the Harvard Map Collection tutorials page](media/levin.png)
-*[Harvard Map Collection tutorials](https://harvardmapcollection.github.io/tutorials/)*
