@@ -1,7 +1,5 @@
 # Leveraging GIS technology
 
-## Library GIS assistants
-
 - computer science
 - data analytics
 - history
