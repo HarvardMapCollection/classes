@@ -1,13 +1,13 @@
 # Leveraging GIS technology
 
+## Library GIS assistants
+
 - computer science
 - data analytics
 - history
 - archaeology 
 - museum studies
 - urban planning
-
-![Student-created GIS workshop materials about programmatic map-making](/media/1.png)
 
 
 ![Screen recording of New York Public Library app OldNYC](media/oldnyc.gif)
