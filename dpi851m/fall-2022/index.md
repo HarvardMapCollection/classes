@@ -1,4 +1,4 @@
-# GIS and data support from the Harvard Map Collection
+# GIS data support 
 
 ![Screenshot of a web map showing mobile health care providers](/media/mobile-health.png)
 
