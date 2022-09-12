@@ -94,8 +94,14 @@ If you get an error message that Apple can’t check the app for malicious softw
 In this tutorial we are going to leverage GIS tools and data to look at demographics in Europe around the time of WWI.
 
 
-To do this, we are going to work with two datasets:
+To do this, we are going to work with three datasets:
 - A [map showing nationalities in Poland](https://digitalcollections.library.harvard.edu/catalog/990152910700203941) in 1919. We have already georeferenced the map, so it lines up nicely with our other data.
+![GIF showing the 1919 map superimposed over a modern map of Europe](media/poland-opacity.gif)
+*[Historic map of Poland](https://digitalcollections.library.harvard.edu/catalog/990152910700203941) after we georeferenced it so it lines up with all of our other data.*
+![Map key of the historic map showing the different ethnicities breakdown](media/2-1.png)
+*The [map from above's](https://iiif.lib.harvard.edu/manifests/view/ids:445002895) legend, created in 1919 and showing us the different nationalities in Poland at the time.*
+
+- A vector dataset representing the extent of the Allenstein plebiscite region.
 
 - A vector dataset containing statistical information about Polish cities in the 1910s, including spoken languages, and the plebiscite vote results, city by city.
 
@@ -104,22 +110,9 @@ To do this, we are going to work with two datasets:
 Before we get into the step-by-step tutorial, here is a big picture overview of what we will be doing.
 
 
-#### Add the raster data to the GIS project
-
-![GIF showing the 1919 map superimposed over a modern map of Europe](media/poland-opacity.gif)
-*[Historic map of Poland](https://iiif.lib.harvard.edu/manifests/view/ids:445002895) after we georeferenced it so it lines up with all of our other data.*
-
-![Map key of the historic map showing the different ethnicities breakdown](media/2-1.png)
-*The [map from above's](https://iiif.lib.harvard.edu/manifests/view/ids:445002895) legend, created in 1919 and showing us the different nationalities in Poland at the time.*
-
-
-#### Add the vector datasets to the project
-
-
-
-
-
-3. Inspect the statistics to understand what is going on.
+1. Add the raster data to the GIS project.
+2. Add the vector datasets to the project
+3. Inspect the statistics dataset to understand what is going on.
 4. Symbolize some of the variables on the map.
 5. Create a final map to share. 
 
