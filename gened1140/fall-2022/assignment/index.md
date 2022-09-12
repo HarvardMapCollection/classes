@@ -101,7 +101,10 @@ To do this, we are going to work with two datasets:
 
 ### Tutorial steps overview
 
-1. Add the raster data to the GIS project
+Before we get into the step-by-step tutorial, here is a big picture overview of what we will be doing.
+
+
+#### Add the raster data to the GIS project.
 
 ![GIF showing the 1919 map superimposed over a modern map of Europe](media/poland-opacity.gif)
 *[Historic map of Poland](https://iiif.lib.harvard.edu/manifests/view/ext:aHR0cHM6Ly9paWlmLmxpYi5oYXJ2YXJkLmVkdS9tYW5pZmVzdHMvaWRzOjQ0NTAwMjg5NQ==$1i) after we georeferenced it so it lines up with all of our other data.*
@@ -110,8 +113,12 @@ To do this, we are going to work with two datasets:
 *The [map from above's](https://iiif.lib.harvard.edu/manifests/view/ext:aHR0cHM6Ly9paWlmLmxpYi5oYXJ2YXJkLmVkdS9tYW5pZmVzdHMvaWRzOjQ0NTAwMjg5NQ==$1i) legend, created in 1919 and showing us the different nationalities in Poland at the time.*
 
 
+#### Add the vector datasets to the project
 
-2. Add the vector datasets to the project
+
+
+
+
 3. Inspect the statistics to understand what is going on.
 4. Symbolize some of the variables on the map.
 5. Create a final map to share. 
@@ -161,7 +168,7 @@ After completing the steps on this page, you will have a map you can use to gath
 ### Add the ✨✨✨✨✨✨✨ to the project 
 
 
-1. Download [the ✨✨✨✨ dataset from this Google Drive link ✨✨✨ add link ✨✨✨✨](https://drive.google.com/file/d/1qeJE5Lbhzz0x-QhdeVgGnf7ihWG887b7/view?usp=sharing).
+1. Download [the ✨✨✨✨ dataset from this Google Drive link ✨✨✨ add link ✨✨✨✨](https://drive.google.com/file/d/1tZXwU7OBNlI45PfLtUG5RaFqCKnoVz3G/view?usp=sharing).
 
 2. Uncompress the zipped data folder. If you need help unzipping folders, follow [the steps on this website](https://www.sweetwater.com/sweetcare/articles/how-to-zip-and-unzip-files/).
 
