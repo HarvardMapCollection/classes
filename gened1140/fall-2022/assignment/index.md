@@ -105,7 +105,7 @@ To do this, we are going to work with three datasets:
 *We can use this layer to understand the extent of the region we are studying.*
 
 - A GIS vector dataset containing statistical information about Polish cities in the 1910s, including spoken languages, and the plebiscite vote results, city by city.
-<iframe title="Interactive map of the Polish cities statistical data. Hovering over each city reveals information about the city." src="https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/demo/polish-cities/" width="100%" height="500px"></iframe>
+<iframe title="Interactive map of the Polish cities statistical data. Hovering over each city reveals information about the city." src="https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/demo/polish-cities/" width="100%" height="600px"></iframe>
 *Hover over each city to display the statistics we will be working with.*
 
 
