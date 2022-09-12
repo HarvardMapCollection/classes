@@ -104,7 +104,7 @@ To do this, we are going to work with two datasets:
 Before we get into the step-by-step tutorial, here is a big picture overview of what we will be doing.
 
 
-#### Add the raster data to the GIS project.
+#### Add the raster data to the GIS project
 
 ![GIF showing the 1919 map superimposed over a modern map of Europe](media/poland-opacity.gif)
 *[Historic map of Poland](https://iiif.lib.harvard.edu/manifests/view/ext:aHR0cHM6Ly9paWlmLmxpYi5oYXJ2YXJkLmVkdS9tYW5pZmVzdHMvaWRzOjQ0NTAwMjg5NQ==$1i) after we georeferenced it so it lines up with all of our other data.*
