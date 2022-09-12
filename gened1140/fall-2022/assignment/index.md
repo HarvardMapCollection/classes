@@ -107,7 +107,7 @@ To do this, we are going to work with two datasets:
 *[Historic map of Poland](https://iiif.lib.harvard.edu/manifests/view/ext:aHR0cHM6Ly9paWlmLmxpYi5oYXJ2YXJkLmVkdS9tYW5pZmVzdHMvaWRzOjQ0NTAwMjg5NQ==$1i) after we georeferenced it so it lines up with all of our other data.*
 
 ![Map key of the historic map showing the different ethnicities breakdown](media/2-1.png)
-*[Historic map of Poland](https://iiif.lib.harvard.edu/manifests/view/ext:aHR0cHM6Ly9paWlmLmxpYi5oYXJ2YXJkLmVkdS9tYW5pZmVzdHMvaWRzOjQ0NTAwMjg5NQ==$1i) legend, showing the different ethnicities in Poland in 1919.*
+*The [map from above's](https://iiif.lib.harvard.edu/manifests/view/ext:aHR0cHM6Ly9paWlmLmxpYi5oYXJ2YXJkLmVkdS9tYW5pZmVzdHMvaWRzOjQ0NTAwMjg5NQ==$1i) legend, created in 1919 and showing us the different nationalities in Poland at the time.*
 
 
 
