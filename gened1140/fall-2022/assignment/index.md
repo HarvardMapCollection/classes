@@ -101,8 +101,17 @@ To do this, we are going to work with two datasets:
 
 ### Tutorial steps overview
 
-1. Add the georeferenced map showing nationalities in Poland to the GIS project.
-2. Add the dataset with various city statistics to the project.
+1. Add the raster data to the GIS project
+
+![GIF showing the 1919 map superimposed over a modern map of Europe](media/poland-opacity.gif)
+*[Historic map of Poland](https://iiif.lib.harvard.edu/manifests/view/ext:aHR0cHM6Ly9paWlmLmxpYi5oYXJ2YXJkLmVkdS9tYW5pZmVzdHMvaWRzOjQ0NTAwMjg5NQ==$1i) after we georeferenced it so it lines up with all of our other data.*
+
+![Map key of the historic map showing the different ethnicities breakdown](media/2-1.png)
+*[Historic map of Poland](https://iiif.lib.harvard.edu/manifests/view/ext:aHR0cHM6Ly9paWlmLmxpYi5oYXJ2YXJkLmVkdS9tYW5pZmVzdHMvaWRzOjQ0NTAwMjg5NQ==$1i) legend, showing the different ethnicities in Poland in 1919.*
+
+
+
+2. Add the vector datasets to the project
 3. Inspect the statistics to understand what is going on.
 4. Symbolize some of the variables on the map.
 5. Create a final map to share. 
@@ -114,7 +123,7 @@ After completing the steps on this page, you will have a map you can use to gath
 
 ## Tutorial
 
-### Add the Nationalities of Poland map from 1919 to the project
+### Add the raster data to the project
 
 1. If you haven't already, [download and install QGIS](https://harvardmapcollection.github.io/tutorials/qgis/download/).
 
@@ -141,6 +150,7 @@ After completing the steps on this page, you will have a map you can use to gath
 
 10. Copy and paste the following link into where it asks for a URL: `https://allmaps.xyz/maps/8d5cc5d1fec615d6/{z}/{x}/{y}.png`.
 ![Screenshot of XYZ Connection wizard in QGIS](media/25.png)
+> To learn how to we georeferenced this [map from our Digital Collections](https://iiif.lib.harvard.edu/manifests/view/ext:aHR0cHM6Ly9paWlmLmxpYi5oYXJ2YXJkLmVkdS9tYW5pZmVzdHMvaWRzOjQ0NTAwMjg5NQ==$1i), you can follow [this tutorial](https://harvardmapcollection.github.io/tutorials/allmaps/georeference/).  
 
 11. Accept all other defaults. Select `OK`.
 
@@ -151,7 +161,7 @@ After completing the steps on this page, you will have a map you can use to gath
 ### Add the ✨✨✨✨✨✨✨ to the project 
 
 
-1. Download [the ✨✨✨✨ dataset from this Google Drive link ✨✨✨ add link ✨✨✨✨](https://drive.google.com/file/d/1obY7HqJkTjwLe8z6zMsg5ogg4gKDIgIE/view?usp=sharing).
+1. Download [the ✨✨✨✨ dataset from this Google Drive link ✨✨✨ add link ✨✨✨✨](https://drive.google.com/file/d/1qeJE5Lbhzz0x-QhdeVgGnf7ihWG887b7/view?usp=sharing).
 
 2. Uncompress the zipped data folder. If you need help unzipping folders, follow [the steps on this website](https://www.sweetwater.com/sweetcare/articles/how-to-zip-and-unzip-files/).
 
