@@ -117,15 +117,15 @@ To do this, we are going to work with three datasets:
 Before we get into the step-by-step tutorial, here is a big picture overview of what we will be doing.
 
 
-1. Add the raster data to the GIS project.
-2. Add the vector datasets to the project
-3. Inspect the statistics dataset to understand what is going on.
-4. Symbolize some of the variables on the map.
-5. Create a final map to share. 
+1. Adding the raster data (the historical map) to the GIS project.
+2. Adding the vector datasets (the plebiscite region and the statistics about Polish cities) to the project
+3. Inspecting the Polish cities statistics dataset to get a clearer picture of the region at the time.
+4. Symbolizing some of the variables on the map.
+5. Designing a "for print" map we could share with others.
 
 ### How to use this tutorial for your assignment
 
-After completing the steps on this page, you will have a map you can use to gather insights for your writing assignment. At any time, you can skip to the [finished maps ✨✨✨ make this page ✨✨✨✨✨](add link ✨✨✨✨✨✨✨). You can also [email us at maps@harvard.edu](mailto:maps@harvard.edu) if anything isn't working how it should be (don't hesitate to ask -- if it's not working for you, it might not be working for others).
+After completing the steps on this page, you will have explored maps and datasets which can shed light on the topic for your midterm writing prompt. At any time, you can skip ahead to the [finished maps ✨✨✨ make this page ✨✨✨✨✨](add link ✨✨✨✨✨✨✨). You can also [email us at maps@harvard.edu](mailto:maps@harvard.edu) if anything isn't working how it should be (don't hesitate to ask -- if it's not working for you, it might not be working for others).
 
 
 ## Tutorial
