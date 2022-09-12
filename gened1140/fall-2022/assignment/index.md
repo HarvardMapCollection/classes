@@ -100,11 +100,13 @@ To do this, we are going to work with three datasets:
 ![Map key of the historic map showing the different ethnicities breakdown](media/2-1.png)
 *Here is the map legend showing what we can learn from the map -- the breakdown of nationalities in Poland at the time the map was made, in 1919.*
 
-- A vector dataset representing the extent of the Allenstein plebiscite region.
+- A GIS vector dataset representing the extent of the Allenstein plebiscite region.
 ![An outline around the plebiscite region in Poland](media/2-2.png)
 *We can use this layer to reference the area in question.*
 
-- A vector dataset containing statistical information about Polish cities in the 1910s, including spoken languages, and the plebiscite vote results, city by city.
+- A GIS vector dataset containing statistical information about Polish cities in the 1910s, including spoken languages, and the plebiscite vote results, city by city.
+![](media/2-4.png)
+![](media/2-3.png)
 
 
 ### Tutorial steps overview
