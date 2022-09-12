@@ -115,7 +115,7 @@ To do this, we are going to work with three datasets:
 Before we get into the step-by-step tutorial, here is a big picture overview of what we will be doing.
 
 
-1. Adding the raster data to the GIS project.
+1. Adding the raster dataset to the GIS project.
 2. Adding the vector datasets to the GIS project. 
 3. Exploring the Polish cities dataset.
 4. Experimenting with different map symbology.
@@ -130,7 +130,7 @@ For help using this tutorial, don't hesitate to [email us at maps@harvard.edu](m
 
 ## Tutorial
 
-### Adding the raster data to the GIS project
+### Adding the raster dataset to the GIS project
 
 1. If you haven't already, [download and install QGIS](https://harvardmapcollection.github.io/tutorials/qgis/download/).
 
