@@ -105,9 +105,10 @@ To do this, we are going to work with three datasets:
 *We can use this layer to understand the extent of the region we are studying.*
 
 - A GIS vector dataset containing statistical information about Polish cities in the 1910s, including spoken languages, and the plebiscite vote results, city by city.
-![](media/2-3.png)
-*Here are the cities we are looking at. *
-![](media/2-4.png)
+![screenshot of the Polish statistical data displayed as points on a map](media/2-3.png)
+*The city statistical data, displayed on a map.*
+![screenshot of the Polish statistical data displayed as a table](media/2-4.png)
+*The city statistical data, displayed as a table.*
 
 
 
