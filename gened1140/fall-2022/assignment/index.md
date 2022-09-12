@@ -111,7 +111,7 @@ To do this, we are going to work with three datasets:
 We created the Polish cities dataset using this table we found in an article published in *The American Political Science Review*. Here is a link to the _[HOLLIS record](https://hollis.harvard.edu/permalink/f/1mdq5o5/TN_cdi_crossref_primary_10_2307_1947652)_ for the article from which the cities data is derived.
 
 ![screenshot of a table from an online journal article showing stats for Polish cities](media/book-table.png)
-*Table we used to create the GIS data for Polish cities*
+*Table we used to create the GIS data for Polish cities.*
 
 
 ### Tutorial steps overview
