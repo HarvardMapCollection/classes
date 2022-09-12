@@ -172,16 +172,20 @@ For help using this tutorial, don't hesitate to [email us at maps@harvard.edu](m
 ### Adding the vector datasets to the GIS project
 
 
-1. Download [the ✨✨✨✨ dataset from this Google Drive link ✨✨✨ add link ✨✨✨✨](https://drive.google.com/file/d/1tZXwU7OBNlI45PfLtUG5RaFqCKnoVz3G/view?usp=sharing).
+1. Download [the zipped data from this Google Drive link](https://drive.google.com/file/d/1tZXwU7OBNlI45PfLtUG5RaFqCKnoVz3G/view?usp=sharing).
 
 2. Uncompress the zipped data folder. If you need help unzipping folders, follow [the steps on this website](https://www.sweetwater.com/sweetcare/articles/how-to-zip-and-unzip-files/).
 
 3. In the very top QGIS program menu, select `Layer → Add Layer → Add Vector Layer`. 
 ![Screenshot of Add Vector Layer menu option in QGIS](media/13.png)
 
-4. In the Data Source Manager, Under `Source`, click the ellipsis next to `Vector dataset(s)`. This will open your computer's files. Navigate to where you downloaded and unzipped the project data. Select the file `✨✨✨✨✨✨✨.shp`.
+4. In the Data Source Manager, Under `Source`, click the ellipsis next to `Vector dataset(s)`. This will open your computer's files. Navigate to where you downloaded and unzipped the project data. In the `allenstein-region` folder, select the file `allenstein-region.shp`.
 
+5. Select `Open`.
 
+6. Select `Add` and `Close`. The `allenstein-region` layer should now appear in your layer list, and on your map.
+
+6. Follow the same prompts to add the Polish cities statistical data. In the Data Source Manager, Under `Source`, click the ellipsis next to `Vector dataset(s)`. This will open your computer's files. Navigate to where you downloaded and unzipped the project data. In the `poland-stats` folder, select the file `poland-stats.shp`.
 
 ### Exploring the Polish cities dataset
 
