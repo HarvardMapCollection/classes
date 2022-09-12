@@ -115,11 +115,11 @@ To do this, we are going to work with three datasets:
 Before we get into the step-by-step tutorial, here is a big picture overview of what we will be doing.
 
 
-1. Adding the raster dataset to the GIS project.
-2. Adding the vector datasets to the GIS project. 
-3. Exploring the Polish cities dataset.
-4. Experimenting with different map symbology.
-5. Designing a shareable map "for print".
+1. Adding the raster dataset to the GIS project
+2. Adding the vector datasets to the GIS project
+3. Exploring the Polish cities dataset
+4. Experimenting with different map symbology
+5. Designing a shareable map "for print"
 
 ### How to use this tutorial for your assignment
 
