@@ -130,7 +130,7 @@ For help using this tutorial, don't hesitate to [email us at maps@harvard.edu](m
 
 ## Tutorial
 
-### Add the raster data to the project
+### Adding the raster data to the GIS project
 
 1. If you haven't already, [download and install QGIS](https://harvardmapcollection.github.io/tutorials/qgis/download/).
 
@@ -165,7 +165,7 @@ For help using this tutorial, don't hesitate to [email us at maps@harvard.edu](m
 > It might take a few moments to render. As you zoom in and pan around, you are querying the map data at different zoom levels. The resolution should improve as it finishes loading.
 
 
-### Add the vector data to the project 
+### Adding the vector datasets to the GIS project
 
 
 1. Download [the ✨✨✨✨ dataset from this Google Drive link ✨✨✨ add link ✨✨✨✨](https://drive.google.com/file/d/1tZXwU7OBNlI45PfLtUG5RaFqCKnoVz3G/view?usp=sharing).
@@ -179,3 +179,8 @@ For help using this tutorial, don't hesitate to [email us at maps@harvard.edu](m
 
 
 
+### Exploring the Polish cities dataset
+
+### Experimenting with different map symbology
+
+### Designing a shareable map “for print” 
