@@ -107,10 +107,10 @@ Before we get into the step-by-step tutorial, here is a big picture overview of 
 #### Add the raster data to the GIS project
 
 ![GIF showing the 1919 map superimposed over a modern map of Europe](media/poland-opacity.gif)
-*[Historic map of Poland](https://iiif.lib.harvard.edu/manifests/view/ext:aHR0cHM6Ly9paWlmLmxpYi5oYXJ2YXJkLmVkdS9tYW5pZmVzdHMvaWRzOjQ0NTAwMjg5NQ==$1i) after we georeferenced it so it lines up with all of our other data.*
+*[Historic map of Poland](https://iiif.lib.harvard.edu/manifests/view/ids:445002895) after we georeferenced it so it lines up with all of our other data.*
 
 ![Map key of the historic map showing the different ethnicities breakdown](media/2-1.png)
-*The [map from above's](https://iiif.lib.harvard.edu/manifests/view/ext:aHR0cHM6Ly9paWlmLmxpYi5oYXJ2YXJkLmVkdS9tYW5pZmVzdHMvaWRzOjQ0NTAwMjg5NQ==$1i) legend, created in 1919 and showing us the different nationalities in Poland at the time.*
+*The [map from above's](https://iiif.lib.harvard.edu/manifests/view/ids:445002895) legend, created in 1919 and showing us the different nationalities in Poland at the time.*
 
 
 #### Add the vector datasets to the project
@@ -157,7 +157,7 @@ After completing the steps on this page, you will have a map you can use to gath
 
 10. Copy and paste the following link into where it asks for a URL: `https://allmaps.xyz/maps/8d5cc5d1fec615d6/{z}/{x}/{y}.png`.
 ![Screenshot of XYZ Connection wizard in QGIS](media/25.png)
-> To learn how to we georeferenced this [map from our Digital Collections](https://iiif.lib.harvard.edu/manifests/view/ext:aHR0cHM6Ly9paWlmLmxpYi5oYXJ2YXJkLmVkdS9tYW5pZmVzdHMvaWRzOjQ0NTAwMjg5NQ==$1i), you can follow [this tutorial](https://harvardmapcollection.github.io/tutorials/allmaps/georeference/).  
+> To learn how to we georeferenced this [map from our Digital Collections](https://iiif.lib.harvard.edu/manifests/view/ids:445002895), you can follow [this tutorial](https://harvardmapcollection.github.io/tutorials/allmaps/georeference/).  
 
 11. Accept all other defaults. Select `OK`.
 
