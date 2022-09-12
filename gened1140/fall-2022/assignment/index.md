@@ -106,9 +106,9 @@ To do this, we are going to work with three datasets:
 
 - A GIS vector dataset containing statistical information about Polish cities in the 1910s, including spoken languages, and the plebiscite vote results, city by city.
 ![screenshot of the Polish statistical data displayed as points on a map](media/2-3.png)
-*The city statistical data, displayed on a map.*
+*Here are the cities we are studying, displayed as points on a map.*
 ![screenshot of the Polish statistical data displayed as a table](media/2-4.png)
-*The city statistical data, displayed as a table.*
+*Here is the same point dataset, but displayed as a table, instead of a map. Later in this tutorial, we will learn how to make sense of the statistical values.*
 
 
 
@@ -165,7 +165,7 @@ After completing the steps on this page, you will have explored maps and dataset
 > It might take a few moments to render. As you zoom in and pan around, you are querying the map data at different zoom levels. The resolution should improve as it finishes loading.
 
 
-### Add the ✨✨✨✨✨✨✨ to the project 
+### Add the vector data to the project 
 
 
 1. Download [the ✨✨✨✨ dataset from this Google Drive link ✨✨✨ add link ✨✨✨✨](https://drive.google.com/file/d/1tZXwU7OBNlI45PfLtUG5RaFqCKnoVz3G/view?usp=sharing).
