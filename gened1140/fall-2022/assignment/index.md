@@ -187,6 +187,10 @@ For help using this tutorial, don't hesitate to [email us at maps@harvard.edu](m
 
 6. Follow the same prompts to add the Polish cities statistical data. In the Data Source Manager, Under `Source`, click the ellipsis next to `Vector dataset(s)`. This will open your computer's files. Navigate to where you downloaded and unzipped the project data. In the `poland-stats` folder, select the file `poland-stats.shp`.
 
+5. Select `Open`.
+
+6. Select `Add` and `Close`. The `poland-stats` layer should now appear in your layer list, and on your map.
+
 ### Exploring the Polish cities dataset
 
 ### Experimenting with different map symbology
