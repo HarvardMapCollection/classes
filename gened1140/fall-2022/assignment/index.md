@@ -161,7 +161,7 @@ For help using this tutorial, don't hesitate to [email us at maps@harvard.edu](m
 
 10. Copy and paste the following link into where it asks for a URL: `https://allmaps.xyz/maps/8d5cc5d1fec615d6/{z}/{x}/{y}.png`
 ![Screenshot of XYZ Connection wizard in QGIS](media/25.png)
-> To learn how to we georeferenced this [map from our Digital Collections](https://iiif.lib.harvard.edu/manifests/view/ids:445002895), you can follow [this tutorial](https://harvardmapcollection.github.io/tutorials/allmaps/georeference/).  
+> To learn how we georeferenced this [map from our Digital Collections](https://iiif.lib.harvard.edu/manifests/view/ids:445002895), you can follow [this tutorial](https://harvardmapcollection.github.io/tutorials/allmaps/georeference/).  
 
 11. Accept all other defaults. Select `OK`.
 
