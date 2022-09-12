@@ -123,7 +123,9 @@ Before we get into the step-by-step tutorial, here is a big picture overview of 
 
 ### How to use this tutorial for your assignment
 
-After completing the steps on this page, you will have explored maps and datasets which will help shed light on the midterm topic. At any point, you can skip ahead to check out the[finished maps](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/completed). You can also [email us at maps@harvard.edu](mailto:maps@harvard.edu) if anything isn't working how it should be (don't hesitate to ask -- if it's not working for you, it might not be working for others).
+After completing the steps on this page, you will have explored maps and datasets which will help shed light on the midterm topic. At any point, you can skip ahead to check out the[finished maps](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/completed). 
+
+For help using this tutorial, don't hesitate to [email us at maps@harvard.edu](mailto:maps@harvard.edu). If something's not working for you, it might not be working for others.
 
 
 ## Tutorial
