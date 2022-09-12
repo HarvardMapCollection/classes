@@ -155,7 +155,7 @@ For help using this tutorial, don't hesitate to [email us at maps@harvard.edu](m
 
 8. In the left-hand browser menu, right-click `XYZ Tiles` and select `New Connection`. 
 ![Screenshot of New XYZ tile connection menu option in QGIS](media/9.png)
-> We are adding the map of Poland nationalities. This map has already been georeferenced. Georeferencing maps like this one allows us to overlay it onto other maps and directly compare maps and data of the same area. It is currently hosted online as a streaming data layer. We can bring it into our project by specifying in QGIS what the layer URL is.
+> We are adding the map of Poland nationalities. This map has already been georeferenced. Georeferencing maps like this one allows us to overlay it onto other maps and directly compare maps and data of the same area. The map is currently hosted online as a streaming data layer. We can bring it into our project by specifying in QGIS what the layer URL is.
 
 9. In the XYZ Connection wizard, title the new layer `Poland Nationalities 1919`.
 
