@@ -97,7 +97,7 @@ In this tutorial we are going to leverage GIS tools and data to look at demograp
 To do this, we are going to work with three datasets:
 - A [map showing nationalities in Poland](https://digitalcollections.library.harvard.edu/catalog/990152910700203941) in 1919. We have already georeferenced the map, so it lines up nicely with our other data.
 ![GIF showing the 1919 map superimposed over a modern map of Europe](media/poland-opacity.gif)
-![Map key of the historic map showing the different ethnicities breakdown](media/2-1.png)
+![Map key of the historic map showing the different ethnicities breakdown](media/legend.gif)
 *Here is the map legend showing what we can learn from the map -- the breakdown of nationalities in Poland at the time the map was made, in 1919.*
 
 - A GIS vector dataset representing the extent of the Allenstein plebiscite region.
@@ -105,8 +105,10 @@ To do this, we are going to work with three datasets:
 *We can use this layer to understand the area in question.*
 
 - A GIS vector dataset containing statistical information about Polish cities in the 1910s, including spoken languages, and the plebiscite vote results, city by city.
-![](media/2-4.png)
 ![](media/2-3.png)
+*Here are the cities we are looking at. *
+![](media/2-4.png)
+
 
 
 ### Tutorial steps overview
