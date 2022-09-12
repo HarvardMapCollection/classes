@@ -105,10 +105,8 @@ To do this, we are going to work with three datasets:
 *We can use this layer to understand the extent of the region we are studying.*
 
 - A GIS vector dataset containing statistical information about Polish cities in the 1910s, including spoken languages, and the plebiscite vote results, city by city.
-![screenshot of the Polish statistical data displayed as points on a map](media/2-3.png)
-*Here are the cities we are studying, displayed as points on a map.*
-![screenshot of the Polish statistical data displayed as a table](media/2-4.png)
-*Here is the same point dataset, but displayed as a table, instead of a map. Later in this tutorial, we will learn how to make sense of the statistical values.*
+<iframe title="Interactive map of the Polish cities statistical data. Hovering over each city reveals information about the city." src="https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/demo/polish-cities/" width="100%" height="500px"></iframe>
+*Hover over each city to display the statistics we will be working with.*
 
 
 
@@ -117,15 +115,15 @@ To do this, we are going to work with three datasets:
 Before we get into the step-by-step tutorial, here is a big picture overview of what we will be doing.
 
 
-1. Adding the raster data (the historical map) to the GIS project.
-2. Adding the vector datasets (the plebiscite region and the statistics about Polish cities) to the project
-3. Inspecting the Polish cities statistics dataset to get a clearer picture of the region at the time.
-4. Symbolizing some of the variables on the map.
-5. Designing a "for print" map we could share with others.
+1. Adding the raster data to the GIS project.
+2. Adding the vector datasets to the GIS project. 
+3. Exploring the Polish cities dataset.
+4. Experimenting with different map symbology.
+5. Designing a shareable map "for print".
 
 ### How to use this tutorial for your assignment
 
-After completing the steps on this page, you will have explored maps and datasets which can shed light on the topic for your midterm writing prompt. At any time, you can skip ahead to the [finished maps ✨✨✨ make this page ✨✨✨✨✨](add link ✨✨✨✨✨✨✨). You can also [email us at maps@harvard.edu](mailto:maps@harvard.edu) if anything isn't working how it should be (don't hesitate to ask -- if it's not working for you, it might not be working for others).
+After completing the steps on this page, you will have explored maps and datasets which can shed light on the topic you'll be writing about for your midterm. At any point, you can skip ahead to check out the[finished maps ✨✨✨ make this page ✨✨✨✨✨](add link ✨✨✨✨✨✨✨). You can also [email us at maps@harvard.edu](mailto:maps@harvard.edu) if anything isn't working how it should be (don't hesitate to ask -- if it's not working for you, it might not be working for others).
 
 
 ## Tutorial
