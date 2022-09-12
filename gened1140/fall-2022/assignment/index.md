@@ -98,7 +98,7 @@ To do this, we are going to work with three datasets:
 - A [map showing nationalities in Poland](https://digitalcollections.library.harvard.edu/catalog/990152910700203941) in 1919. We have already georeferenced the map, so it lines up nicely with our other data.
 ![GIF showing the 1919 map superimposed over a modern map of Europe](media/poland-opacity.gif)
 ![Map key of the historic map showing the different ethnicities breakdown](media/2-1.png)
-*Here is the map legend, showing the breakdown of nationalities in Poland at the time the map was made, in 1919.*
+*Here is the map legend showing what we can learn from the map -- the breakdown of nationalities in Poland at the time the map was made, in 1919.*
 
 - A vector dataset representing the extent of the Allenstein plebiscite region.
 ![An outline around the plebiscite region in Poland](media/2-2.png)
