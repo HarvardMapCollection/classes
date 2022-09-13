@@ -114,17 +114,6 @@ We created the Polish cities dataset using this table found in an article publis
 *Table we used to create the GIS data for Polish cities.*
 
 
-### Tutorial steps overview
-
-Before we get into the step-by-step tutorial, here is a big picture overview of what we will be doing.
-
-
-1. Adding the raster dataset to the GIS project
-2. Adding the vector datasets to the GIS project
-3. Exploring the Polish cities dataset
-4. Experimenting with different map symbology
-5. Designing a shareable map "for print"
-
 ### How to use this tutorial for your assignment
 
 After completing the steps on this page, you will have explored maps and datasets which will help with the midterm topic. You can always skip ahead to check out the [finished maps](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/completed). 
@@ -189,7 +178,9 @@ For help using this tutorial, don't hesitate to email us at [maps@harvard.edu](m
 
 5. Select `Open`.
 
-6. Select `Add` and `Close`. The `poland-stats` layer should now appear in your layer list, and on your map.
+6. Select `Add` and `Close`. The `poland-stats` layer should now appear in your layer list, and on your map. Your map document should look something like this. 
+![Screenshot of the QGIS document showing all three layers](media/2-5.png)
+*All three layers, the georeferenced map, the allenstein region, and the polish cities statistics.*
 
 ### Exploring the Polish cities dataset
 
