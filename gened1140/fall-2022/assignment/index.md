@@ -95,16 +95,16 @@ In this tutorial we are going to leverage GIS tools and data to look at demograp
 
 
 To do this, we are going to work with three datasets:
-- A [map showing nationalities in Poland](https://digitalcollections.library.harvard.edu/catalog/990152910700203941) in 1919. We have already georeferenced the map, so it lines up nicely with our other data.
+1. A [map showing nationalities in Poland](https://digitalcollections.library.harvard.edu/catalog/990152910700203941) in 1919. We have already georeferenced the map, so it lines up nicely with our other data.
 ![GIF showing the 1919 map superimposed over a modern map of Europe](media/poland-opacity.gif)
 ![Map key of the historic map showing the different ethnicities breakdown](media/legend.gif)
 *Here is the map legend showing what we can learn from the map -- the breakdown of nationalities in Poland at the time the map was made, in 1919.*
 
-- A GIS vector dataset representing the extent of the Allenstein plebiscite region.
+2. A GIS vector dataset representing the extent of the Allenstein plebiscite region.
 ![An outline around the plebiscite region in Poland](media/2-2.png)
 *We can use this layer to understand the extent of the region we are studying.*
 
-- A GIS vector dataset containing statistical information about Polish cities in the 1910s, including spoken languages, and the plebiscite vote results, city by city.
+3. A GIS vector dataset containing statistical information about Polish cities in the 1910s, including spoken languages, and the plebiscite vote results, city by city.
 <iframe title="Interactive map of the Polish cities statistical data. Hovering over each city reveals information about the city." src="https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/demo/polish-cities/" width="100%" height="600px"></iframe>
 *Hover over each city to display the statistics we will be working with.*
 
