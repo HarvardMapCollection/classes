@@ -185,7 +185,9 @@ For help using this tutorial, don't hesitate to email us at [maps@harvard.edu](m
 ![Screenshot of the QGIS document showing all three layers](media/2-5.png)
 *All three layers, the georeferenced map, the allenstein region, and the polish cities statistics.*
 
-7. Let's make this data a little easier to work with. Double-click the `allenstein-region` layer in the `Layers Panel`. This will open up the `Layer Properties` for the 
+7. Let's make this data a little easier to work with. Double-click the `allenstein-region` layer in the `Layers Panel`. This will open up the `Layer Properties` for the `allenstein-region` shapefile. 
+
+
 
 ### Exploring the Polish cities dataset
 
