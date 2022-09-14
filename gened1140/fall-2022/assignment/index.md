@@ -281,4 +281,11 @@ If you are having trouble with this tutorial, please don't hesitate to reach out
 9. If we consult the legend from our historcal map, we can remember that `red` represents Polish, and `blue` represents Germans. We can compare this demographic breakdown on the historic map from 1919 with the pattern we are seeing in the Polish-speaking school children data from 1911. 
 ![Screenshot of the historical map legend, showing red for Polish and blue for Germany. It shows that in the area where we are studying there was a high percentage of Polish people.](media/legend.png)
 
+10. Now let's compare this nationality data against the results of the plebiscite vote. This is the data we are going to use to make our finished map. We are going to compare the votes for East Prussia (or Germany) against the votes for Poland. Double-click the `poland-stats` layer in the `Layer Panel` to open the `Layer Properties`. 
+
+11. Under the `Symbology` tab, engage the drop-down that reads `Graduated`, and change it to `No Symbols`.
+![GIF of how to disable symbology in QGIS](media/no-symbols.gif)
+> We are going to emulate the comparative proportional symbol style of this hand-drawn map in the Harvard Map Collection's digital collections. This map from 1911 shows Polish school children (in black) compared to German school children (in white) in the pie charts, scaled by size depending on the total number of children who lived in that city. We are going to apply the same symbology to look at votes for Germany vs. votes for Poland in the plebiscite result. 
+![Screenshot of old hand-drawn map of Poland showing pie chart symbols for German vs. Polish schoolchildren](media/poland-old-map.png)
+
 ### Designing a shareable map “for print” 
