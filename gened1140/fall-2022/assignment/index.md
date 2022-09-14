@@ -223,6 +223,11 @@ If you are having trouble with this tutorial, please don't hesitate to reach out
 20. Click the color bar next to `Color` and paste the same `#e0f3db` color code into the `HTML notation` field. The color may appear in the `Recent Colors` window, in which case, you can click on that instead of copy pasting. 
 ![GIF of changing the text color](media/text-color.gif)
 
+21. Let's add a drop shadow to make the label stand out better against the map background. Select the label tab called `Shadow`, and toggle on `Draw drop shadow`.
+![GIF of toggling on the drop shadow](media/drop-shadow.gif)
+
+22.
+
 ### Exploring the Polish cities dataset
 
 ### Experimenting with different map symbology
