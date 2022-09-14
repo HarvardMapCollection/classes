@@ -229,6 +229,12 @@ If you are having trouble with this tutorial, please don't hesitate to reach out
 22. Select `OK`. Your map should now look like this, with the Allenstein region outlined and labeled. 
 ![Screenshot of the map with the allenstein region labeled](media/2-10.png)
 
+23. The points representing the Polish cities in the `poland-stats` layer are also quite small and difficult to see. Let's make them bigger. Double-click the `poland-stats` layer in the `Layers Panel` to open the `Layer Properties`. 
+
+24. Select the `Symbology` tab.
+
+25. 
+
 ### Exploring the Polish cities dataset
 
 ### Experimenting with different map symbology
