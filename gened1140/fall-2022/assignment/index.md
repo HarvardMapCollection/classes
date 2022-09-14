@@ -191,17 +191,21 @@ If you are having trouble with this tutorial, please don't hesitate to reach out
 10. In the `Fill Style` drop-down, change `Solid` to `No Brush`.
 ![Screenshot of Fill style symbology options in QGIS](media/no-brush.gif)
 
-11. Let's change the border outline, or "Stroke", to a color and width that appears a bit more prominently against the detail of the bold colors on the historic map. Click the colorful bar which appears to the right of the `Fill Color` option to open the `Select Fill Color` menu.
-![GIF of clicking on the select fill color menu](media/select-fill-color.gif)
+11. Let's change the border outline, or "Stroke", to a color and width that appears a bit more prominently against the detail of the bold colors on the historic map. Click the colorful bar which appears to the right of the `Stroke Color` option to open the `Select Stroke Color` menu.
+![GIF of clicking on the select stroke color menu](media/select-fill-color.gif)
 
-12. There are lots of tabs and ways to choose colors using this menu. You can click around to explore some of the ways. We're going to use a light greenish color which will pop against the map background. Paste the color code for this color into where it says `HTML notation`. The value to paste in is `#e0f3db`
+12. There are lots of tabs and ways to choose colors using this menu. Click around and explore. We're going to use a light greenish color which will pop against the map background. Paste the color code for this color into where it says `HTML notation`. The value to paste in is `#e0f3db`
 ![GIF of pasting in the correct color code](media/color-code.gif)
 > To learn more about color codes, check out [htmlcolorcodes.com](https://htmlcolorcodes.com/).
 
 13. Increase the `Stroke Width` to `1.0`.
 ![Screenshot of the Stroke width symbology options in QGIS](media/stroke-width.gif)
 
-12. Select `OK`
+14. Select `OK`
+
+15. This works better for us, because now we can see the extent of the plebiscite region, but can also "peer under" the layer to see the details of the historic map. Your map should look something like this.
+![Screenshot of map with the allenstein region layer's symbology adjusted](media/2-7.png)
+
 
 ### Exploring the Polish cities dataset
 
