@@ -271,10 +271,14 @@ If you are having trouble with this tutorial, please don't hesitate to reach out
 5. Change the `Method` from `Color` to `Size`.
 ![GIF of changing the method in the symbology layer properties](media/method.gif)
 
-6. Change the upper-range of the point symbol size scale to `6.0` millimeters. 
-![GIF showing manually changing the symbol size scale from 8.0 to 6.0 millimeters](media/size-scale.gif)
 
 7. Select `Classify` in the bottom-left corner of the symbology interface.
 ![Screenshot of the symbology interface with the classify button highlighted](media/2-14.png)
+
+8. Select `OK`. We can now see the spatial breakdown of where cities with high percentages of Polish-speaking school children lived. 
+![Screenshot of graduated point symbols showing Polish school children](media/schoolchildren.png)
+
+9. If we consult the legend from our historcal map, we can remember that `red` represents Polish, and `blue` represents Germans. We can compare this demographic breakdown on the historic map from 1919 with the pattern we are seeing in the Polish-speaking school children data from 1911. 
+![Screenshot of the historical map legend, showing red for Polish and blue for Germany. It shows that in the area where we are studying there was a high percentage of Polish people.](media/legend.png)
 
 ### Designing a shareable map “for print” 
