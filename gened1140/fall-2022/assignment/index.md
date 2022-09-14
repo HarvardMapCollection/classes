@@ -159,7 +159,7 @@ If you are having trouble with this tutorial, please don't hesitate to reach out
 ### Adding the vector datasets to the GIS project
 
 
-1. Download [the zipped data from this Google Drive link](https://drive.google.com/file/d/1tZXwU7OBNlI45PfLtUG5RaFqCKnoVz3G/view?usp=sharing).
+1. Download [the zipped data from this Google Drive link](https://drive.google.com/file/d/1oUeFFey5rcTN6tnFdbKZL0uxNtSUVanX/view?usp=sharing).
 
 2. Uncompress the zipped data folder. If you need help unzipping folders, follow [the steps on this website](https://www.sweetwater.com/sweetcare/articles/how-to-zip-and-unzip-files/).
 
@@ -243,6 +243,11 @@ If you are having trouble with this tutorial, please don't hesitate to reach out
 ![Screenshot of the current map state, showing the cities layer with larger points](media/2-11.png)
 
 ### Exploring the Polish cities dataset
+
+1. Now, let's familiarize ourselves with the Polish cities statistical data. Right-click on the `poland-stats` layer in the `Layer Panel` and select `Open Attribute Table`. 
+![GIF of right-clicking the layer in the layer list to open attribute table](media/open-attribute-table.gif)
+
+2. 
 
 ### Experimenting with different map symbology
 
