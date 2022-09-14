@@ -233,7 +233,11 @@ If you are having trouble with this tutorial, please don't hesitate to reach out
 
 24. Select the `Symbology` tab.
 
-25. 
+25. Select where it says `Simple Marker`.
+![GIF of selecting simple marker from the Layer Properties symbology tab](media/simple-marker.gif)
+
+25. In the text box next to `Size`, change the marker size to `6.0`.
+![GIF of changing the marker size from 2.0 to 6.0 in the QGIS layer properties symbology interface](media/marker-size.gif)
 
 ### Exploring the Polish cities dataset
 
