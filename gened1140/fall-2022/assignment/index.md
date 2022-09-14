@@ -220,7 +220,7 @@ If you are having trouble with this tutorial, please don't hesitate to reach out
 19. Select the `Text` tab, and change the size of the label to `14.0`.
 ![GIF of changing the text size](media/text-size.gif)
 
-20. Click the color bar next to `Color` and paste the same `#e0f3db` color code into the `HTML notation` field. The color may appear in the `Recent Colors` window, in which case, you can click on that instead of copy pasting. 
+20. Click the color bar next to `Color` and paste `#eee` as the color code into the `HTML notation` field.  
 ![GIF of changing the text color](media/text-color.gif)
 
 21. Let's add a drop shadow to make the label stand out better against the map background. Select the label tab called `Shadow`, and toggle on `Draw drop shadow`.
@@ -299,5 +299,8 @@ If you are having trouble with this tutorial, please don't hesitate to reach out
 
 15. Double-click each of the `Assigned Attributes` color squares to change the color. For `P0005`, or East Prussia, paste in the HTML color code `#eee`. For `P0006`, or Poland, paste in the color code `#000`. 
 ![GIF showing how to change the colors of the slices in the pie, using the QGIS diagrams interface](media/color-pie.gif)
+
+16. In the `Size` tab of the `Diagram` Properties, change the size from `Fixed Size` to `Scaled Size`. 
+![GIF demonstrating switching from fixed size to scaled size in QGIS diagrams menu](media/piesize.gif)
 
 ### Designing a shareable map “for print” 
