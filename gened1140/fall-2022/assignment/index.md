@@ -159,7 +159,7 @@ If you are having trouble with this tutorial, please don't hesitate to reach out
 ### Adding the vector datasets to the GIS project
 
 
-1. Download [the zipped data from this Google Drive link](https://drive.google.com/file/d/13L1IEkRFI2vTqVxGh9MgUNR5JJp-Z5om/view?usp=sharing).
+1. Download [the zipped data from this Google Drive link](https://drive.google.com/file/d/1OooI5tdRmhADD3_cR5jIrqfUnKRMGEaU/view?usp=sharing).
 
 2. Uncompress the zipped data folder. If you need help unzipping folders, follow [the steps on this website](https://www.sweetwater.com/sweetcare/articles/how-to-zip-and-unzip-files/).
 
