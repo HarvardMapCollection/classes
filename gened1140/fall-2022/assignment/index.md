@@ -303,4 +303,11 @@ If you are having trouble with this tutorial, please don't hesitate to reach out
 16. In the `Size` tab of the `Diagram` Properties, change the size from `Fixed Size` to `Scaled Size`. 
 ![GIF demonstrating switching from fixed size to scaled size in QGIS diagrams menu](media/piesize.gif)
 
+17. Fill out the rest of this dialog box as follows:
+> - For the `Attribute`, select `P0003`, because we want to scale the symbols by the total number of votes.
+- Next to `Maximum value`, click the `Find` button to let it automatically generate the maximum value from the dataset.
+- Set the size to `10.0`, and switch the `Scale` from `Area` to `Diameter`.
+The dialog box should look like this when you're all done:
+![Screenshot of the settings populated in the diagram size menu in QGIS](media/size-params.png)
+
 ### Designing a shareable map “for print” 
