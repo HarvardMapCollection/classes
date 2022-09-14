@@ -208,7 +208,7 @@ If you are having trouble with this tutorial, please don't hesitate to reach out
 15. This works better for us, because now we can see the extent of the plebiscite region, but can also "peer under" the layer to see the details of the historic map. Your map should look something like this.
 ![Screenshot of map with the allenstein region layer's symbology adjusted](media/2-7.png)
 
-16. Let's also label the Allenstein region. Double-click the `allenstein-region` layer in the `Layers Panel` again, to open up the `Layer Properties`.
+16. Now let's label the Allenstein region. Double-click the `allenstein-region` layer in the `Layers Panel` again, to open up the `Layer Properties`.
 ![GIF of double-clicking the layer in the layer list to open the properties](media/layer-props2.gif) 
 
 17. Select the `Labels` tab in the `Layer Properties` menu.
