@@ -91,10 +91,10 @@ If you get an error message that Apple can’t check the app for malicious softw
 
 ## Tutorial overview
 
-In this tutorial we are going to leverage GIS tools and data to look at demographics in Europe around the time of WWI.
+In this tutorial we are going to leverage GIS tools and data to look at demographics in Europe around the time of WWI. At the end, you'll have used maps and datasets which will help write your midterm. At any point, you can skip ahead to the [maps and datasets](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/completed). 
 
 
-To do this, we are going to work with three datasets.
+We are going to be working with three datasets.
 
 ### GIS dataset #1 
 A [map showing nationalities in Poland](https://digitalcollections.library.harvard.edu/catalog/990152910700203941) in 1919. We have already georeferenced the map, so it lines up nicely with our other data.
@@ -117,14 +117,9 @@ A vector points dataset containing statistical information about Polish cities i
 *Table we used to create the GIS data for Polish cities.*
 
 
-### How to use this tutorial for your assignment
-
-After completing the steps on this page, you will have explored maps and datasets which will help with the midterm topic. You can always skip ahead to check out the [finished maps](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/completed). 
-
-For help using this tutorial, don't hesitate to email us at [maps@harvard.edu](mailto:maps@harvard.edu). If something's not working for you, it might not be working for others.
-
-
 ## Tutorial
+
+If you are having trouble with this tutorial, please don't hesitate to reach out to [maps@harvard.edu](mailto:maps@harvard.edu).
 
 ### Adding the raster dataset to the GIS project
 
