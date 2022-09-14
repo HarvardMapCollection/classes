@@ -310,4 +310,16 @@ If you are having trouble with this tutorial, please don't hesitate to reach out
 The dialog box should look like this when you're all done:
 ![Screenshot of the settings populated in the diagram size menu in QGIS](media/size-params.png)
 
+18. Select `OK`. Your map should now look like this, with the symbol showing two comparative variables for each city. 
+![Screenshot of completed pie charts](media/pies-done.png)
+
+
 ### Designing a shareable map “for print” 
+
+Now we are ready to learn how to style a "finished product" version of the map. So far, we have been using GIS to overlay different GIS layers and see how they compare with one another. We've also been exploring the data by looking at the attribute table and playing with the map symbols. So far, we have been trying to understand the data for ourselves. Now, we are going to learn how to prepare an outward-facing map to communicate our findings with others.
+
+1. In the main QGIS menu, select `Project` and then `New Print Layout`. 
+![Screenshot of QGIS interface for how to create a new print layout](media/2-15.png)
+
+2. You can title the new print layout anything you want. We called ours `Vote Results in Poland`.
+![Screenshot of the QGIS interface, with a new print layout titled "Vote Results in Poland"](media/map-title.png)
