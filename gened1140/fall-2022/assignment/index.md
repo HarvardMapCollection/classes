@@ -239,6 +239,9 @@ If you are having trouble with this tutorial, please don't hesitate to reach out
 25. In the text box next to `Size`, change the marker size to `6.0`.
 ![GIF of changing the marker size from 2.0 to 6.0 in the QGIS layer properties symbology interface](media/marker-size.gif)
 
+26. Select `OK`. Your map should look something like this.
+![Screenshot of the current map state, showing the cities layer with larger points](media/2-11.png)
+
 ### Exploring the Polish cities dataset
 
 ### Experimenting with different map symbology
