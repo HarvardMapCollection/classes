@@ -268,6 +268,13 @@ If you are having trouble with this tutorial, please don't hesitate to reach out
 4. We need to tell the program *which* column or attribute we want to create graduated symbology based on. Let's select `P0001`, which as we learned from our codebook, is the percent of Polish-speaking school children in each city. Use the drop-down next to `Value` and select `P0001`.
 ![GIF showing how to use the symbology manager to choose which value to symbolize on.](media/select-grad-value.gif)
 
-5. Change the `Method` from 
+5. Change the `Method` from `Color` to `Size`.
+![GIF of changing the method in the symbology layer properties](media/method.gif)
+
+6. Change the upper-range of the point symbol size scale to `6.0` millimeters. 
+![GIF showing manually changing the symbol size scale from 8.0 to 6.0 millimeters](media/size-scale.gif)
+
+7. Select `Classify` in the bottom-left corner of the symbology interface.
+![Screenshot of the symbology interface with the classify button highlighted](media/2-14.png)
 
 ### Designing a shareable map “for print” 
