@@ -268,6 +268,6 @@ If you are having trouble with this tutorial, please don't hesitate to reach out
 4. We need to tell the program *which* column or attribute we want to create graduated symbology based on. Let's select `P0001`, which as we learned from our codebook, is the percent of Polish-speaking school children in each city. Use the drop-down next to `Value` and select `P0001`.
 ![GIF showing how to use the symbology manager to choose which value to symbolize on.](media/select-grad-value.gif)
 
-
+5. Change the `Method` from 
 
 ### Designing a shareable map “for print” 
