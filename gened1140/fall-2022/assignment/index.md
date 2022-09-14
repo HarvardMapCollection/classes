@@ -167,6 +167,7 @@ If you are having trouble with this tutorial, please don't hesitate to reach out
 ![Screenshot of Add Vector Layer menu option in QGIS](media/13.png)
 
 4. In the Data Source Manager, Under `Source`, click the ellipsis next to `Vector dataset(s)`. This will open your computer's files. Navigate to where you downloaded and unzipped the project data. In the `allenstein-region` folder, select the file `allenstein-region.shp`.
+![GIF of navigating to find the right shapefile file](media/add-shp.gif)
 
 5. Select `Open`.
 
@@ -181,6 +182,7 @@ If you are having trouble with this tutorial, please don't hesitate to reach out
 *All three layers, the georeferenced map, the allenstein region, and the polish cities statistics.*
 
 7. Let's make this data a little easier to work with. Double-click the `allenstein-region` layer in the `Layers Panel`. This will open up the `Layer Properties` for the `allenstein-region` shapefile. 
+![GIF of double-clicking the layer in the layer list to open the properties](media/layer-props1.gif)
 
 8. Select the `Symbology` tab from the Layer Properties menu.
 ![Screenshot of the Symbology layer properties in QGIS](media/2-6.png)
@@ -205,6 +207,9 @@ If you are having trouble with this tutorial, please don't hesitate to reach out
 
 15. This works better for us, because now we can see the extent of the plebiscite region, but can also "peer under" the layer to see the details of the historic map. Your map should look something like this.
 ![Screenshot of map with the allenstein region layer's symbology adjusted](media/2-7.png)
+
+16. Let's also label the Allenstein region. Double-click the `allenstein-region` layer in the `Layers Panel` again, to open up the `Layer Properties`.
+![GIF of double-clicking the layer in the layer list to open the properties](media/layer-props2.gif) 
 
 
 ### Exploring the Polish cities dataset
