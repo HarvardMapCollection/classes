@@ -91,7 +91,7 @@ If you get an error message that Apple can’t check the app for malicious softw
 
 ## Tutorial overview
 
-In this tutorial we are going to leverage GIS tools and data to look at demographics in Europe around the time of WWI. At the end, you'll have maps and datasets which will help with your midterm. At any point, you can skip ahead to the [maps and datasets](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/completed). 
+In this tutorial we are going to leverage GIS tools and datasets to study Poland at the end of WWI. By the end, we will have made maps that help us understand the country's demographic makeup at the time. At any point, you can skip ahead to the [maps and datasets](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/completed). 
 
 
 We are going to be working with three datasets.
@@ -253,7 +253,7 @@ If you are having trouble with this tutorial, please don't hesitate to reach out
 3. You may have noticed that the field headers are not easy to understand. This is common when working with datasets. Because column headers have character limits, datasets often come with codes as the field headers, and you must use what is called a **codebook** to interpret what the columns mean. In the data you downloaded for this activity, navigate to `poland-stats` and open the file `poland-stats-codebook.csv`. 
 ![Screenshot of the codebook](media/2-13.png)
 
-4. Revisit the Polish cities attribute table and use the codebook to make sense of the values in the table. What do you notice? Some of these observations may be helpful for your midterm.
+4. Revisit the Polish cities attribute table and use the codebook to make sense of the values in the table. What do you notice?
 
 ### Using map symbology to notice trends
 
