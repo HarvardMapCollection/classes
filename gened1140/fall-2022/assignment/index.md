@@ -112,7 +112,7 @@ A point dataset containing statistical information about Polish cities in the 19
 <iframe title="Interactive map of the Polish cities statistical data. Hovering over each city reveals information about the city." src="https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/demo/polish-cities/" width="100%" height="600px"></iframe>
 *Hover over each city to display the statistics we will be working with.*
 
-> We created the Polish cities dataset using a table found in an article published in *The American Political Science Review*. Here is a link to the _[HOLLIS record](https://hollis.harvard.edu/permalink/f/1mdq5o5/TN_cdi_crossref_primary_10_2307_1947652)_ for the article from which the cities data is derived.
+> We created the Polish cities dataset using a table found in *The American Political Science Review*. Here is a link to the _[HOLLIS record](https://hollis.harvard.edu/permalink/f/1mdq5o5/TN_cdi_crossref_primary_10_2307_1947652)_ for the article from which the cities data is derived.
 ![screenshot of a table from an online journal article showing stats for Polish cities](media/book-table.png)
 *Table we used to create the GIS data for Polish cities.*
 
