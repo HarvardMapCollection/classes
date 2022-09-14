@@ -226,7 +226,8 @@ If you are having trouble with this tutorial, please don't hesitate to reach out
 21. Let's add a drop shadow to make the label stand out better against the map background. Select the label tab called `Shadow`, and toggle on `Draw drop shadow`.
 ![GIF of toggling on the drop shadow](media/drop-shadow.gif)
 
-22.
+22. Select `OK`. Your map should now look like this, with the Allenstein region outlined and labeled. 
+![Screenshot of the map with the allenstein region labeled](media/2-10.png)
 
 ### Exploring the Polish cities dataset
 
