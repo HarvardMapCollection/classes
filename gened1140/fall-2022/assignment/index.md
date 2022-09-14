@@ -182,7 +182,11 @@ If you are having trouble with this tutorial, please don't hesitate to reach out
 
 7. Let's make this data a little easier to work with. Double-click the `allenstein-region` layer in the `Layers Panel`. This will open up the `Layer Properties` for the `allenstein-region` shapefile. 
 
+8. Select the `Symbology` tab from the Layer Properties menu.
+![Screenshot of the Symbology layer properties in QGIS](media/2-6.png)
 
+9. We want to change the symbology on the plebiscite region layer so that instead of QGIS symbolizing the region as a solid shape, it is just a border around the region. Select where it says `Simple Fill`.
+![GIF of clicking on the Simple Fill button in the Symbology Properties Menu](media/simple-fill.gif)
 
 ### Exploring the Polish cities dataset
 
