@@ -321,5 +321,8 @@ Now we are ready to learn how to style a "finished product" version of the map. 
 1. In the main QGIS menu, select `Project` and then `New Print Layout`. 
 ![Screenshot of QGIS interface for how to create a new print layout](media/2-15.png)
 
-2. You can title the new print layout anything you want. We called ours `Vote Results in Poland`.
+2. You can title the new print layout anything you want. We called ours `Vote Results in Poland`. Select `OK`.
 ![Screenshot of the QGIS interface, with a new print layout titled "Vote Results in Poland"](media/map-title.png)
+
+3. This will open the print layout. You can picture this as a 8 x 11" piece of paper. We are going to draw all the map elements we want onto this layout. Start by selecting the `Add Map` button, which is a few icons down on the vertical icon menu to the left of the print layout canvas. After you have engaged the `Add Map` button, hold and drag your cursor to draw the map onto the entirety of the print layout canvas. 
+![GIF of clicking the Add Map button in the Print Layout, and holding and dragging a new map onto the print layout canvas](media/add-map.gif)
