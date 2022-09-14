@@ -247,8 +247,16 @@ If you are having trouble with this tutorial, please don't hesitate to reach out
 1. Now, let's familiarize ourselves with the Polish cities statistical data. Right-click on the `poland-stats` layer in the `Layer Panel` and select `Open Attribute Table`. 
 ![GIF of right-clicking the layer in the layer list to open attribute table](media/open-attribute-table.gif)
 
-2. 
+2. You should see a table where each row is one of the Polish cities on the map, and each layer is a statistical figure about that city. Take a look and try to make sense of the table.
+![Screenshot of the Polish cities attribute table showing rows of cities and columns with indiscernible field headers](media/2-12.png)
+
+3. You may have noticed that the field headers are not easy to understand. This is common when working with datasets. Because column headers have character limits, datasets often come with codes as the field headers, and you must use what is called a **codebook** to interpret what the columns mean. In the data you downloaded for this activity, navigate to `poland-stats` and open the file `poland-stats-codebook.csv`. 
+![Screenshot of the codebook](media/2-13)
+
+4. Revisit the Polish cities attribute table and use the codebook to make sense of the values in the table. What do you notice? Some of these observations may be helpful for your midterm.
 
 ### Experimenting with different map symbology
+
+5. While we can observe the values in tabular format, it is difficult to understand trends looking at a list of statistics. Let's try to symbolize some of these values on the map and see what we can learn. Double-click the `poland-stats` layer in the `Layer Panel` to open the `Layer Properties`.
 
 ### Designing a shareable map “for print” 
