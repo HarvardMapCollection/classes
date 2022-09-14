@@ -188,6 +188,12 @@ If you are having trouble with this tutorial, please don't hesitate to reach out
 9. We want to change the symbology on the plebiscite region layer so that instead of QGIS symbolizing the region as a solid shape, it is just a border around the region. Select where it says `Simple Fill`.
 ![GIF of clicking on the Simple Fill button in the Symbology Properties Menu](media/simple-fill.gif)
 
+10. In the `Fill Style` drop-down, change `Solid` to `No Brush`.
+![Screenshot of Fill style symbology options in QGIS](media/no-brush.gif)
+
+11. We can keep the border outline color, or `Stroke Color` black, and we can keep the `Stroke Style` a solid line, but let's increase the width of the border, so it's a little more prominent. Increase the `Stroke Width` to `.4`.
+![Screenshot of the Stroke width symbology options in QGIS](media/stroke-width.gif)
+
 ### Exploring the Polish cities dataset
 
 ### Experimenting with different map symbology
