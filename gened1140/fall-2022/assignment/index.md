@@ -91,7 +91,7 @@ If you get an error message that Apple can’t check the app for malicious softw
 
 ## Tutorial overview
 
-In this tutorial we are going to leverage GIS tools and data to look at demographics in Europe around the time of WWI. At the end, you'll have used maps and datasets which will help write your midterm. At any point, you can skip ahead to the [maps and datasets](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/completed). 
+In this tutorial we are going to leverage GIS tools and data to look at demographics in Europe around the time of WWI. At the end, you'll have maps and datasets which will help with your midterm. At any point, you can skip ahead to the [maps and datasets](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/completed). 
 
 
 We are going to be working with three datasets.
@@ -191,8 +191,13 @@ If you are having trouble with this tutorial, please don't hesitate to reach out
 10. In the `Fill Style` drop-down, change `Solid` to `No Brush`.
 ![Screenshot of Fill style symbology options in QGIS](media/no-brush.gif)
 
-11. We can keep the border outline color, or `Stroke Color` black, and we can keep the `Stroke Style` a solid line, but let's increase the width of the border, so it's a little more prominent. Increase the `Stroke Width` to `.4`.
+11. Let's change the border outline, or "Stroke", to a color and width that appears a bit more prominently against the detail of the bold colors on the historic map. Click the colorful bar which appears to the right of the `Fill Color` option to open the `Select Fill Color` menu.
+
+
+We can keep the border outline color, or `Stroke Color` black, and the `Stroke Style` a solid line, but let's increase the width of the border, so it's a little more prominent against the detail of the bold blue and red colors of the historic map. Increase the `Stroke Width` to `1.0`.
 ![Screenshot of the Stroke width symbology options in QGIS](media/stroke-width.gif)
+
+12. Select `OK`
 
 ### Exploring the Polish cities dataset
 
