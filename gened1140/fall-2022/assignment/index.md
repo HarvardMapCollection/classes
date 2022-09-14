@@ -294,4 +294,10 @@ If you are having trouble with this tutorial, please don't hesitate to reach out
 13. Engage the drop-down that says `No Diagram`, and change it to `Pie Charts`.
 ![GIF showing enabling the pie chart dialog in the QGIS Diagrams menu](media/pie-charts.gif)
 
+14. Recall from our codebook that the columns `P0005` and `P0006` represented percent of votes for East Prussia vs votes for Poland, respectively. Add these two variables to the pie chart diagram, by highlighting one at a time, and selecting the `Add Selected Attributes` button, which looks like a green plus sign.
+![GIF showing how to use the diagrams wizard to add attributes](media/add-attrs-pie.gif)
+
+15. Double-click each of the `Assigned Attributes` color squares to change the color. For `P0005`, or East Prussia, paste in the HTML color code `#eee`. For `P0006`, or Poland, paste in the color code `#000`. 
+![GIF showing how to change the colors of the slices in the pie, using the QGIS diagrams interface](media/color-pie.gif)
+
 ### Designing a shareable map “for print” 
