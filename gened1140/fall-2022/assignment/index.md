@@ -211,6 +211,17 @@ If you are having trouble with this tutorial, please don't hesitate to reach out
 16. Let's also label the Allenstein region. Double-click the `allenstein-region` layer in the `Layers Panel` again, to open up the `Layer Properties`.
 ![GIF of double-clicking the layer in the layer list to open the properties](media/layer-props2.gif) 
 
+17. Select the `Labels` tab in the `Layer Properties` menu.
+![Screenshot of the Label tab in the Layer Properties menu](media/2-8.png)
+
+18. Select the drop-down that says `No Labels`, and change it to `Single Labels`.
+![GIF of changing no labels to single labels in the label interface](media/single-labels.gif)
+
+19. Select the `Text` tab, and change the size of the label to `14.0`.
+![GIF of changing the text size](media/text-size.gif)
+
+20. Click the color bar next to `Color` and paste the same `#e0f3db` color code into the `HTML notation` field. The color may appear in the `Recent Colors` window, in which case, you can click on that instead of copy pasting. 
+![GIF of changing the text color](media/text-color.gif)
 
 ### Exploring the Polish cities dataset
 
