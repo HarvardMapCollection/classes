@@ -335,3 +335,45 @@ Now we are ready to learn how to style a "finished product" version of the map. 
 
 6. Use the `Move Item Content` to zoom in and position the historic map legend, so all of the nationality values are visible. Use your mouse wheel to zoom in and out, and click and drag to position the map. Toggle the `Move/Select Item` button to drag the white squares around the border so the inset box gets bigger or smaller. The goal is that all of the legend values are visible. Don't worry about the text being blurry; when we export, the map will be much higher-quality.
 ![GIF showing how to reposition map insets in the Print Layout in QGIS](media/reposition-legend.gif)
+
+7. We need to create a legend for the plebiscite vote result data layer. Click on the `Add Legend` button, and draw a box in the lower left-hand section of the map canvas.
+![GIF showing how to create a legend in the QGIS print layout](media/create-legend.gif)
+
+8. Let's style the legend. Make sure `Legend` is selected in the `Items` list in the right-hand menu.
+![Screenshot of the Items list in the QGIS print layout](media/2-16.png)
+
+9. Scroll down to `Legend Items`.
+![Screenshot of Legend Items in QGIS print layout](media/2-17.png)
+
+10. Uncheck auto-update.
+![GIF showing how to uncheck auto update in the QGIS print layout](media/auto-update.gif)
+
+11. Right-click `Poland Nationalities 1919` and `OpenStreetMap` and set them both to `Hidden`.
+![GIF of hiding layers from the legend in the QGIS print layout](media/osm-hidden.gif)
+
+12. Double-click `poland-stats` and change the `Label` to `Vote Results`.
+
+13. Click the blue arrow to go back to the `Legend Items`.
+![GIF showing how to navigate back to the other legend items](media/blue-arrow.gif)
+
+14. Double-click `P0005` and `P0006` and label them `Votes for East Prussia` and `Votes for Poland`, respectively. Use the blue arrow to get back to the other legend items.
+
+15. Double-click `allenstein-region` and reformat the text so it reads `Allenstein Region`.
+
+16. From the Legend Items interface, scroll down to where it says `Background`. Click the checkbox twice, and then click on the color bar.
+![GIF showing how to change the background color of the legend](media/legend-color.gif)
+
+17. Scroll down to the legend background opacity, and slide it down so that the legend is semi-transparent.
+![GIF showing how to adjust the opacity of the legend background](media/legend-opacity.gif)
+
+18. Drag the legend down so it is positioned nicely in the bottom left-hand corner of the map.
+![GIF showing how to reposition legend items](media/position-legend.gif)
+>You can follow the same editing process to add a title to the map, if you'd like. To do this, start by clicking the `Add Label` menu icon.
+
+19. Let's export the map! In the main QGIS Layout menu, select `Layout`, and then `Export as Image`
+![Screenshot of how to export as an image](media/export-as-image.png)
+
+20. Ignore the message saying the basemap is too big to be displayed. That's OK, we aren't using that layer in our final map. 
+
+21. Save the map as a .PNG. Accept all of the default export options. When you open the file, it should look something like this!
+![Screenshot of finished map](media/MAP.png)
