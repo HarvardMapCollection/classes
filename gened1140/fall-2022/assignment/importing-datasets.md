@@ -1,6 +1,6 @@
 # Importing the datasets
 
-To review the difference between raster and vector data, visit the [Introduction to GIS](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/GIS-basics)
+To review the difference between raster and vector data, visit the [Introduction to GIS](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/GIS-basics).
 
 ## Raster data
 
