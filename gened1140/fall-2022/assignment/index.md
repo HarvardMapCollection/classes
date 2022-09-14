@@ -326,3 +326,12 @@ Now we are ready to learn how to style a "finished product" version of the map. 
 
 3. This will open the print layout. You can picture this as a 8 x 11" piece of paper. We are going to draw all the map elements we want onto this layout. Start by selecting the `Add Map` button, which is a few icons down on the vertical icon menu to the left of the print layout canvas. After you have engaged the `Add Map` button, hold and drag your cursor to draw the map onto the entirety of the print layout canvas. 
 ![GIF of clicking the Add Map button in the Print Layout, and holding and dragging a new map onto the print layout canvas](media/add-map.gif)
+
+4. If the map is a little off-center, select the `Move Item Content` button and hold and drag the map to re-center.
+![GIF showing how to re-center map content in the QGIS print layout](media/re-center.gif)
+
+5. We want our map readers to be able to understand the colors on the historic map. Let's use the `Add Map` button again to draw a map inset in the bottom-right hand corner. Select `Add Map`, but this time, hold and drag a box only in the lower right-hand corner of the print layout canvas.
+![GIF demoing how to draw an inset map](media/inset.gif)
+
+6. Use the `Move Item Content` to zoom in and position the historic map legend, so all of the nationality values are visible. Use your mouse wheel to zoom in and out, and click and drag to position the map. Toggle the `Move/Select Item` button to drag the white squares around the border so the inset box gets bigger or smaller. The goal is that all of the legend values are visible. Don't worry about the text being blurry; when we export, the map will be much higher-quality.
+![GIF showing how to reposition map insets in the Print Layout in QGIS](media/reposition-legend.gif)
