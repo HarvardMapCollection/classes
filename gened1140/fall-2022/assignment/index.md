@@ -288,4 +288,10 @@ If you are having trouble with this tutorial, please don't hesitate to reach out
 > We are going to emulate the comparative proportional symbol style of this hand-drawn map in the Harvard Map Collection's digital collections. This map from 1911 shows Polish school children (in black) compared to German school children (in white) in the pie charts, scaled by size depending on the total number of children who lived in that city. We are going to apply the same symbology to look at votes for Germany vs. votes for Poland in the plebiscite result. 
 ![Screenshot of old hand-drawn map of Poland showing pie chart symbols for German vs. Polish schoolchildren](media/poland-old-map.png)
 
+12. The QGIS program handles pie-chart maps as `Diagrams`, rather than `Symbology`, as we have been working with so far. Click the `Diagrams` tab in the `Layer Properties`. 
+![Screenshot of Diagrams tab in the QGIS layer properties](media/diagrams.png)
+
+13. Engage the drop-down that says `No Diagram`, and change it to `Pie Charts`.
+![GIF showing enabling the pie chart dialog in the QGIS Diagrams menu](media/pie-charts.gif)
+
 ### Designing a shareable map “for print” 
