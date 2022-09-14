@@ -196,7 +196,7 @@ If you are having trouble with this tutorial, please don't hesitate to reach out
 11. Let's change the border outline, or "Stroke", to a color and width that appears a bit more prominently against the detail of the bold colors on the historic map. Click the colorful bar which appears to the right of the `Stroke Color` option to open the `Select Stroke Color` menu.
 ![GIF of clicking on the select stroke color menu](media/select-fill-color.gif)
 
-12. There are lots of tabs and ways to choose colors using this menu. Click around and explore. We're going to use a light greenish color which will pop against the map background. Paste the color code for this color into where it says `HTML notation`. The value to paste in is `#e0f3db`
+12. We're going to use a light greenish color which will pop against the map background. Paste the color code for this color into where it says `HTML notation`. The value to paste in is `#e0f3db`
 ![GIF of pasting in the correct color code](media/color-code.gif)
 > To learn more about color codes, check out [htmlcolorcodes.com](https://htmlcolorcodes.com/).
 
