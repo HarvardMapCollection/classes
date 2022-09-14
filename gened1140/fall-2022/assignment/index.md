@@ -192,9 +192,13 @@ If you are having trouble with this tutorial, please don't hesitate to reach out
 ![Screenshot of Fill style symbology options in QGIS](media/no-brush.gif)
 
 11. Let's change the border outline, or "Stroke", to a color and width that appears a bit more prominently against the detail of the bold colors on the historic map. Click the colorful bar which appears to the right of the `Fill Color` option to open the `Select Fill Color` menu.
+![GIF of clicking on the select fill color menu](media/select-fill-color.gif)
 
+12. There are lots of tabs and ways to choose colors using this menu. You can click around to explore some of the ways. We're going to use a light greenish color which will pop against the map background. Paste the color code for this color into where it says `HTML notation`. The value to paste in is `#e0f3db`
+![GIF of pasting in the correct color code](media/color-code.gif)
+> To learn more about color codes, check out [htmlcolorcodes.com](https://htmlcolorcodes.com/).
 
-We can keep the border outline color, or `Stroke Color` black, and the `Stroke Style` a solid line, but let's increase the width of the border, so it's a little more prominent against the detail of the bold blue and red colors of the historic map. Increase the `Stroke Width` to `1.0`.
+13. Increase the `Stroke Width` to `1.0`.
 ![Screenshot of the Stroke width symbology options in QGIS](media/stroke-width.gif)
 
 12. Select `OK`
