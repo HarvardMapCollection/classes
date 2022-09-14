@@ -261,7 +261,13 @@ If you are having trouble with this tutorial, please don't hesitate to reach out
 
 2. Select the `Symbology` menu tab.
 
-3. 
+3. Engage the drop down that says `Single Symbol`, and change it to `Graduated`.
+![Changing the symbology from single symbol to graduated in QGIS](media/graduated.gif)
+> QGIS had been symbolizing each city with the same, singular symbology. We are now telling it we want to symbolize the values so they gradually get larger based on the values within our data.
+
+4. We need to tell the program *which* column or attribute we want to create graduated symbology based on. Let's select `P0001`, which as we learned from our codebook, is the percent of Polish-speaking school children in each city. Use the drop-down next to `Value` and select `P0001`.
+![GIF showing how to use the symbology manager to choose which value to symbolize on.](media/select-grad-value.gif)
+
 
 
 ### Designing a shareable map “for print” 
