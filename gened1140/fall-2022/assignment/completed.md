@@ -17,6 +17,6 @@
 
 
 ![A screenshot of the book this dataset was derived from](media/book-table.png)
-_*The source of this dataset is a table found in `The American Political Science Review`. So long as sources contain some indication of where phenomena occur, such as city names, or coordinates, we can transform the information into GIS data used for map making._ 
+_The source of this dataset is a table found in `The American Political Science Review`. So long as sources contain some indication of where phenomena occur, such as city names, or coordinates, we can transform the information into GIS data used for map making._ 
 
 If you have any questions about how to use these maps, datasets, or tutorials, please do not hesitate to contact us at [maps@harvard.edu](mailto:maps@harvard.edu)
