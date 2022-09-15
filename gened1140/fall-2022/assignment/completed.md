@@ -1,9 +1,5 @@
 # Browse maps and data
 
-![The finished map, showing a base layer of demographic makeup in Poland in 1919, and pie chart symbols for each Polish city, depicting the comparative percentage of votes for Poland versus East Prussia, or Germany, in the Allenstein plebiscite vote. There is also a border around the Allenstein plebiscite region.](media/MAP.png)
-*Map comparing the percent of plebiscite vote results for East Prussia (Germany) and Poland, respectively. This data is overlaid onto a map from 1919, showing nationality demographics of Poland at the time -- red for Polish, and blue for German.*
-
-
 <iframe title="Interactive map of the Polish cities statistical data. Hovering over each city reveals information about the city." src="https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/demo/polish-cities/" width="100%" height="600px"></iframe>
 *Hover over each Polish city to engage with statistics about the city from around the time of WWI. In addition to plebiscite vote results, there is also statistical demographic data from 1911 conveying the percentage of Polish-speaking school children in each city.*
 
@@ -18,5 +14,10 @@
 
 ![A screenshot of the book this dataset was derived from](media/book-table.png)
 _The source of this dataset is a table found in `The American Political Science Review`. So long as sources contain some indication of where phenomena occur, such as city names, or coordinates, we can transform the information into GIS data used for map making._ 
+
+![The finished map, showing a base layer of demographic makeup in Poland in 1919, and pie chart symbols for each Polish city, depicting the comparative percentage of votes for Poland versus East Prussia, or Germany, in the Allenstein plebiscite vote. There is also a border around the Allenstein plebiscite region.](media/MAP.png)
+*In the GIS tutorial, we learn how to make this map, using the above datasets to compare the percent of plebiscite vote results for East Prussia (Germany) and Poland, respectively. This data is overlaid onto a map from 1919, showing nationality demographics of Poland at the time -- red for Polish, and blue for German.*
+
+
 
 If you have any questions about how to use these maps, datasets, or tutorials, please do not hesitate to contact us at [maps@harvard.edu](mailto:maps@harvard.edu)
