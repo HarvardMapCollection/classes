@@ -8,7 +8,7 @@
 *Hover over each Polish city to engage with statistics about the city from around the time of WWI. In addition to plebiscite vote results, there is also statistical demographic data from 1911 conveying the percentage of Polish-speaking school children in each city.*
 
 
-![A screenshot of the tabular data, each row showing a Polish city, and each column containing statistical information about that city](media/table-poland.png.png)
+![A screenshot of the tabular data, each row showing a Polish city, and each column containing statistical information about that city](media/table-poland.png)
 *This is what the Polish cities GIS dataset looks like, displayed in tabular view in the GIS software. To interpret what the column headers mean, use the codebook pictured below. The codebook and dataset are both available for download as spreadsheets in `.csv` format. You can open these files in Excel, if you would like to use the data, but don't want to map it. Here is the [data download link](https://drive.google.com/file/d/1cKUtwbPIaWjvI_a_zD-Su_fItkA9u5UT/view?usp=sharing).*
 
 
