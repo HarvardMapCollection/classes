@@ -1,4 +1,4 @@
-# GIS Tutorial
+# Assignment
 
 [Introduction to GIS](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/introduction-to-GIS)
 
