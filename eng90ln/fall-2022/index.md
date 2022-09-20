@@ -8,4 +8,6 @@
 
 ![Screenshot of a 1939 map of New York City with GIS points superimposed on top of them.](media/ricky.png)
 
+![Image showing how a bunch of different GIS layers line up](media/layers.jpeg)
+
 ![screenshot of a white population demographic map of chicago with dots to indicate the location of 9-1-1 infrastructure](media/levin.png)
