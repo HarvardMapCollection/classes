@@ -24,4 +24,4 @@
 
 ## maps@harvard.edu
 
-You can contact us at [maps@harvard.edu](mailto:maps@harvard.edu)
+You can contact us at [maps@harvard.edu](mailto:maps@harvard.edu).
