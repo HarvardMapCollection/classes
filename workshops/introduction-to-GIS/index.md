@@ -1,9 +1,7 @@
 # Introduction to GIS workshop
 
-## Bit.ly for this page
 `https://bit.ly/3Sfgpz8`
 
-## Slides
 [Slides](https://www.canva.com/design/DAFMSShvkmY/f5HGG-a9NcqjWp6SI85vvg/view?utm_content=DAFMSShvkmY&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent)
 
 ## Data
