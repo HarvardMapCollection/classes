@@ -6,7 +6,7 @@
 
 ![Screenshot of a 1939 map of New York City with GIS points superimposed on top of them.](media/ricky.png)
 
-<img src="media/layers.jpeg" alt="Diagram of multiple GIS layers corresponding spatially to one another" height="400">
+<img src="media/layers.jpeg" alt="Diagram of multiple GIS layers corresponding spatially to one another" height="500">
 
 
 ![Picture of the City of Boston reading room](media/reading-room.png)
