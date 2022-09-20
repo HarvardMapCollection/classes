@@ -6,10 +6,6 @@
 
 ![Screenshot of a 1939 map of New York City with GIS points superimposed on top of them.](media/ricky.png)
 
-![Image showing how a bunch of different GIS layers line up](media/layers.jpeg)
-
-![Image of the stars data "behind the scenes" in table view](media/ricky-table.png)
-
 ![Screenshot of a map showing points for Latinx Theaters overlaid on census data](media/ricky2.png)
 
 ![Picture of the City of Boston reading room](media/reading-room.png)
