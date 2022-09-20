@@ -14,4 +14,10 @@
 
 ![Screenshot of a map showing points for Latinx Theaters overlaid on census data](media/ricky2.png)
 
+![Picture of the City of Boston reading room](media/reading-room.png)
+
+![Picture of a real estate atlas open, it is a large book](media/books.png)
+
+<iframe width="100%" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059010718$zoom:18.00$center:-7914725.872110603,5210447.532772563$mode:glass$pos:204"></iframe>
+
 ![screenshot of a white population demographic map of chicago with dots to indicate the location of 9-1-1 infrastructure](media/levin.png)
