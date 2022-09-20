@@ -8,6 +8,7 @@
 
 <img src="media/layers.jpeg" alt="Diagram of multiple GIS layers corresponding spatially to one another" height="500">
 
+![Picture of Belle's old house, on 4 Folsom Ave](media/folsom.png)
 
 ![Picture of the City of Boston reading room](media/reading-room.png)
 
