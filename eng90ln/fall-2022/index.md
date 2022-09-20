@@ -17,3 +17,7 @@
 ![screenshot of a white population demographic map of chicago with dots to indicate the location of 9-1-1 infrastructure](media/levin.png)
 
 ![Screenshot of a hand-drawn map of English literature](media/cf.png)
+
+## maps@harvard.edu
+
+You can contact us at [maps@harvard.edu](mailto:maps@harvard.edu)
