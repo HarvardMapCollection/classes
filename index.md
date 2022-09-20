@@ -17,3 +17,5 @@
 [Native American and Indigenous Studies Working Group](https://harvardmapcollection.github.io/classes/naiswg/)
 
 [Unabridged](https://harvardmapcollection.github.io/classes/unabridged/winter-2022/)
+
+[Workshops](https://harvardmapcollection.github.io/classes/workshops/introduction-to-GIS)
