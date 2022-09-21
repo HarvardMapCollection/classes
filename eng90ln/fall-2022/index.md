@@ -1,4 +1,4 @@
-# Land research with GIS
+# 9/27 visit
 
 ![Classic John Snow map from 1854 showing the locations of cholera outbreaks centered around drinking wells.](media/snow.jpeg)
 
