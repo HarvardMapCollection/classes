@@ -18,6 +18,13 @@
 
 ![Screenshot of the parcel viewer for Milwaukee county, showing one lot outlined](media/mke-parcels.png)
 
+![Screenshot of the legal descriptions of the parcels for the creek allotments](media/allotment.png)
+
+![GIF of GIS-created land allotment parcels for Creek allotments](media/keziah.gif)
+
+![Table behind the land allotment parcels showing the types of category data](media/allotment-table.gif)
+
+
 ![screenshot of a white population demographic map of chicago with dots to indicate the location of 9-1-1 infrastructure](media/levin.png)
 
 ![Screenshot of a hand-drawn map of English literature](media/cf.png)
