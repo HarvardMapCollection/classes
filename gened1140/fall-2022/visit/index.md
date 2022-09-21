@@ -11,6 +11,14 @@
 ![Map of bike crashes shows patterns better](media/vision0-map.png)
 ![Screenshot of data download page](media/vision0.png)
 
+![Classic John Snow map from 1854 showing the locations of cholera outbreaks centered around drinking wells.](media/snow.jpeg)
+
+*John Snow cholera map, 1854.*
+
+![Original John Snow map with a GIS heat map superimposed over it](media/snow-gis.png)
+
+*John Snow cholera map, overlaid by a modern-day GIS heatmap layer.*
+
 
 ![Screen recording of New York Public Library app OldNYC](media/oldnyc.gif)
 *[OldNYC: Mapping Historic Photographs at the NYPL](https://www.oldnyc.org/).* 
@@ -18,3 +26,4 @@
 
 
 ![Screenshot of the Harvard Map Collection tutorials page](media/levin.png)
+![Screenshot of map of Chile](media/chile.png)
