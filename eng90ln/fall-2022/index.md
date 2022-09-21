@@ -1,8 +1,16 @@
-# 9/27 visit
+# Using GIS for Property Research
+
+## What is GIS?
 
 ![Classic John Snow map from 1854 showing the locations of cholera outbreaks centered around drinking wells.](media/snow.jpeg)
 
 ![Original John Snow map with a GIS heat map superimposed over it](media/snow-gis.png)
+
+## GIS definitions
+
+![Screenshot of a slide defining GIS as Geographic Information Science or Systems, and discussing how it can be methods, data, or tools](media/GIS-intro.png)
+
+![Screenshot of a slide defining GIS data](media/GIS-intro2.png)
 
 ![Screenshot of a 1939 map of New York City with GIS points superimposed on top of them.](media/ricky.png)
 
