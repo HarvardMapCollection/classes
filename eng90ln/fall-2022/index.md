@@ -16,6 +16,10 @@
 
 <img src="media/layers.jpeg" alt="Diagram of multiple GIS layers corresponding spatially to one another" height="500">
 
+![Screen recording of New York Public Library app OldNYC](media/oldnyc.gif)
+*[OldNYC: Mapping Historic Photographs at the NYPL](https://www.oldnyc.org/).* 
+
+
 ## Property research with GIS
 
 ![Picture of Belle's old house, on 4 Folsom Ave](media/folsom.png)
