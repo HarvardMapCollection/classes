@@ -1,6 +1,6 @@
 # Using GIS for Property Research
 
-## What is GIS?
+## What is GIS used for?
 
 ![Classic John Snow map from 1854 showing the locations of cholera outbreaks centered around drinking wells.](media/snow.jpeg)
 
@@ -10,11 +10,13 @@
 
 ![Screenshot of a slide defining GIS as Geographic Information Science or Systems, and discussing how it can be methods, data, or tools](media/GIS-intro.png)
 
-![Screenshot of a slide defining GIS data](media/GIS-intro2.png)
+## GIS Data
 
 ![Screenshot of a 1939 map of New York City with GIS points superimposed on top of them.](media/ricky.png)
 
 <img src="media/layers.jpeg" alt="Diagram of multiple GIS layers corresponding spatially to one another" height="500">
+
+## Property research with GIS
 
 ![Picture of Belle's old house, on 4 Folsom Ave](media/folsom.png)
 
@@ -32,6 +34,7 @@
 
 ![Table behind the land allotment parcels showing the types of category data](media/allotment-table.gif)
 
+## GIS support from the library
 
 ![screenshot of a white population demographic map of chicago with dots to indicate the location of 9-1-1 infrastructure](media/levin.png)
 
