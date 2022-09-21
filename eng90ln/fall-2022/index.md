@@ -1,4 +1,4 @@
-# Using GIS for property research
+# GIS for property research
 
 ## What is GIS used for?
 
