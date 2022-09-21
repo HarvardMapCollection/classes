@@ -10,7 +10,7 @@
 
 ![Screenshot of a slide defining GIS as Geographic Information Science or Systems, and discussing how it can be methods, data, or tools](media/GIS-intro.png)
 
-## GIS Data
+## GIS data layers
 
 ![Screenshot of a 1939 map of New York City with GIS points superimposed on top of them.](media/ricky.png)
 
