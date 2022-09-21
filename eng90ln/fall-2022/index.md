@@ -3,9 +3,11 @@
 ## What is GIS used for?
 
 ![Classic John Snow map from 1854 showing the locations of cholera outbreaks centered around drinking wells.](media/snow.jpeg)
+
 *John Snow cholera map, 1854.*
 
 ![Original John Snow map with a GIS heat map superimposed over it](media/snow-gis.png)
+
 *John Snow cholera map, overlaid by a modern-day GIS heatmap layer.*
 
 ## GIS definitions
