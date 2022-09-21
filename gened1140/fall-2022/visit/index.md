@@ -1,5 +1,8 @@
 # Leveraging GIS technology
 
+![Screen capture of a map of Boston from ](media/boston.png)
+*[Map of Boston from 1743](https://collections.leventhalmap.org/search/commonwealth:9s161952m).*
+
 - computer science
 - data analytics
 - history
