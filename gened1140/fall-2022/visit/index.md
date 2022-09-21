@@ -10,6 +10,13 @@
 - museum studies
 - urban planning
 
+![GIF of the vision zero data page on City of Boston's data portal](media/vision0.gif)
+![Screenshot of the vision zero data as a table](media/vision0-data.png)
+![Screenshot of vision zero data as crowded points](media/vision0-points.png)
+![Screenshot of documetations for hexbins, a GIS approach for aggregating lots of poit data to uniform geographies](media/hexagons.png)
+![Map of bike crashes shows patterns better](media/vision0-map.png)
+![Screenshot of data download page](media/vision0.png)
+
 
 ![Screen recording of New York Public Library app OldNYC](media/oldnyc.gif)
 *[OldNYC: Mapping Historic Photographs at the NYPL](https://www.oldnyc.org/).* 
