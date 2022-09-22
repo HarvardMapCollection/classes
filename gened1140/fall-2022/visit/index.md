@@ -68,7 +68,6 @@
 
 ![Screenshot of the final project assignment prompt](media/final-project.png)
 ![Screenshot of the midterm writing prompt](media/midterm-prompt.png)
-- [ ]  BUT! All the things you’d want to know how to do in GIS if you wanted to do a mapping final project
 ![Screen recording GIF of adjusting the transparency of an old map, draped over a modern map](media/poland-opacity.gif)
 <iframe title="Interactive map of the Polish cities statistical data. Hovering over each city reveals information about the city." src="https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/demo/polish-cities/" width="100%" height="600px"></iframe>
 
