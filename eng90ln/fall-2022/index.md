@@ -1,5 +1,9 @@
 # GIS for property research
 
+## GIS definitions
+
+![Screenshot of a slide defining GIS as Geographic Information Science or Systems, and discussing how it can be methods, data, or tools](media/GIS-intro.png)
+
 ## What is GIS used for?
 
 ![Classic John Snow map from 1854 showing the locations of cholera outbreaks centered around drinking wells.](media/snow.jpeg)
@@ -9,10 +13,6 @@
 ![Original John Snow map with a GIS heat map superimposed over it](media/snow-gis.png)
 
 *John Snow cholera map, overlaid by a modern-day GIS heatmap layer.*
-
-## GIS definitions
-
-![Screenshot of a slide defining GIS as Geographic Information Science or Systems, and discussing how it can be methods, data, or tools](media/GIS-intro.png)
 
 ## GIS data layers
 
