@@ -12,9 +12,9 @@ Belle Lipton, one of the Map Collection GIS Librarians, will be visiting on 9/28
 
 ## Midterm mapping tutorial 
 
-[Midterm mapping tutorial](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment)
-
 Follow this online tutorial with text, picture, and GIF instructions on how to create GIS maps. The maps you make will help you answer the midterm writing assignment. If you want to skip the mapping tutorial and jump to the maps, visit the [Browse Maps and Data portion](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/).
+
+[Midterm mapping tutorial](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment)
 
 
 ## Midterm mapping workshop
