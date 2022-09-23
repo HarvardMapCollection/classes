@@ -5,7 +5,7 @@
 
 ## 9/28 class visit
 
-Belle will be visiting on 9/28 to introduce GIS, ways it can be useful, and details about the midterm mapping tutorial. 
+Belle Lipton, one of the Map Collection GIS Librarians, will be visiting on 9/28 to introduce GIS as a concept and technology, ways it can be useful, and details about the midterm mapping tutorial. 
 
 [Slides](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/visit/)
 
@@ -14,20 +14,20 @@ Belle will be visiting on 9/28 to introduce GIS, ways it can be useful, and deta
 
 [Midterm mapping tutorial](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment)
 
-Follow this online tutorial with text description, picture, and GIF instructions on creating GIS maps. The maps you create will help you be able to better answer the midterm writing prompt. If you want to skip the mapping tutorial and jump to the maps, visit the [Browse Maps and Data section](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/).
+Follow this online tutorial with text, picture, and GIF instructions on how to create GIS maps. The maps you make will help you answer the midterm writing assignment. If you want to skip the mapping tutorial and jump to the maps, visit the [Browse Maps and Data portion](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/).
 
 
 ## Midterm mapping workshop
 
 [Workshop slides](https://www.canva.com/design/DAFMSShvkmY/f5HGG-a9NcqjWp6SI85vvg/view?utm_content=DAFMSShvkmY&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent)
 
-Rather than read through the midterm GIS tutorial on your own, you can learn how to do it in a workshop environment led by GIS Librarian Belle Lipton in the Media Lab Annex in Lamont Library. You can sign up for those workshops at the links below.
+Rather than reading through the midterm GIS tutorial on your own, you can learn how to do it in a workshop environment led by Belle. These sessions will take place in the Lamont Library Media Lab Annex. You can sign up using the links below.
 
 [Thursday, September 29, 2-4 PM](https://www.eventbrite.com/e/gened-1140-gis-tutorial-tickets-420299606437)
 [Friday, September 30, 1-3 PM](https://www.eventbrite.com/e/gened-1140-gis-tutorial-tickets-420302585347)
 [Monday, October 3, 4-6 PM](https://www.eventbrite.com/e/gened-1140-gis-tutorial-tickets-420302715737)
 
-> Note: Each date is limited to 8 spaces. This is so Belle can provide hands-on help with the tutorial. Please make use of these sessions and sign up, but if you think you can't make it, please email `belle_lipton@harvard.edu` to let her know, so the space will be available to someone else. 
+> Note: Each workshop date is limited to 8 spaces. This guarantees 1-on-1 troubleshooting support. If you sign up, but don't think you can make it after all, please email `belle_lipton@harvard.edu` so she can make the space available to someone else. 
 
 ## maps@harvard.edu
 
