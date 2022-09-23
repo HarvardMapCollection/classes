@@ -14,12 +14,14 @@ Belle will be visiting on 9/28 to introduce GIS, ways it can be useful, and deta
 
 [Midterm mapping tutorial](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment)
 
-Follow this online tutorial with text descriptions, pictures, and GIFs instructing you on how to create digital GIS maps. These maps will help you be able to better answer the midterm writing prompt. If you want to skip the mapping tutorial and jump to the maps, skip ahead to the [Browse Maps and Data section](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/).
+Follow this online tutorial with text description, picture, and GIF instructions on creating GIS maps. The maps you create will help you be able to better answer the midterm writing prompt. If you want to skip the mapping tutorial and jump to the maps, visit the [Browse Maps and Data section](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/).
 
 
 ## Midterm mapping workshop
 
-Rather than read through the midterm GIS tutorial yourself, you can learn how to do it in a workshop setting with Belle in the Media Lab Annex in Lamont Library. You can sign up for those workshops at the links below.
+[Workshop slides](https://www.canva.com/design/DAFMSShvkmY/f5HGG-a9NcqjWp6SI85vvg/view?utm_content=DAFMSShvkmY&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent)
+
+Rather than read through the midterm GIS tutorial on your own, you can learn how to do it in a workshop environment led by GIS Librarian Belle Lipton in the Media Lab Annex in Lamont Library. You can sign up for those workshops at the links below.
 
 [Thursday, September 29, 2-4 PM](https://www.eventbrite.com/e/gened-1140-gis-tutorial-tickets-420299606437)
 [Friday, September 30, 1-3 PM](https://www.eventbrite.com/e/gened-1140-gis-tutorial-tickets-420302585347)
