@@ -1,5 +1,7 @@
 # Geographic Information Systems (GIS)
 
+`https://bit.ly/3C5Pr80`
+
 ## 9/28 class visit
 
 Belle will be visiting on 9/28 to introduce GIS, ways it can be useful, and details about the midterm mapping tutorial. 
