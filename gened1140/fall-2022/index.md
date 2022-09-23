@@ -1,6 +1,7 @@
 # Geographic Information Systems (GIS)
 
 `https://bit.ly/3C5Pr80`
+*Bit.ly link to this page.*
 
 ## 9/28 class visit
 
