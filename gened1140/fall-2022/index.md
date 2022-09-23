@@ -29,7 +29,7 @@ Rather than reading through the midterm GIS tutorial on your own, you can learn 
 
 [Monday, October 3, 4-6 PM](https://www.eventbrite.com/e/gened-1140-gis-tutorial-tickets-420302715737)
 
-> Note: Each workshop date is limited to 8 spaces. This guarantees 1-on-1 troubleshooting support. If you sign up, but don't think you can make it after all, please email `belle_lipton@harvard.edu` so she can make the space available to someone else. 
+> Note: Each workshop date is limited to 8 spaces. This guarantees 1-on-1 troubleshooting support. If you sign up, but don't think you can make it, please email `belle_lipton@harvard.edu` so she can make the space available. 
 
 ## maps@harvard.edu
 
