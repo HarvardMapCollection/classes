@@ -52,6 +52,9 @@
 ![Table behind the land allotment parcels showing the types of category data](media/allotment-table.gif)
 *Tabular view of the allotment data, showing categorical values useful for later analysis.*
 
+![](media/allot-1.png)
+![](media/allot-2.png)
+
 ## GIS support from the library
 
 ![screenshot of a white population demographic map of chicago with dots to indicate the location of 9-1-1 infrastructure](media/levin.png)
