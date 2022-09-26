@@ -1,5 +1,7 @@
 # Introduction to GIS
 
+![Final map](media/the-map.png)
+
 ![Screenshot of a slide defining GIS as Geographic Information Science or Systems, and discussing how it can be methods, data, or tools](media/GIS-intro.png)
 *GIS definitions.*
 
@@ -94,6 +96,8 @@
 
 ![Screenshot of workshop signup dates](media/eventbrite-2.png)
 *Follow along the GIS tutorial in a workshop setting with Belle [signup form](https://www.eventbrite.com/e/gened-1140-gis-tutorial-tickets-420298884277).*
+
+![Screenshot of where to look for finished maps on assignment website](media/browse-maps.png)
 
 ![Screenshot from Harvard Geospatial Library](media/volcanoes.png)
 *[Global volcanoes dataset](https://hgl.harvard.edu/catalog/harvard-glb-volc) in the Harvard Geospatial Library (HGL).* 
