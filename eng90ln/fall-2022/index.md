@@ -53,7 +53,7 @@
 *Tabular view of the allotment data, showing categorical values useful for later analysis.*
 
 ![Example allotment map showing colorful parcels](media/allot-1.png)
-*[Allotment Maps, ca. 1896 - ca. 1906](https://catalog.archives.gov/id/652462), Records of the Bureau of Indian Affairs, 1993- 1999, National Archives.*
+*[Allotment Maps, ca. 1896 - ca. 1906](https://catalog.archives.gov/id/652462), Records of the Bureau of Indian Affairs, 1793- 1999, National Archives.*
 
 
 ## GIS support from the library
