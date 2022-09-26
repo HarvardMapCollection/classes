@@ -40,8 +40,8 @@
 <iframe width="100%" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059010718$zoom:18.00$center:-7914725.872110603,5210447.532772563$mode:glass$pos:204"></iframe>
 *Atlas viewer, [Atlascope](https://atlascope.leventhalmap.org/), a GIS tool from the Boston Public Library.*
 
-![Screenshot of the parcel viewer for Milwaukee county, showing one lot outlined](media/mke-parcels.png)
-*Modern-day parcels in Milwaukee.*
+<!-- ![Screenshot of the parcel viewer for Milwaukee county, showing one lot outlined](media/mke-parcels.png)
+*Modern-day parcels in Milwaukee.* -->
 
 ![Screenshot of the legal descriptions of the parcels for the creek allotments](media/allotment.png)
 *Archival records showing the allotment of lands to Creek people, with legal land descriptions, e.g. "The north-east half of the south-west quarter of section 2, township 16, range 7."*
