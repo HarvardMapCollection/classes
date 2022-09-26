@@ -52,8 +52,9 @@
 ![Table behind the land allotment parcels showing the types of category data](media/allotment-table.gif)
 *Tabular view of the allotment data, showing categorical values useful for later analysis.*
 
-![](media/allot-1.png)
-![](media/allot-2.png)
+![Example allotment map showing colorful parcels](media/allot-1.png)
+*[Allotment Maps, ca. 1896 - ca. 1906](https://catalog.archives.gov/id/652462), Records of the Bureau of Indian Affairs, 1993- 1999, National Archives.*
+
 
 ## GIS support from the library
 
