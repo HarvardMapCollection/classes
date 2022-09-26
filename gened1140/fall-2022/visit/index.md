@@ -1,6 +1,7 @@
 # Introduction to GIS
 
 ![Screenshot of a slide defining GIS as Geographic Information Science or Systems, and discussing how it can be methods, data, or tools](media/GIS-intro.png)
+*GIS definitions.*
 
 ![Classic John Snow map from 1854 showing the locations of cholera outbreaks centered around drinking wells.](media/snow.jpeg)
 
@@ -12,30 +13,45 @@
 
 
 ![Screenshot of a map of Olympia national park](media/reference.png)
+*Offical Olympic National Park map.*
 
 ![Screenshot of United States 2020 census map](media/thematic.png)
+*Graduated proportional symbol map showing 2020 population by state in the United States.*
 
 ![Photograph of a roadmap of Louisiana](media/roadmap1.jpg)
+*Louisiana and Mississippi roadmap from the Harvard Map Collection.*
 
 ![Photograph of the road map, zoomed into New Orleans](media/roadmap2.jpg)
+*Louisiana and Mississippi roadmap from the Harvard Map Collection showing the New Orleans area.*
+
 
 ![Photograph of a 1909 map of land use in New Orleans](media/landuse.png)
+*Land cover map of Louisiana from 1909 in the Harvard Map Collection.*
+
 
 ![The legend showing different kinds of land use](media/landuse-legend.png)
+*The legend of the 1909 land cover map of Louisiana.*
+
 
 ![USGS tool to extract modern day land cover data](media/usgs.png)
+*USGS data download tool, showing land cover data from 2016.*
+
 
 
 ![Screen capture of a map of Boston from ](media/boston.png)
 *[Map of Boston from 1743](https://collections.leventhalmap.org/search/commonwealth:9s161952m).*
 
 ![Map made my student assistants who went on to use GIS and data processing in job](media/heatmap.png)
+*GIS heatmap of density of restaurants in Boston.*
 
 ![GIF of the vision zero data page on City of Boston's data portal](media/vision0.gif)
+*[Analyze Boston](https://data.boston.gov/group/geospatial), Boston's open data portal.*
 
 ![Screenshot of the vision zero data as a table](media/vision0-data.png)
+*Vision Zero dataset, open as a table.*
 
 ![Screenshot of vision zero data as crowded points](media/vision0-points.png)
+*Bike crash data displayed visually as individual points in GIS software.*
 
 ![Map of bike crashes shows patterns better](media/vision0-map.png)
 
