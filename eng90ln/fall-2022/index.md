@@ -41,6 +41,7 @@
 *Atlas viewer, [Atlascope](https://atlascope.leventhalmap.org/), a GIS tool from the Boston Public Library.*
 
 ![Photo of a microfilm reader](media/microfilm-1.jpeg)
+
 *Microfilm reader.*
 
 ![Picture of the probate records in Milwaukee](media/microfilm-2.jpeg)
