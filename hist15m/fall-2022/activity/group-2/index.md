@@ -16,4 +16,4 @@ Be ready to introduce this tool to the class, guided by these prompts:
 
 > To add a map, navigate to the right-hand `Insert` menu, and `Map` is one of the options. Here is a [YouTube video demoing how to add a map](https://www.youtube.com/watch?v=Gzae0AqPuQM). 
 
-3. Discuss the prompts above together as a group.
+Discuss the prompts above together as a group.
