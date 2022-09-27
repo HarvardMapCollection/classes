@@ -102,8 +102,6 @@
 ![Screenshot from Harvard Geospatial Library](media/volcanoes.png)
 *[Global volcanoes dataset](https://hgl.harvard.edu/catalog/harvard-glb-volc) in the Harvard Geospatial Library (HGL).* 
 
-![Screenshot of a census map with white dots on it](media/levin.png)
-
 ![Screenshot of map of Chile](media/chile.png)
 
 ## maps@harvard.edu
