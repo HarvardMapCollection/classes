@@ -8,7 +8,7 @@ Be ready to introduce this tool to the class, guided by these prompts:
 
 ## Instructions
 
-1. Visit [https://sites.google.com/d/19KJuVpOkKEktZgLpME57kdZ6SubSUct_/p/1AcnhlngBK9JMS_SQI9eI8KfcLhY-Nf7p/edit](a demo class Google Site).
+1. Visit [the class demo Google Site](https://sites.google.com/d/19KJuVpOkKEktZgLpME57kdZ6SubSUct_/p/1AcnhlngBK9JMS_SQI9eI8KfcLhY-Nf7p/edit).
 
 2. As a group, work together to add content blocks. Add sections for each location of interest, including text, photos, and an embedded map.
 
