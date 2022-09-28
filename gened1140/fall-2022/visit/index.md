@@ -57,7 +57,6 @@
 
 ![Map of bike crashes shows patterns better](media/vision0-map.png)
 
-![Screenshot of data download page](media/vision0.png)
 
 ![Screen recording of New York Public Library app OldNYC](media/oldnyc.gif)
 *[OldNYC: Mapping Historic Photographs at the NYPL](https://www.oldnyc.org/).* 
