@@ -37,4 +37,3 @@
 - One-on-one support
 - Questions
 - Troubleshooting 
-- Brainstorming ideas
