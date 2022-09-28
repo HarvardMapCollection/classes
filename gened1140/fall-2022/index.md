@@ -21,7 +21,6 @@
 - Guided by Belle
 - First-come first-serve
 
-[Workshop slides](https://www.canva.com/design/DAFMSShvkmY/f5HGG-a9NcqjWp6SI85vvg/view?utm_content=DAFMSShvkmY&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent)
 
 [Thursday, September 29, 2-4 PM](https://www.eventbrite.com/e/gened-1140-gis-tutorial-tickets-420299606437)
 
