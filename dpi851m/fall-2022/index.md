@@ -41,6 +41,8 @@
 
 ![Screenshot of a web map showing mobile health care providers](media/mobile-health.png)
 
+![Screenshot of ArcGIS StoryMaps](media/storymaps.jpeg)
+
 ![Screenshot of original data student sent us of COVID deaths, not processed for GIS](media/original-data.png)
 ![Screenshot of census download page](media/states-shape.png)
 ![Sceenshot of census state shapes](media/states.png)
