@@ -42,7 +42,7 @@
 ## How we can help
 
 
-![Screenshot of a web map showing mobile health care providers](/media/mobile-health.png)
+![Screenshot of a web map showing mobile health care providers](media/mobile-health.png)
 
 ![Screenshot of original data student sent us of COVID deaths, not processed for GIS](media/original-data.png)
 ![Screenshot of census download page](media/states-shape.png)
@@ -52,9 +52,9 @@
 ![Screenshot of the COVID death table after being joined to a states shapefile](media/after-join.png)
 
 
-![GIF showing a slider between a dataset of FEMA relief and an empty basemap in ESRI because the data is not loading](/media/sad-esri.gif)
+![GIF showing a slider between a dataset of FEMA relief and an empty basemap in ESRI because the data is not loading](media/sad-esri.gif)
 
-![GIF of the Harvard Map Collection census tutorial series which has 6 lessons](/media/census-tutorial.gif)
+![GIF of the Harvard Map Collection census tutorial series which has 6 lessons](media/census-tutorial.gif)
 *How to prepare census data for use in a map [tutorial series](https://harvardmapcollection.github.io/tutorials/census/steps/)* 
 
 ![Screenshot of a map of London showing dots which represent Indian restaurants](media/jess-map.png)
