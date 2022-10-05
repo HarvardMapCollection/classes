@@ -56,6 +56,8 @@
 ![GIF of the Harvard Map Collection census tutorial series which has 6 lessons](media/census-tutorial.gif)
 *How to prepare census data for use in a map [tutorial series](https://harvardmapcollection.github.io/tutorials/census/steps/)* 
 
+![Screenshot of map of Chile](media/chile.png)
+
 ![Screenshot of a map of London showing dots which represent Indian restaurants](media/jess-map.png)
 
 ![Scan of a paper map showing information about restaurants in London](media/restaurant.png)
@@ -63,6 +65,5 @@
 ![Screenshot from Harvard Geospatial Library](media/volcanoes.png)
 *[Global volcanoes dataset](https://hgl.harvard.edu/catalog/harvard-glb-volc) in the Harvard Geospatial Library (HGL).* 
 
-![Screenshot of map of Chile](media/chile.png)
 
 ## maps@harvard.edu
