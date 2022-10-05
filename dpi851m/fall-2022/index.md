@@ -7,9 +7,6 @@
 ![Map created by GSD students](media/spatial-analysis.png)
 *Map [created by](https://mapping.share.library.harvard.edu/blog/2021/vis-2128/) GSD students Aeshna Prasad, Michael Lidwin, Megan Mcglinchey, and Mehvish Jamal working with the Map Collection.* 
 
-![Screenshot from Harvard Geospatial Library](media/volcanoes.png)
-*[Global volcanoes dataset](https://hgl.harvard.edu/catalog/harvard-glb-volc) in the Harvard Geospatial Library (HGL).* 
-
 
 ## What is GIS
 
@@ -60,6 +57,9 @@
 ![Screenshot of a map of London showing dots which represent Indian restaurants](media/jess-map.png)
 
 ![Scan of a paper map showing information about restaurants in London](media/restaurant.png)
+
+![Screenshot from Harvard Geospatial Library](media/volcanoes.png)
+*[Global volcanoes dataset](https://hgl.harvard.edu/catalog/harvard-glb-volc) in the Harvard Geospatial Library (HGL).* 
 
 ![Screenshot of map of Chile](media/chile.png)
 
