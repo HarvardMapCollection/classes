@@ -11,11 +11,6 @@
 
 *John Snow cholera map, overlaid by a modern-day GIS heatmap layer.*
 
-![Eight-sheet map of Venice from the 1700s](media/venice.jpg)
-
-![Map created by GSD students](media/spatial-analysis.png)
-*Map [created by](https://mapping.share.library.harvard.edu/blog/2021/vis-2128/) GSD students Aeshna Prasad, Michael Lidwin, Megan Mcglinchey, and Mehvish Jamal working with the Map Collection.* 
-
 ![Screen capture of a map of Boston from ](media/boston.png)
 *[Map of Boston from 1743](https://collections.leventhalmap.org/search/commonwealth:9s161952m).*
 
