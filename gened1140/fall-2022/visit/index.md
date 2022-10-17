@@ -43,7 +43,7 @@
 ![Screen capture of a map of Boston from ](media/boston.png)
 *[Map of Boston from 1743](https://collections.leventhalmap.org/search/commonwealth:9s161952m).*
 
-![Map made my student assistants who went on to use GIS and data processing in job](media/heatmap.png)
+![Map made by student assistants who went on to use GIS and data processing in job](media/heatmap.png)
 *GIS heatmap of density of restaurants in Boston.*
 
 ![GIF of the vision zero data page on City of Boston's data portal](media/vision0.gif)
