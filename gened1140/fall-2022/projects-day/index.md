@@ -1,4 +1,4 @@
-# Geographic Information Systems (GIS)
+# GENED 1140 Final Project: Map Option
 
 ## Bit.ly for this page
 `https://bit.ly/3NRhcVT`
