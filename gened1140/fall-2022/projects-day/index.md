@@ -1,7 +1,7 @@
 # GENED 1140 Final Project: Map Option
 
-## https://bit.ly/3NRhcVT
-_Bit.ly for this page._
+## Bit.ly for this page
+`https://bit.ly/3NRhcVT`
 
 ## Class activity 
 
