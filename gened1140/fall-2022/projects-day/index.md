@@ -28,5 +28,5 @@ We will come back together and you will share what you discussed. Scott and Bell
 - Questions
 - Troubleshooting 
 
-Make sure to **put GENED 1140 in your email** so you can get credit!
+Make sure to **put GENED 1140 in your email** to get credit.
 
