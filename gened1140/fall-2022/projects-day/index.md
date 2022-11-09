@@ -20,7 +20,7 @@ We will come back together and you will share what you discussed. Scott and Bell
 ## Resources
 - [Intro to GIS](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/) - from the visit earlier this semester, covering core GIS concepts.
 - [How to download QGIS](https://harvardmapcollection.github.io/tutorials/qgis/download/) - free desktop program for GIS map making.
-- [Tutorials](https://harvardmapcollection.github.io/tutorials/) - including how to manipulate U.S. census data for mapping, and how to georeference historic maps.
+- [Tutorials](https://harvardmapcollection.github.io/tutorials/) - including how to manipulate census data for mapping, and how to georeference historic maps.
 
 ## maps@harvard.edu
 
