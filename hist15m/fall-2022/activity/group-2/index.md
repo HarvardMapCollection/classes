@@ -10,7 +10,7 @@ Be ready to introduce this tool to the class, guided by these prompts:
 
 1. Visit [the class demo Google Site](https://sites.google.com/d/19KJuVpOkKEktZgLpME57kdZ6SubSUct_/p/1AcnhlngBK9JMS_SQI9eI8KfcLhY-Nf7p/edit).
 
-2. As a group, work together to add content blocks. Add sections for each location of interest, including text, photos, and an embedded map.
+2. As a group, work together to add content blocks. Add sections for each location of interest, including text, photos, and an embedded map. You can pull content from the [class spreadsheet](https://docs.google.com/spreadsheets/d/1IvlEkqBaVNtLMNVdUe8GkGnERyabTzvOVqINw9pllOs/edit#gid=0).
 
 > If you need help figuring out how to set up the page, you can visit the Google Support documentation, [Getting Started with Sites](https://support.google.com/a/users/answer/9310491?hl=en).
 
