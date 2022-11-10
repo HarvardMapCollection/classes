@@ -1,7 +1,5 @@
 # Introduction to GIS
 
-test
-
 ![Final map](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/the-map.png)
 
 ![Screenshot of a slide defining GIS as Geographic Information Science or Systems, and discussing how it can be methods, data, or tools](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/GIS-intro.png)
