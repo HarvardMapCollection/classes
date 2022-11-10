@@ -26,3 +26,5 @@ Example topics we help with mapping:
 - rising sea levels
 - access to health care
 - colonialism and land dispossession
+
+![Example google my maps with points of interest](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/google-my-maps.png)
