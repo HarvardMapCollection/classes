@@ -1,7 +1,5 @@
 # HIST 15M
-
-## Bit.ly for this page
-<p style="font-size:32px;">https://bit.ly/3TqN58Y</p>
+<p style="font-size:36px;">https://bit.ly/3TqN58Y</p>
 
 [Lecture](https://harvardmapcollection.github.io/classes/hist15m/fall-2022/lecture/)
 
