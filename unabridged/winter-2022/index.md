@@ -2,17 +2,17 @@
 
 ## Do I need geospatial data?
 
-![QGIS screenshot of the maps underlying data table](media/table.png)
+![QGIS screenshot of the maps underlying data table](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/table.png)
 
-![Social Explorer screen recording of exporting a map as a .PNG](media/png.gif)
+![Social Explorer screen recording of exporting a map as a .PNG](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/png.gif)
 
-![Example census map that required downloading the data](media/example.png)
+![Example census map that required downloading the data](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/example.png)
 _Map created from [the PointsUnknown tutorial series](https://pointsunknown.nyc/tutorial_list/), a great way to get started learning how to make maps._
 
 
 ## Planning ahead
 
-![Photograph of the Harvard Map Collections](media/map-collection.png)
+![Photograph of the Harvard Map Collections](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/map-collection.png)
 
 - Belle Lipton
 - GIS Outreach Librarian
