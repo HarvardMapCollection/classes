@@ -12,3 +12,7 @@
 ![John Snow map with a modern GIS heatmap overlaid on top](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/snow-gis.png)
 
 ![Image showing examples of points, lines, and polygons](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/points-lines-polygons.jpeg)
+
+![Example of a points dataset, old growth trees in Washington State loaded into desktop GIS, QGIS](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/old-growth-trees.png)
+
+![Back end table of the trees points dataset, showing each row is a tree, and each column is an attribute about the tree](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/trees-table.png)
