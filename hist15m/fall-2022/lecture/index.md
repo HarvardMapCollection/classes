@@ -70,8 +70,6 @@ Example topics we help with mapping:
 
 ## Resources
 
-[Accessibility in Map Design](https://www.youtube.com/watch?v=ArSdo1tfgxk) - Video ~ 17 minutes
-
 [Making Maps Accessible](https://www.youtube.com/watch?v=FVT8WX5he0A) - Video ~ 9 minutes
 
 [Map Accessibility](https://mn.gov/mnit/about-mnit/accessibility/maps/) - Webpage with tips and guidelines
