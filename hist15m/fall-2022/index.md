@@ -1,4 +1,5 @@
 # HIST 15M
+
 <p style="font-size:36px;">https://bit.ly/3TqN58Y</p>
 
 [Lecture](https://harvardmapcollection.github.io/classes/hist15m/fall-2022/lecture/)

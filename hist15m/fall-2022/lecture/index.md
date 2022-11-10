@@ -79,3 +79,5 @@ Example topics we help with mapping:
 [Color Contrast Checker](https://www.tpgi.com/color-contrast-checker/) - Tool for comparing colors
 
 ## maps@harvard.edu
+
+[Class activity](https://harvardmapcollection.github.io/classes/hist15m/fall-2022/)
