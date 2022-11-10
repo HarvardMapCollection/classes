@@ -16,3 +16,13 @@
 ![Example of a points dataset, old growth trees in Washington State loaded into desktop GIS, QGIS](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/old-growth-trees.png)
 
 ![Back end table of the trees points dataset, showing each row is a tree, and each column is an attribute about the tree](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/trees-table.png)
+
+![Screenshot of our webpage listing our services](team-support.png)
+
+## Support team
+
+Example topics we help with mapping:
+- gentrification
+- rising sea levels
+- access to health care
+- colonialism and land dispossession
