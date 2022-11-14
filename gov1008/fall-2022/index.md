@@ -1,8 +1,8 @@
 # GIS support from the Harvard Map Collection
 
-![photograph of 8 historic map sheets laid out on a table in the map collection](/https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/venice.jpg)
+![photograph of 8 historic map sheets laid out on a table in the map collection](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/venice.jpg)
 
-![screenshot of a map of venice showing an old map with datasets of sea level change and building outlines layered on top](/https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/spatial-analysis.png)
+![screenshot of a map of venice showing an old map with datasets of sea level change and building outlines layered on top](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/spatial-analysis.png)
 
 ![screenshot of a white population demographic map of chicago with dots to indicate the location of 9-1-1 infrastructure](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/levin.png)
 
