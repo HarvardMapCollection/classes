@@ -14,7 +14,7 @@
 
 [HIST 15M - Disability in American History](https://harvardmapcollection.github.io/classes/hist15m/)
 
-[Native American and Indigenous Studies Working Group](https://harvardmapcollection.github.io/classes/naiswg/)
+[Native American and Indigenous Studies Working Group](https://docs.google.com/presentation/d/1Dx3xOO3MgzbJBVH7GPMnUmYLuAZG8P5CXML7XPUNiPo/edit?usp=sharing)
 
 [Unabridged](https://harvardmapcollection.github.io/classes/unabridged/winter-2022/)
 
