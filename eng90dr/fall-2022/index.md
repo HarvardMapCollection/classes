@@ -1,6 +1,6 @@
 # Harvard Map Collection 
 
-## HMC services
+## Services
 
 ![Photograph of the Map Collection with picture of a globe and big tables](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/map-collection.png)
 
@@ -12,7 +12,7 @@
 ![Screenshot from Harvard online library catalog](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/climate-reactions.png)
 *Record from  [Harvard Map Collection card catalog](https://iiif.lib.harvard.edu/manifests/view/drs:45555303$402i).* 
 
-## Data formats
+## Formats
 
 McIntyre from Allmaps
 
@@ -20,11 +20,11 @@ Tilelinks from Atlascope
 
 Data modeling
 
-## Geospatial concepts
+## Concepts
 
-Leo's project
+Leo
 
-## Data landscape
+## Landscape
 
 ![Screen recording panning through the Library of Missing Datasets art installation, showing filing cabinets of datasets that do not exist.](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/onuoha.gif)
 *[The Library of Missing Datasets](https://mimionuoha.com/the-library-of-missing-datasets) by Mimi Ọnụọha.* 
