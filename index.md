@@ -8,6 +8,8 @@
 
 [ENG 90LN - Harvard and Native Lands](https://harvardmapcollection.github.io/classes/eng90ln/)
 
+[ENG 90DR - Digital Race Studies](https://harvardmapcollection.github.io/classes/eng90dr/)
+
 [GENED 1140 - Borders](https://harvardmapcollection.github.io/classes/gened1140/)
 
 [GOV 1008 - Introduction to Geographic Information Systems](https://harvardmapcollection.github.io/classes/gov1008/)
