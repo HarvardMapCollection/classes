@@ -14,15 +14,25 @@
 
 ## Formats
 
-McIntyre from Allmaps
+![Screen recording showing the tutorial for using Harvard Digital Collections in AllMaps](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/allmaps-guide.gif)
+*[Tutorial](https://harvardmapcollection.github.io/tutorials/allmaps/georeference/) for how to use Harvard Libraries ][digital collections items](https://library.harvard.edu/digital-collections) in [Allmaps](https://editor.allmaps.org/#/)*
 
-Tilelinks from Atlascope
+![Screenshot of Storiiies homepage](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/storiiies.png)
 
-Data modeling
+
+![Screen capture of Belle helping a researcher figure out how to get data in different formats on a Zoom call (with Atlascope maps in the background)](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/finding-tiles.png)
+*Working with [19th century map layers of Boston](https://atlascope.leventhalmap.org/#view:share$base:000$overlay:39999059010718$zoom:18.58$center:-7914696.636805333,5210508.468195375$mode:glass$pos:148).*
+
+![Screenshot of table of data showing notable locations in Boston's Black history](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/mbb-pois.png)
+
 
 ## Concepts
 
-Leo
+![Screenshot of the ancestral characteristics of modern populations dataset](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/folklore.png)
+*[Ancestral characteristics of Modern Populations](https://scholar.harvard.edu/nunn/publications/ancestral-characteristics-modern-populations) dataset.*
+
+![Map showing language groups in Liberia and how they don't exactly match up with electoral districts](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/saenger.png)
+*Map by Leo Saenger, applied mathematics.*
 
 ## Landscape
 
