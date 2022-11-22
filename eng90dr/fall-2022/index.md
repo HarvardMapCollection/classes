@@ -15,7 +15,7 @@
 ## Formats
 
 ![Screen recording showing the tutorial for using Harvard Digital Collections in AllMaps](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/allmaps-guide.gif)
-*[Tutorial](https://harvardmapcollection.github.io/tutorials/allmaps/georeference/) for how to use Harvard Libraries ][digital collections items](https://library.harvard.edu/digital-collections) in [Allmaps](https://editor.allmaps.org/#/)*
+*[Tutorial](https://harvardmapcollection.github.io/tutorials/allmaps/georeference/) for how to use Harvard Libraries [digital collections items](https://library.harvard.edu/digital-collections) in [Allmaps](https://editor.allmaps.org/#/)*
 
 ![Screenshot of Storiiies homepage](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/storiiies.png)
 
