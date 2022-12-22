@@ -52,3 +52,22 @@
 ![Screenshot from Harvard online library catalog](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/climate-reactions.png)
 *Record from  [Harvard Map Collection card catalog](https://iiif.lib.harvard.edu/manifests/view/drs:45555303$402i).* 
 
+## Services and Resources
+
+![GIF of available QGIS guides on various topics](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/tutorials-pub.gif)
+_The Harvard Map Collection maintains a series of [tutorials, guides, and updates](https://gis-harvard.pubpub.org/) about mapmaking._
+
+![Screen grab of GIS Research Data Management workshop March of 2023](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/rdm-workshop.png)
+_We offer workshops available via the [library events calendar](https://libcal.library.harvard.edu/calendar/main?cid=15049&t=d&d=0000-00-00&cal=15049&inc=0)._
+
+
+![Screenshot of event information for weekly GIS Office hours](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/office-hours.png)
+_Join us for [GIS Office Hours](https://libcal.library.harvard.edu/calendar/main?t=d&q=GIS%20Office%20Hours&cid=15049&cal=15049&inc=0)._
+
+
+![Screen recording of using the Harvard Map Collection website to make a one-on-one appointment](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/appointment-hmc.gif)
+_For in-depth one-on-one consultations make an appointment frome the [Harvard Map Colletion Website](https://library.harvard.edu/libraries/harvard-map-collection)._
+
+## maps@harvard.edu
+
+For any questions, you can contact us at [maps@harvard.edu](mailto:maps@harvard.edu).
