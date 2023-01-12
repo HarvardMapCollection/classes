@@ -1,5 +1,7 @@
 # Course Materials
 
+[ANTHRO 2030: Quantitative Archaeology](https://harvardmapcollection.github.io/classes/anthro2030/)
+
 [CGA Institute](https://harvardmapcollection.github.io/classes/cga-institute/)
 
 [DPI 851M - Data and Information Visualization](https://harvardmapcollection.github.io/classes/dpi851m/)
