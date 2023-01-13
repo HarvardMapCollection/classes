@@ -36,12 +36,12 @@ EXAMPLE TOPO
 ![Screen recording of LandgrabU scrollytelling interactive](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/landgrabu.gif)
 *Land-Grab Univerisities interactive digital project.*
 
-![Screenshot of Landgrabu project Github page](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/landgradbu-github.png)
+![Screenshot of Landgrabu project Github page](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/landgrabu-github.png)
 *LandGrabU's Github with data context.*
 
 ![Infographic with logos for many different GIS software](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/gis-logos.png)
 
-![](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/workshops-website.png)
+![Screencapture of library website showing workshop offerings](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/workshops-website.png)
 
 *Spring 2023 workshop offerings. Registration via the [Harvard Library Events calendar](https://libcal.library.harvard.edu/calendar/main?t=d&q=gis&cid=15049&cal=15049&inc=0).*
 
