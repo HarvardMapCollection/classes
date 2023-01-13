@@ -23,36 +23,33 @@ EXAMPLE TOPO
 *[Global volcanoes dataset](https://hgl.harvard.edu/catalog/harvard-glb-volc) in the Harvard Geospatial Library (HGL).* 
 
 ![Two side by side images of GIS data on the moon](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/moon-shadow.png)
-*Lunar datasets showing shadowing and sunlight*
+*Lunar datasets showing shadowing and sunlight.*
 
 ## Workshops
 
-![](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/mapping-inequality.gif)
-*mapping inequality*
+![Screen recording exploring redlining maps on Mapping Inequality website](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/mapping-inequality.gif)
+*Mapping Inequality project via the University of Richmond's Digital Scholarship Lab.*
 
-![](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/mapping-inequality-gh.png)
-*mapping inequality GH*
+![About page of Mapping Inequality pointing to Github](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/mapping-inequality-gh.png)
+*Mapping Inequality's data context.*
 
-![](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/landgrabu.gif)
-*landgrabu*
+![Screen recording of LandgrabU scrollytelling interactive](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/landgrabu.gif)
+*Land-Grab Univerisities interactive digital project.*
 
-![](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/landgradbu-github.png)
-*landgrabu GH*
+![Screenshot of Landgrabu project Github page](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/landgradbu-github.png)
+*LandGrabU's Github with data context.*
 
-![](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/gis-logos.png)
-*tool logos*
+![Infographic with logos for many different GIS software](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/gis-logos.png)
 
 ![](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/workshops-website.png)
-*workshop pics*
+*Spring 2023 workshop offerings. Registration via the [Harvard Library Events calendar](https://libcal.library.harvard.edu/calendar/main?t=d&q=gis&cid=15049&cal=15049&inc=0).*
 
 
 ## Office hours
 
 ![](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/illegal-mining.png)
-*luisa maps*
+*Map created by [Luisa Shido]().*
 
-![Picture of Lamont 310, a computer lab](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/310.png)
-*[GIS Office hours](https://libcal.library.harvard.edu/calendar/main?t=d&q=GIS%20office%20hours&cid=15049&cal=15049&inc=0) are in Lamont 310.*
 
 ## maps@harvard.edu
 
