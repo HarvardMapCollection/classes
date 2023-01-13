@@ -29,21 +29,19 @@
 *[Global volcanoes dataset](https://hgl.harvard.edu/catalog/harvard-glb-volc) in the Harvard Geospatial Library (HGL).* 
 
 ![Two side by side images of GIS data on the moon](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/moon-shadow.png)
-*Lunar datasets showing shadowing and sunlight.*
+
 
 ## Workshops
 
 ![Screen recording exploring redlining maps on Mapping Inequality website](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/mapping-inequality.gif)
-*Mapping Inequality project via the University of Richmond's Digital Scholarship Lab.*
+*[Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/#loc=5/39.1/-94.58) project via the University of Richmond's Digital Scholarship Lab.*
 
 ![About page of Mapping Inequality pointing to Github](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/mapping-inequality-gh.png)
-*Mapping Inequality's data context.*
 
 ![Screen recording of LandgrabU scrollytelling interactive](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/landgrabu.gif)
-*Land-Grab Univerisities interactive digital project.*
+*[Land-Grab Univerisities](https://www.landgrabu.org/) interactive digital project.*
 
 ![Screenshot of Landgrabu project Github page](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/landgrabu-github.png)
-*LandGrabU's Github with data context.*
 
 ![Infographic with logos for many different GIS software](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/gis-logos.png)
 
