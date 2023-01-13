@@ -5,13 +5,13 @@
 ![Animation of flipping through a folder of old maps of Havana in the Map Collection](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/havana1.gif)
 *Historic maps of Havana in the Harvard Map Collection*
 
-![Topographic map of India, 1973](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/topo-india-1973.png)
+![Topographic map of India, 1973](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/topo-india-73.png)
 
-![Topographic map legend for India, 1973](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/topo-india-1973-legend.png)
+![Topographic map legend for India, 1973](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/topo-india-73-legend.png)
 
-![Topographic map of Jordan, 1991](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/topo-jordan-1991.png)
+![Topographic map of Jordan, 1991](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/topo-jordan-91.png)
 
-![Topographic map legend for Jordan, 1991](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/topo-jordan-1991-legend.png)
+![Topographic map legend for Jordan, 1991](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/topo-jordan-91-legend.png)
 
 ![Photograph of a 1909 map of land use in New Orleans](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/landuse.png)
 *Land cover map of Louisiana from 1909 in the Harvard Map Collection.*
