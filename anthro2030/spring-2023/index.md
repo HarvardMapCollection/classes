@@ -47,8 +47,8 @@ EXAMPLE TOPO
 
 ## Office hours
 
-![](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/illegal-mining.png)
-*Map created by [Luisa Shido]().*
+![Map of South America showing illegal mining activity](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/illegal-mining.png)
+*Map created by Luisa Shido.*
 
 
 ## maps@harvard.edu
