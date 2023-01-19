@@ -80,7 +80,7 @@
 ![Screenshot from 1880 census](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/1880-census.png)
 *1880 census from [Archive.org](https://archive.org/details/10thcensus0561unit/page/n45/mode/2up?view=theater).* 
 
-![Comparison of 1890 atlas to today](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/swipe.png)
+![Comparison of 1890 atlas to today](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/spyglass-arcgis.gif)
 *[ArcGIS Map](https://harvard-cga.maps.arcgis.com/apps/webappviewer/index.html?id=4f084606c3f64df8a32ce2ad938a43f6) comparing 1890 atlas to today.* 
 
 ![Screenshot of the final project assignment prompt](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/final-project.png)
