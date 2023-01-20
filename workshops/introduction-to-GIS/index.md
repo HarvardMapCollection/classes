@@ -15,7 +15,7 @@
 ## Hex codes 
 `#e0f3db` 
 
-## Long-form assignment
+## Follow-along workshop steps
 [Tutorial version](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/)
 
 ## Survey
