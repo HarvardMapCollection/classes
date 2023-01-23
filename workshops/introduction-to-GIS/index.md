@@ -16,7 +16,7 @@
 `#e0f3db` 
 
 ## Follow-along workshop steps
-[Tutorial version](https://harvardmapcollection.github.io/classes/gened1140/fall-2022/assignment/)
+[Tutorial version](https://mapping.share.library.harvard.edu/resources/new-to-gis/workshop/)
 
 ## Survey
 [Post-workshop survey](https://harvard.az1.qualtrics.com/jfe/form/SV_8vRE6gtTYybRy5M)
