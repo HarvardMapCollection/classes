@@ -56,6 +56,12 @@
 
 *Map created by Luisa Shido.*
 
+## Tutorials and project examples
+
+![Screen recording of a website with lots of helpful resources](https://raw.githubusercontent.com/HarvardMapCollection/classes/main/media/guides-share.gif)
+
+*[Tutorials and blog website](https://mapping.share.library.harvard.edu/).*
+
 
 ## maps@harvard.edu
 
